@@ -2106,7 +2106,7 @@
     "attrLvlNum": [
       12863.6
     ],
-    "Icon": "15755866395",
+    "Icon": "16562788008",
     "lvNeed": 160,
     "attr": [
       1
@@ -2115,13 +2115,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Blood Sword",
+    "ZhName": "Sabre",
     "SellCount": [
       45
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_1_1",
+    "Model": "剑33_1_1",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2147,7 +2147,7 @@
     "attrLvlNum": [
       25727.2
     ],
-    "Icon": "15755866395",
+    "Icon": "16562788008",
     "lvNeed": 160,
     "attr": [
       1
@@ -2156,13 +2156,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Blood Sword",
+    "ZhName": "Sabre",
     "SellCount": [
       90
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_1_1",
+    "Model": "剑33_1_1",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2188,7 +2188,7 @@
     "attrLvlNum": [
       51454.5
     ],
-    "Icon": "15755866395",
+    "Icon": "16562788008",
     "lvNeed": 160,
     "attr": [
       1
@@ -2197,13 +2197,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Blood Sword",
+    "ZhName": "Sabre",
     "SellCount": [
       135
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_1_1",
+    "Model": "剑33_1_1",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2229,7 +2229,7 @@
     "attrLvlNum": [
       102908.9
     ],
-    "Icon": "15755844862",
+    "Icon": "16562787865",
     "lvNeed": 160,
     "attr": [
       1
@@ -2238,13 +2238,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Sonic Nichirin",
+    "ZhName": "Phoenix Fury Sabre",
     "SellCount": [
       360
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_1_2",
+    "Model": "剑33_1_2",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2270,7 +2270,7 @@
     "attrLvlNum": [
       205817.9
     ],
-    "Icon": "15755844862",
+    "Icon": "16562787865",
     "lvNeed": 160,
     "attr": [
       1
@@ -2279,13 +2279,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Sonic Nichirin",
+    "ZhName": "Phoenix Fury Sabre",
     "SellCount": [
       450
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_1_2",
+    "Model": "剑33_1_2",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2311,7 +2311,7 @@
     "attrLvlNum": [
       46336.6
     ],
-    "Icon": "15755845233",
+    "Icon": "16562787755",
     "lvNeed": 180,
     "attr": [
       1
@@ -2320,13 +2320,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Beast Nichirin",
+    "ZhName": "Duskbane Broadsword",
     "SellCount": [
       50
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_2_1",
+    "Model": "剑33_2_1",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2352,7 +2352,7 @@
     "attrLvlNum": [
       92673.2
     ],
-    "Icon": "15755845233",
+    "Icon": "16562787755",
     "lvNeed": 180,
     "attr": [
       1
@@ -2361,13 +2361,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Beast Nichirin",
+    "ZhName": "Duskbane Broadsword",
     "SellCount": [
       100
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_2_1",
+    "Model": "剑33_2_1",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2393,7 +2393,7 @@
     "attrLvlNum": [
       185346.3
     ],
-    "Icon": "15755845233",
+    "Icon": "16562787755",
     "lvNeed": 180,
     "attr": [
       1
@@ -2402,13 +2402,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Beast Nichirin",
+    "ZhName": "Duskbane Broadsword",
     "SellCount": [
       150
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_2_1",
+    "Model": "剑33_2_1",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2434,7 +2434,7 @@
     "attrLvlNum": [
       370692.7
     ],
-    "Icon": "15755844716",
+    "Icon": "16562787660",
     "lvNeed": 180,
     "attr": [
       1
@@ -2443,13 +2443,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Lover Nichirin",
+    "ZhName": "Astral Essence Blade",
     "SellCount": [
       400
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_2_2",
+    "Model": "剑33_2_2",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -2475,7 +2475,7 @@
     "attrLvlNum": [
       741385.4
     ],
-    "Icon": "15755844716",
+    "Icon": "16562787660",
     "lvNeed": 180,
     "attr": [
       1
@@ -2484,13 +2484,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Lover Nichirin",
+    "ZhName": "Astral Essence Blade",
     "SellCount": [
       500
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "剑3_2_2",
+    "Model": "剑33_2_2",
     "weaponTp": 1,
     "attrLvl": [
       1
@@ -4894,7 +4894,7 @@
     "attrLvlNum": [
       14150
     ],
-    "Icon": "15755886855",
+    "Icon": "16562699410",
     "lvNeed": 160,
     "attr": [
       1
@@ -4903,7 +4903,7 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Evil Eyes",
+    "ZhName": "Celestial Surge Gloves",
     "SellCount": [
       45
     ],
@@ -4935,7 +4935,7 @@
     "attrLvlNum": [
       28300
     ],
-    "Icon": "15755886855",
+    "Icon": "16562699410",
     "lvNeed": 160,
     "attr": [
       1
@@ -4944,13 +4944,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Evil Eyes",
+    "ZhName": "Celestial Surge Gloves",
     "SellCount": [
       90
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_1_1",
+    "Model": "拳套33_1_1",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -4976,7 +4976,7 @@
     "attrLvlNum": [
       56599.9
     ],
-    "Icon": "15755886855",
+    "Icon": "16562699410",
     "lvNeed": 160,
     "attr": [
       1
@@ -4985,13 +4985,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Evil Eyes",
+    "ZhName": "Celestial Surge Gloves",
     "SellCount": [
       135
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_1_1",
+    "Model": "拳套33_1_1",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5017,7 +5017,7 @@
     "attrLvlNum": [
       113199.8
     ],
-    "Icon": "15755868626",
+    "Icon": "16562699206",
     "lvNeed": 160,
     "attr": [
       1
@@ -5026,13 +5026,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Dust Punch",
+    "ZhName": "Strike Knuckles",
     "SellCount": [
       360
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_1_2",
+    "Model": "拳套33_1_2",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5058,7 +5058,7 @@
     "attrLvlNum": [
       226399.6
     ],
-    "Icon": "15755868626",
+    "Icon": "16562699206",
     "lvNeed": 160,
     "attr": [
       1
@@ -5067,13 +5067,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Dust Punch",
+    "ZhName": "Strike Knuckles",
     "SellCount": [
       450
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_1_2",
+    "Model": "拳套33_1_2",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5099,7 +5099,7 @@
     "attrLvlNum": [
       50970.2
     ],
-    "Icon": "15755869064",
+    "Icon": "16562699032",
     "lvNeed": 180,
     "attr": [
       1
@@ -5108,13 +5108,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Curse Punch",
+    "ZhName": "Impact Gauntlets",
     "SellCount": [
       50
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_2_1",
+    "Model": "拳套33_2_1",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5140,7 +5140,7 @@
     "attrLvlNum": [
       101940.5
     ],
-    "Icon": "15755869064",
+    "Icon": "16562699032",
     "lvNeed": 180,
     "attr": [
       1
@@ -5149,13 +5149,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Curse Punch",
+    "ZhName": "Impact Gauntlets",
     "SellCount": [
       100
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_2_1",
+    "Model": "拳套33_2_1",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5181,7 +5181,7 @@
     "attrLvlNum": [
       203881
     ],
-    "Icon": "15755869064",
+    "Icon": "16562699032",
     "lvNeed": 180,
     "attr": [
       1
@@ -5190,13 +5190,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Curse Punch",
+    "ZhName": "Impact Gauntlets",
     "SellCount": [
       150
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_2_1",
+    "Model": "拳套33_2_1",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5222,7 +5222,7 @@
     "attrLvlNum": [
       407762
     ],
-    "Icon": "15755868491",
+    "Icon": "16562698886",
     "lvNeed": 180,
     "attr": [
       1
@@ -5231,13 +5231,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Vajra Gloves",
+    "ZhName": "Inferno Gauntlets",
     "SellCount": [
       400
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_2_2",
+    "Model": "拳套33_2_2",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -5263,7 +5263,7 @@
     "attrLvlNum": [
       815523.9
     ],
-    "Icon": "15755868491",
+    "Icon": "16562698886",
     "lvNeed": 180,
     "attr": [
       1
@@ -5272,13 +5272,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Vajra Gloves",
+    "ZhName": "Inferno Gauntlets",
     "SellCount": [
       500
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "拳套3_2_2",
+    "Model": "拳套33_2_2",
     "weaponTp": 2,
     "attrLvl": [
       1
@@ -7682,7 +7682,7 @@
     "attrLvlNum": [
       11577.2
     ],
-    "Icon": "15765657145",
+    "Icon": "16562763960",
     "lvNeed": 160,
     "attr": [
       1
@@ -7691,13 +7691,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Rapid Charger",
+    "ZhName": "Emberburst Pistol",
     "SellCount": [
       45
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_1_1",
+    "Model": "枪33_1_1",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7723,7 +7723,7 @@
     "attrLvlNum": [
       23154.5
     ],
-    "Icon": "15765657145",
+    "Icon": "16562763960",
     "lvNeed": 160,
     "attr": [
       1
@@ -7732,13 +7732,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Rapid Charger",
+    "ZhName": "Emberburst Pistol",
     "SellCount": [
       90
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_1_1",
+    "Model": "枪33_1_1",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7764,7 +7764,7 @@
     "attrLvlNum": [
       46309
     ],
-    "Icon": "15765657145",
+    "Icon": "16562763960",
     "lvNeed": 160,
     "attr": [
       1
@@ -7773,13 +7773,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Rapid Charger",
+    "ZhName": "Emberburst Pistol",
     "SellCount": [
       135
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_1_1",
+    "Model": "枪33_1_1",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7805,7 +7805,7 @@
     "attrLvlNum": [
       92618
     ],
-    "Icon": "15765656956",
+    "Icon": "16562763792",
     "lvNeed": 160,
     "attr": [
       1
@@ -7814,13 +7814,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Northpiece Auto Gun",
+    "ZhName": "Duskbane Revolver",
     "SellCount": [
       360
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_1_2",
+    "Model": "枪33_1_2",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7846,7 +7846,7 @@
     "attrLvlNum": [
       185236.1
     ],
-    "Icon": "15765656956",
+    "Icon": "16562763792",
     "lvNeed": 160,
     "attr": [
       1
@@ -7855,13 +7855,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Northpiece Auto Gun",
+    "ZhName": "Duskbane Revolver",
     "SellCount": [
       450
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_1_2",
+    "Model": "枪33_1_2",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7887,7 +7887,7 @@
     "attrLvlNum": [
       41702.9
     ],
-    "Icon": "15765656640",
+    "Icon": "16562763628",
     "lvNeed": 180,
     "attr": [
       1
@@ -7896,13 +7896,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "I-Stream",
+    "ZhName": "Astral Nova Handgun",
     "SellCount": [
       50
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_2_1",
+    "Model": "枪33_2_1",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7928,7 +7928,7 @@
     "attrLvlNum": [
       83405.9
     ],
-    "Icon": "15765656640",
+    "Icon": "16562763628",
     "lvNeed": 180,
     "attr": [
       1
@@ -7937,13 +7937,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "I-Stream",
+    "ZhName": "Astral Nova Handgun",
     "SellCount": [
       100
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_2_1",
+    "Model": "枪33_2_1",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -7969,7 +7969,7 @@
     "attrLvlNum": [
       166811.7
     ],
-    "Icon": "15765656640",
+    "Icon": "16562763628",
     "lvNeed": 180,
     "attr": [
       1
@@ -7978,13 +7978,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "I-Stream",
+    "ZhName": "Astral Nova Handgun",
     "SellCount": [
       150
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_2_1",
+    "Model": "枪33_2_1",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -8010,7 +8010,7 @@
     "attrLvlNum": [
       333623.4
     ],
-    "Icon": "15765656411",
+    "Icon": "16562763400",
     "lvNeed": 180,
     "attr": [
       1
@@ -8019,13 +8019,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Fleet Auto Gun",
+    "ZhName": "Starfall Blaster",
     "SellCount": [
       400
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_2_2",
+    "Model": "枪33_2_2",
     "weaponTp": 3,
     "attrLvl": [
       1
@@ -8051,7 +8051,7 @@
     "attrLvlNum": [
       667246.9
     ],
-    "Icon": "15765656411",
+    "Icon": "16562763400",
     "lvNeed": 180,
     "attr": [
       1
@@ -8060,13 +8060,13 @@
       1
     ],
     "tp": 2,
-    "ZhName": "Fleet Auto Gun",
+    "ZhName": "Starfall Blaster",
     "SellCount": [
       500
     ],
     "HitSound": "受击_中小型锋利类",
     "HoldWeaponType": "手持单手剑",
-    "Model": "枪3_2_2",
+    "Model": "枪33_2_2",
     "weaponTp": 3,
     "attrLvl": [
       1

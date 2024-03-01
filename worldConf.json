@@ -8,5 +8,15 @@
     "ZhName": "Piece World",
     "worldID": 2,
     "NeedLv": 60
+  },
+  {
+    "ZhName": "鬼灭世界",
+    "worldID": 3,
+    "NeedLv": 160
+  },
+  {
+    "ZhName": "PVP",
+    "worldID": 1000,
+    "NeedLv": 40
   }
 ]

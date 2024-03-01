@@ -1,82 +1,158 @@
 [
   {
-    "ZhName": "Rich",
-    "icon": "💰",
-    "des": "+%s Money"
+    "ZhName": "Strength Ι",
+    "des": "+%s Hero Attack"
   },
   {
-    "ZhName": "Strong",
-    "icon": "⚔️",
-    "des": "+%s Damage"
+    "ZhName": "Strength Ⅱ",
+    "des": "+%s Hero Attack"
   },
   {
-    "ZhName": "Energy",
-    "icon": "🔥",
-    "des": "+%s Power"
+    "ZhName": "Strength Ⅲ",
+    "des": "+%s Hero Attack"
   },
   {
-    "ZhName": "Smite",
-    "icon": "💥",
+    "ZhName": "Luck Ι",
+    "des": "+%s Loot Chance"
+  },
+  {
+    "ZhName": "Luck Ⅱ",
+    "des": "+%s Loot Chance"
+  },
+  {
+    "ZhName": "Luck Ⅲ",
+    "des": "+%s Loot Chance"
+  },
+  {
+    "ZhName": "Deadly Ι",
+    "des": "+%s Hero Critical Damage"
+  },
+  {
+    "ZhName": "Deadly Ⅱ",
+    "des": "+%s Hero Critical Damage"
+  },
+  {
+    "ZhName": "Rapid Chanting Ι",
+    "des": "-%s Hero SPA"
+  },
+  {
+    "ZhName": "Rapid Chanting Ⅱ",
+    "des": "-%s Hero SPA"
+  },
+  {
+    "ZhName": "Enormous",
+    "des": "+%s Hero Attack|+%s Hero Size"
+  },
+  {
+    "ZhName": "Miniature",
+    "des": "%s Hero Size|+%s Hero Attack "
+  },
+  {
+    "ZhName": "Stalwart",
+    "des": "+%s HP"
+  },
+  {
+    "ZhName": "Healer",
+    "des": "Returns %s of life every 5 seconds"
+  },
+  {
+    "ZhName": "Sharp",
+    "des": "+%s Attack"
+  },
+  {
+    "ZhName": "Resist",
+    "des": "+%s Defense"
+  },
+  {
+    "ZhName": "Titan",
+    "des": "+%s Hero Size|+%s Hero Attack "
+  },
+  {
+    "ZhName": "Bard",
+    "des": "+%s HP|+%s Defense|+%s Attack"
+  },
+  {
+    "ZhName": "Sovereign",
+    "des": "+%s Hero Critical Damage|+%s Hero Attack|-%s Hero SPA"
+  },
+  {
+    "ZhName": "Speed Ι",
+    "des": "+%s Speed"
+  },
+  {
+    "ZhName": "Speed Ⅱ",
+    "des": "+%s Speed"
+  },
+  {
+    "ZhName": "Speed Ⅲ",
+    "des": "+%s Speed"
+  },
+  {
+    "ZhName": "Attake Ι",
+    "des": "+%s Weapon Attack"
+  },
+  {
+    "ZhName": "Attake Ⅱ",
+    "des": "+%s Weapon Attack"
+  },
+  {
+    "ZhName": "Attake Ⅲ",
+    "des": "+%s Weapon Attack"
+  },
+  {
+    "ZhName": "Iron Wall Ι",
+    "des": "+%s Defense"
+  },
+  {
+    "ZhName": "Iron Wall Ⅱ",
+    "des": "+%s Defense"
+  },
+  {
+    "ZhName": "Iron Wall Ⅲ",
+    "des": "+%s Defense"
+  },
+  {
+    "ZhName": "Identify Weakness Ι",
     "des": "+%s Critical"
   },
   {
-    "ZhName": "Destruction",
-    "icon": "☄️",
+    "ZhName": "Identify Weakness Ⅱ",
+    "des": "+%s Critical"
+  },
+  {
+    "ZhName": "Treasure Ι",
+    "des": "+%s Loot Chance"
+  },
+  {
+    "ZhName": "Treasure Ⅱ",
+    "des": "+%s Loot Chance"
+  },
+  {
+    "ZhName": "Impact",
+    "des": "+%s Weapon Attack"
+  },
+  {
+    "ZhName": "Ambush",
     "des": "+%s Critical Damage"
   },
   {
-    "ZhName": "Light",
-    "icon": "👟",
-    "des": "+%s Walk Speed"
+    "ZhName": "Destruction",
+    "des": "+%s Critical Damage|+%s Weapon Attack"
   },
   {
-    "ZhName": "Wisely",
-    "icon": "🧙",
-    "des": "+%s Power +%s Money"
+    "ZhName": "Agility",
+    "des": "+%s Speed|+%s Critical"
   },
   {
-    "ZhName": "Thunder",
-    "icon": "⚡",
-    "des": "+%s Damage +%s Critical"
+    "ZhName": "Resilience",
+    "des": "Returns %s of life every 5 seconds"
   },
   {
-    "ZhName": "Forging",
-    "icon": "🛠️",
-    "des": "Increase your luck with Hatch"
+    "ZhName": "Eternity",
+    "des": "+%s Defense|+%s HP|Returns %s of life every 5 seconds"
   },
   {
-    "ZhName": "Reform",
-    "icon": "🧰",
-    "des": "+%s Critical +%s Critical Damage"
-  },
-  {
-    "ZhName": "Royal",
-    "icon": "👑",
-    "des": "+%s Power +%s Money +%s Damage  +%s Critical +%s Critical Damage   +%s walk Speed"
-  },
-  {
-    "ZhName": "Fervor",
-    "icon": "❤🔥",
-    "des": "+%s Damage +%s Summer events damage"
-  },
-  {
-    "ZhName": "Sunshine",
-    "icon": "🌞",
-    "des": "+%s Power +%s Summer events damage"
-  },
-  {
-    "ZhName": "Cheer",
-    "icon": "🍻",
-    "des": "+%s Damage + %s Power +%s Summer events damage"
-  },
-  {
-    "ZhName": "Vacation",
-    "icon": "🏖️",
-    "des": "+%s Damage + %s Power +%s Summer events damage"
-  },
-  {
-    "ZhName": "Milk",
-    "icon": "🥛",
-    "des": "+%s Damage + %s Power +%s Summer events damage"
+    "ZhName": "Rampage",
+    "des": "+%s Critical Damage|+%s Speed|+%s Attack"
   }
 ]

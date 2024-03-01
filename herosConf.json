@@ -520,7 +520,7 @@
       43058,
       125597.85
     ],
-    "sp1_rate": "200",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -557,7 +557,7 @@
       43058,
       125597.85
     ],
-    "sp1_rate": "200",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -594,7 +594,7 @@
       43734.8,
       127571.85
     ],
-    "sp1_rate": "200",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -631,7 +631,7 @@
       44728.8,
       130469.5
     ],
-    "sp1_rate": "200",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -668,7 +668,7 @@
       45503.6,
       132729.45
     ],
-    "sp1_rate": "200",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -705,7 +705,7 @@
       46332.4,
       135147.6
     ],
-    "sp1_rate": "30",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -742,7 +742,7 @@
       47488.8,
       138520.2
     ],
-    "sp1_rate": "30",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -779,7 +779,7 @@
       48438,
       141288.7
     ],
-    "sp1_rate": "30",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -816,7 +816,7 @@
       49453.6,
       144251.1
     ],
-    "sp1_rate": "10",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -853,7 +853,7 @@
       50809.6,
       148206.1
     ],
-    "sp1_rate": "10",
+    "sp1_rate": "100",
     "Size": "",
     "SellItem": [
       1,
@@ -879,6 +879,78 @@
       6
     ],
     "sp23_rate": "10|10",
+    "FeedExp": 100000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000026": {
+    "xyd": 4,
+    "attrLvlNum": [
+      36918.48,
+      107684.584
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Shun",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 7,
+    "Model": "Solo主角_1",
+    "talentattrLvlNum": [
+      3
+    ],
+    "sp23_rate": "",
+    "FeedExp": 10000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000027": {
+    "xyd": 6,
+    "attrLvlNum": [
+      171986.16,
+      501627.35
+    ],
+    "sp1_rate": "500",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Shun(Darklord)",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000012
+    ],
+    "nor_rate": "0",
+    "upType": 8,
+    "Model": "Solo主角_2",
+    "talentattrLvlNum": [
+      6
+    ],
+    "sp23_rate": "30|30",
     "FeedExp": 100000,
     "talentattrLvl": [
       16

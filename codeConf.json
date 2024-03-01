@@ -64,5 +64,43 @@
     "rewardId": [
       2
     ]
+  },
+  {
+    "rewardNum": [
+      5,
+      5
+    ],
+    "codeType": 1,
+    "code": "ENCHANTINGUPDATE",
+    "endTime": 0,
+    "startTime": 1637510401,
+    "rewardId": [
+      6,
+      23
+    ]
+  },
+  {
+    "rewardNum": [
+      100
+    ],
+    "codeType": 1,
+    "code": "PVPUPDATE",
+    "endTime": 0,
+    "startTime": 1637510401,
+    "rewardId": [
+      18
+    ]
+  },
+  {
+    "rewardNum": [
+      300
+    ],
+    "codeType": 1,
+    "code": "NEWHERO",
+    "endTime": 0,
+    "startTime": 1637510401,
+    "rewardId": [
+      2
+    ]
   }
 ]

@@ -178,5 +178,20 @@
       1
     ],
     "HitRange": 20
+  },
+  "18000012": {
+    "HitNum": 2,
+    "PercentValue": [
+      1
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "暗影双龙",
+    "FixedValue": [
+      1
+    ],
+    "HitRange": 20
   }
 }

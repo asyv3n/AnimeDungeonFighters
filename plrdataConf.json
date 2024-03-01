@@ -1,202 +1,255 @@
 [
   {
+    "ZhName": "Attack",
+    "Tips": "攻击",
+    "PvpValue": 500,
+    "isShow": 1,
     "isTips": 1,
     "isPercent": 0,
     "HeroIcon": "14779406820",
-    "isShow": 1,
-    "ZhName": "Attack",
-    "Trans": 1,
     "Icon": "15164940185",
-    "Tips": "攻击"
+    "Trans": 1
   },
   {
-    "isTips": 1,
-    "isPercent": 0,
-    "HeroIcon": "14779406995",
-    "isShow": 1,
     "ZhName": "Defense",
-    "Trans": 1,
+    "Tips": "防御",
+    "PvpValue": 125,
+    "isShow": 1,
+    "isTips": 1,
+    "isPercent": 0,
+    "HeroIcon": "14779406995",
     "Icon": "15164939913",
-    "Tips": "防御"
+    "Trans": 1
   },
   {
+    "ZhName": "Health",
+    "Tips": "最大血量",
+    "PvpValue": 8000,
+    "isShow": 1,
     "isTips": 1,
     "isPercent": 0,
     "HeroIcon": "14779406820",
-    "isShow": 1,
-    "ZhName": "Health",
-    "Trans": 1,
     "Icon": "15164939518",
-    "Tips": "最大血量"
+    "Trans": 1
   },
   {
-    "isTips": 0,
-    "isPercent": 1,
-    "HeroIcon": "14779406995",
-    "isShow": 1,
     "ZhName": "Accuracy",
-    "Trans": 10000,
-    "Icon": "12525251166",
-    "Tips": "命中(0-10000)"
-  },
-  {
+    "Tips": "命中(0-10000)",
+    "PvpValue": 0,
+    "isShow": 1,
     "isTips": 0,
     "isPercent": 1,
-    "HeroIcon": "14779406820",
-    "isShow": 1,
+    "HeroIcon": "14779406995",
+    "Icon": "12525251166",
+    "Trans": 10000
+  },
+  {
     "ZhName": "Dodge",
-    "Trans": 10000,
+    "Tips": "闪避(万分比)",
+    "PvpValue": 0,
+    "isShow": 1,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "14779406820",
     "Icon": "12525251166",
-    "Tips": "闪避(万分比)"
+    "Trans": 10000
   },
   {
-    "isTips": 1,
-    "isPercent": 0,
-    "HeroIcon": "14779406995",
-    "isShow": 1,
     "ZhName": "Critical",
-    "Trans": 10000,
+    "Tips": "暴击率(万分比)",
+    "PvpValue": 3000,
+    "isShow": 1,
+    "isTips": 1,
+    "isPercent": 0,
+    "HeroIcon": "14779406995",
     "Icon": "15636562480",
-    "Tips": "暴击率(万分比)"
+    "Trans": 10000
   },
   {
+    "ZhName": "Critical Damage",
+    "Tips": "暴击伤害(万分比)",
+    "PvpValue": 0,
+    "isShow": 1,
     "isTips": 1,
     "isPercent": 1,
     "HeroIcon": "14779406995",
-    "isShow": 1,
-    "ZhName": "Critical Damage",
-    "Trans": 10000,
     "Icon": "12525251166",
-    "Tips": "暴击伤害(万分比)"
+    "Trans": 10000
   },
   {
+    "ZhName": "Critical Defence",
+    "Tips": "抗暴(万分比)",
+    "PvpValue": 3000,
+    "isShow": 1,
     "isTips": 0,
     "isPercent": 0,
     "HeroIcon": "14779406820",
-    "isShow": 1,
-    "ZhName": "Critical Defence",
-    "Trans": 10000,
     "Icon": "15164940030",
-    "Tips": "抗暴(万分比)"
+    "Trans": 10000
   },
   {
-    "isTips": 1,
-    "isPercent": 1,
-    "HeroIcon": "14779406995",
-    "isShow": 1,
     "ZhName": "Damage",
-    "Trans": 10000,
+    "Tips": "加伤害(万分比)",
+    "PvpValue": 0,
+    "isShow": 1,
+    "isTips": 1,
+    "isPercent": 1,
+    "HeroIcon": "14779406995",
     "Icon": "15164939611",
-    "Tips": "加伤害(万分比)"
+    "Trans": 10000
   },
   {
-    "isTips": 1,
-    "isPercent": 1,
-    "HeroIcon": "14779406820",
-    "isShow": 1,
     "ZhName": "Damage Taken",
-    "Trans": 10000,
+    "Tips": "减伤害(万分比)",
+    "PvpValue": 0,
+    "isShow": 1,
+    "isTips": 1,
+    "isPercent": 1,
+    "HeroIcon": "14779406820",
     "Icon": "15164939717",
-    "Tips": "减伤害(万分比)"
+    "Trans": 10000
   },
   {
+    "ZhName": "Speed",
+    "Tips": "移动速度(x0.1)",
+    "PvpValue": 0,
+    "isShow": 1,
     "isTips": 1,
     "isPercent": 1,
     "HeroIcon": "14779406995",
-    "isShow": 1,
-    "ZhName": "Speed",
-    "Trans": 10,
     "Icon": "12525251166",
-    "Tips": "移动速度(x0.1)"
+    "Trans": 10
   },
   {
-    "isTips": 0,
-    "isPercent": 1,
-    "HeroIcon": "14779406820",
-    "isShow": 1,
     "ZhName": "Luck",
-    "Trans": 100,
-    "Icon": "12525251166",
-    "Tips": "幸运(x0.01)"
-  },
-  {
-    "isTips": 0,
-    "isPercent": 1,
-    "HeroIcon": "14779406995",
+    "Tips": "幸运(x0.01)",
+    "PvpValue": 0,
     "isShow": 1,
-    "ZhName": "Money",
-    "Trans": 100,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "14779406820",
     "Icon": "12525251166",
-    "Tips": "金币加成(x0.01)"
+    "Trans": 100
   },
   {
+    "ZhName": "Money",
+    "Tips": "金币加成(x0.01)",
+    "PvpValue": 0,
+    "isShow": 1,
     "isTips": 0,
     "isPercent": 1,
-    "HeroIcon": "14779406820",
-    "isShow": 0,
+    "HeroIcon": "14779406995",
+    "Icon": "12525251166",
+    "Trans": 100
+  },
+  {
     "ZhName": "HP",
-    "Trans": 1,
-    "Icon": "15164939518",
-    "Tips": "当前血量"
-  },
-  {
+    "Tips": "当前血量",
+    "PvpValue": 0,
+    "isShow": 0,
     "isTips": 0,
     "isPercent": 1,
-    "HeroIcon": "14779406995",
-    "isShow": 0,
+    "HeroIcon": "14779406820",
+    "Icon": "15164939518",
+    "Trans": 1
+  },
+  {
     "ZhName": "Level Exp",
-    "Trans": 100,
+    "Tips": "经验加成",
+    "PvpValue": 0,
+    "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "14779406995",
     "Icon": "15510749634",
-    "Tips": "经验加成"
+    "Trans": 100
   },
   {
-    "isTips": 0,
-    "isPercent": 1,
-    "HeroIcon": "14779406820",
-    "isShow": 0,
     "ZhName": "Attack",
-    "Trans": 100,
-    "Icon": "15164940185",
-    "Tips": "百分比攻"
-  },
-  {
-    "isTips": 0,
-    "isPercent": 1,
-    "HeroIcon": "14779406995",
+    "Tips": "百分比攻",
+    "PvpValue": 0,
     "isShow": 0,
-    "ZhName": "Defence",
-    "Trans": 100,
-    "Icon": "15164939913",
-    "Tips": "百分比防"
-  },
-  {
     "isTips": 0,
     "isPercent": 1,
     "HeroIcon": "14779406820",
+    "Icon": "15164940185",
+    "Trans": 100
+  },
+  {
+    "ZhName": "Defence",
+    "Tips": "百分比防",
+    "PvpValue": 0,
     "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "14779406995",
+    "Icon": "15164939913",
+    "Trans": 100
+  },
+  {
     "ZhName": "Health",
-    "Trans": 100,
+    "Tips": "百分比血",
+    "PvpValue": 0,
+    "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "14779406820",
     "Icon": "15164939518",
-    "Tips": "百分比血"
+    "Trans": 100
   },
   {
-    "isTips": 0,
-    "isPercent": 1,
-    "HeroIcon": "14779406995",
-    "isShow": 0,
     "ZhName": "Weapon Mastery",
-    "Trans": 100,
-    "Icon": "15510749747",
-    "Tips": "技能经验"
-  },
-  {
+    "Tips": "技能经验",
+    "PvpValue": 0,
+    "isShow": 0,
     "isTips": 0,
     "isPercent": 1,
     "HeroIcon": "14779406995",
-    "isShow": 0,
+    "Icon": "15510749747",
+    "Trans": 100
+  },
+  {
     "ZhName": "Loot Chance",
-    "Trans": 100,
+    "Tips": "装备掉落率",
+    "PvpValue": 0,
+    "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "14779406995",
     "Icon": "15510749473",
-    "Tips": "装备掉落率"
+    "Trans": 100
+  },
+  {
+    "ZhName": "呼吸回血",
+    "Tips": "呼吸回血",
+    "PvpValue": 0,
+    "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "15510749473",
+    "Icon": "15510749473",
+    "Trans": 100
+  },
+  {
+    "ZhName": "宠物体型",
+    "Tips": "宠物体型",
+    "PvpValue": 0,
+    "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "15510749473",
+    "Icon": "15510749473",
+    "Trans": 100
+  },
+  {
+    "ZhName": "技能CD百分比减少",
+    "Tips": "技能CD百分比减少",
+    "PvpValue": 0,
+    "isShow": 0,
+    "isTips": 0,
+    "isPercent": 1,
+    "HeroIcon": "15510749473",
+    "Icon": "15510749473",
+    "Trans": 100
   }
 ]

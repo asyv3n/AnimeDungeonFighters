@@ -1,0 +1,82 @@
+[
+  {
+    "ZhName": "SSS",
+    "NeedKill": 10000,
+    "RankLv": 16
+  },
+  {
+    "ZhName": "SSS-",
+    "NeedKill": 7000,
+    "RankLv": 15
+  },
+  {
+    "ZhName": "SS",
+    "NeedKill": 4000,
+    "RankLv": 14
+  },
+  {
+    "ZhName": "SS-",
+    "NeedKill": 2000,
+    "RankLv": 13
+  },
+  {
+    "ZhName": "S",
+    "NeedKill": 1000,
+    "RankLv": 12
+  },
+  {
+    "ZhName": "S-",
+    "NeedKill": 500,
+    "RankLv": 11
+  },
+  {
+    "ZhName": "A",
+    "NeedKill": 300,
+    "RankLv": 10
+  },
+  {
+    "ZhName": "A-",
+    "NeedKill": 200,
+    "RankLv": 9
+  },
+  {
+    "ZhName": "B",
+    "NeedKill": 150,
+    "RankLv": 8
+  },
+  {
+    "ZhName": "B-",
+    "NeedKill": 100,
+    "RankLv": 7
+  },
+  {
+    "ZhName": "C",
+    "NeedKill": 50,
+    "RankLv": 6
+  },
+  {
+    "ZhName": "C-",
+    "NeedKill": 30,
+    "RankLv": 5
+  },
+  {
+    "ZhName": "D",
+    "NeedKill": 20,
+    "RankLv": 4
+  },
+  {
+    "ZhName": "D-",
+    "NeedKill": 10,
+    "RankLv": 3
+  },
+  {
+    "ZhName": "E",
+    "NeedKill": 5,
+    "RankLv": 2
+  },
+  {
+    "ZhName": "E-",
+    "NeedKill": 0,
+    "RankLv": 1
+  }
+]

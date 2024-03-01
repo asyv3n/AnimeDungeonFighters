@@ -1,1174 +1,734 @@
 {
   "9000001": {
-    "AddTp": [
-      3
+    "SelfAddTp": [
+      16
     ],
-    "Rate": 5000,
-    "Add": [
-      100
+    "EffectName": "",
+    "ZhName": "Strength Ι",
+    "xyd": 2,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 1,
+    "Rate": 12800,
+    "SelfAdd": [
+      5
     ],
-    "chi": 1,
-    "ZhName": "🔥",
     "Lv": 1,
-    "xyd": 1,
-    "World": ""
+    "Icon": "16564247023",
+    "Add": []
   },
   "9000002": {
-    "AddTp": [
-      3
+    "SelfAddTp": [
+      16
     ],
-    "Rate": 3400,
-    "Add": [
-      150
+    "EffectName": "",
+    "ZhName": "Strength Ⅱ",
+    "xyd": 3,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 2,
+    "Rate": 10000,
+    "SelfAdd": [
+      10
     ],
-    "chi": 1,
-    "ZhName": "🔥",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564247023",
+    "Add": []
   },
   "9000003": {
-    "AddTp": [
-      3
+    "SelfAddTp": [
+      16
     ],
-    "Rate": 1200,
-    "Add": [
-      250
+    "EffectName": "",
+    "ZhName": "Strength Ⅲ",
+    "xyd": 4,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 3,
+    "Rate": 4000,
+    "SelfAdd": [
+      15
     ],
-    "chi": 1,
-    "ZhName": "🔥",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564247023",
+    "Add": []
   },
   "9000004": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Luck Ι",
+    "xyd": 2,
+    "chi": 5,
     "AddTp": [
-      3
+      20
     ],
-    "Rate": 300,
+    "DesID": 4,
+    "Rate": 12800,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564245459",
     "Add": [
-      400
-    ],
-    "chi": 1,
-    "ZhName": "🔥",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
+      5
+    ]
   },
   "9000005": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Luck Ⅱ",
+    "xyd": 3,
+    "chi": 5,
     "AddTp": [
-      3
+      20
     ],
-    "Rate": 5,
+    "DesID": 5,
+    "Rate": 10000,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564245459",
     "Add": [
-      650
-    ],
-    "chi": 1,
-    "ZhName": "🔥",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
+      10
+    ]
   },
   "9000006": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Luck Ⅲ",
+    "xyd": 4,
+    "chi": 5,
     "AddTp": [
-      2
+      20
     ],
-    "Rate": 6600,
-    "Add": [
-      150
-    ],
-    "chi": 1,
-    "ZhName": "⚔️",
+    "DesID": 6,
+    "Rate": 4000,
+    "SelfAdd": [],
     "Lv": 1,
-    "xyd": 1,
-    "World": ""
+    "Icon": "16564245459",
+    "Add": [
+      15
+    ]
   },
   "9000007": {
-    "AddTp": [
-      2
+    "SelfAddTp": [
+      7
     ],
-    "Rate": 4900,
-    "Add": [
-      250
+    "EffectName": "",
+    "ZhName": "Deadly Ι",
+    "xyd": 3,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 7,
+    "Rate": 10000,
+    "SelfAdd": [
+      1000
     ],
-    "chi": 1,
-    "ZhName": "⚔️",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564244753",
+    "Add": []
   },
   "9000008": {
-    "AddTp": [
-      2
+    "SelfAddTp": [
+      7
     ],
-    "Rate": 1700,
-    "Add": [
-      400
+    "EffectName": "",
+    "ZhName": "Deadly Ⅱ",
+    "xyd": 4,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 8,
+    "Rate": 2500,
+    "SelfAdd": [
+      2000
     ],
-    "chi": 1,
-    "ZhName": "⚔️",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564244753",
+    "Add": []
   },
   "9000009": {
-    "AddTp": [
-      2
+    "SelfAddTp": [
+      23
     ],
-    "Rate": 400,
-    "Add": [
-      600
+    "EffectName": "",
+    "ZhName": "Rapid Chanting Ι",
+    "xyd": 3,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 9,
+    "Rate": 10000,
+    "SelfAdd": [
+      10
     ],
-    "chi": 1,
-    "ZhName": "⚔️",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564247593",
+    "Add": []
   },
   "9000010": {
-    "AddTp": [
-      2
+    "SelfAddTp": [
+      23
     ],
-    "Rate": 5,
-    "Add": [
-      850
+    "EffectName": "",
+    "ZhName": "Rapid Chanting Ⅱ",
+    "xyd": 4,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 10,
+    "Rate": 2500,
+    "SelfAdd": [
+      20
     ],
-    "chi": 1,
-    "ZhName": "⚔️",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564247593",
+    "Add": []
   },
   "9000011": {
-    "AddTp": [
-      1
+    "SelfAddTp": [
+      16,
+      22
     ],
-    "Rate": 5000,
-    "Add": [
-      100
-    ],
-    "chi": 1,
-    "ZhName": "💰",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9000012": {
-    "AddTp": [
-      1
-    ],
-    "Rate": 3400,
-    "Add": [
-      150
-    ],
-    "chi": 1,
-    "ZhName": "💰",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9000013": {
-    "AddTp": [
-      1
-    ],
-    "Rate": 1200,
-    "Add": [
-      200
-    ],
-    "chi": 1,
-    "ZhName": "💰",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9000014": {
-    "AddTp": [
-      1
-    ],
-    "Rate": 300,
-    "Add": [
-      250
-    ],
-    "chi": 1,
-    "ZhName": "💰",
-    "Lv": 4,
+    "EffectName": "",
+    "ZhName": "Enormous",
     "xyd": 4,
-    "World": ""
-  },
-  "9000015": {
-    "AddTp": [
-      1
-    ],
-    "Rate": 5,
-    "Add": [
-      300
-    ],
-    "chi": 1,
-    "ZhName": "💰",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
-  },
-  "9000016": {
-    "AddTp": [
-      4
-    ],
-    "Rate": 1700,
-    "Add": [
-      250
-    ],
-    "chi": 1,
-    "ZhName": "💥",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9000017": {
-    "AddTp": [
-      4
-    ],
-    "Rate": 600,
-    "Add": [
-      500
-    ],
-    "chi": 1,
-    "ZhName": "💥",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9000018": {
-    "AddTp": [
-      4
-    ],
-    "Rate": 300,
-    "Add": [
-      750
-    ],
-    "chi": 1,
-    "ZhName": "💥",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9000019": {
-    "AddTp": [
-      4
-    ],
-    "Rate": 100,
-    "Add": [
-      1000
-    ],
-    "chi": 1,
-    "ZhName": "💥",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
-  },
-  "9000020": {
-    "AddTp": [
-      4
-    ],
-    "Rate": 3,
-    "Add": [
-      1250
-    ],
-    "chi": 1,
-    "ZhName": "💥",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
-  },
-  "9000021": {
-    "AddTp": [
-      5
-    ],
-    "Rate": 1700,
-    "Add": [
-      500
-    ],
-    "chi": 1,
-    "ZhName": "☄️",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9000022": {
-    "AddTp": [
-      5
-    ],
-    "Rate": 600,
-    "Add": [
-      750
-    ],
-    "chi": 1,
-    "ZhName": "☄️",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9000023": {
-    "AddTp": [
-      5
-    ],
-    "Rate": 300,
-    "Add": [
-      1250
-    ],
-    "chi": 1,
-    "ZhName": "☄️",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9000024": {
-    "AddTp": [
-      5
-    ],
-    "Rate": 100,
-    "Add": [
-      1500
-    ],
-    "chi": 1,
-    "ZhName": "☄️",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
-  },
-  "9000025": {
-    "AddTp": [
-      5
-    ],
-    "Rate": 3,
-    "Add": [
-      2000
-    ],
-    "chi": 1,
-    "ZhName": "☄️",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
-  },
-  "9000026": {
-    "AddTp": [
-      3,
-      9
-    ],
-    "Rate": 5000,
-    "Add": [
-      100,
-      40
-    ],
-    "chi": 1,
-    "ZhName": "❤🔥",
-    "Lv": 1,
-    "xyd": 1,
-    "World": "活动"
-  },
-  "9000027": {
-    "AddTp": [
-      3,
-      9
-    ],
-    "Rate": 3400,
-    "Add": [
-      150,
-      100
-    ],
-    "chi": 1,
-    "ZhName": "❤🔥",
-    "Lv": 2,
-    "xyd": 2,
-    "World": "活动"
-  },
-  "9000028": {
-    "AddTp": [
-      3,
-      9
-    ],
-    "Rate": 1200,
-    "Add": [
-      250,
-      250
-    ],
-    "chi": 1,
-    "ZhName": "❤🔥",
-    "Lv": 3,
-    "xyd": 3,
-    "World": "活动"
-  },
-  "9000029": {
-    "AddTp": [
-      3,
-      9
-    ],
-    "Rate": 300,
-    "Add": [
-      400,
-      600
-    ],
-    "chi": 1,
-    "ZhName": "❤🔥",
-    "Lv": 4,
-    "xyd": 4,
-    "World": "活动"
-  },
-  "9000030": {
-    "AddTp": [
-      3,
-      9
-    ],
-    "Rate": 50,
-    "Add": [
-      650,
-      1500
-    ],
-    "chi": 1,
-    "ZhName": "❤🔥",
-    "Lv": 5,
-    "xyd": 5,
-    "World": "活动"
-  },
-  "9000031": {
-    "AddTp": [
-      2,
-      9
-    ],
-    "Rate": 5000,
-    "Add": [
-      150,
-      40
-    ],
-    "chi": 1,
-    "ZhName": "🌞",
-    "Lv": 1,
-    "xyd": 1,
-    "World": "活动"
-  },
-  "9000032": {
-    "AddTp": [
-      2,
-      9
-    ],
-    "Rate": 3400,
-    "Add": [
-      250,
-      100
-    ],
-    "chi": 1,
-    "ZhName": "🌞",
-    "Lv": 2,
-    "xyd": 2,
-    "World": "活动"
-  },
-  "9000033": {
-    "AddTp": [
-      2,
-      9
-    ],
-    "Rate": 1200,
-    "Add": [
-      400,
-      250
-    ],
-    "chi": 1,
-    "ZhName": "🌞",
-    "Lv": 3,
-    "xyd": 3,
-    "World": "活动"
-  },
-  "9000034": {
-    "AddTp": [
-      2,
-      9
-    ],
-    "Rate": 300,
-    "Add": [
-      600,
-      600
-    ],
-    "chi": 1,
-    "ZhName": "🌞",
-    "Lv": 4,
-    "xyd": 4,
-    "World": "活动"
-  },
-  "9000035": {
-    "AddTp": [
-      2,
-      9
-    ],
-    "Rate": 50,
-    "Add": [
-      850,
-      1500
-    ],
-    "chi": 1,
-    "ZhName": "🌞",
-    "Lv": 5,
-    "xyd": 5,
-    "World": "活动"
-  },
-  "9001001": {
-    "AddTp": [
-      6
-    ],
-    "Rate": 4800,
-    "Add": [
-      100
-    ],
-    "chi": 2,
-    "ZhName": "👟",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9001002": {
-    "AddTp": [
-      6
-    ],
-    "Rate": 3400,
-    "Add": [
-      125
-    ],
-    "chi": 2,
-    "ZhName": "👟",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9001003": {
-    "AddTp": [
-      6
-    ],
-    "Rate": 1200,
-    "Add": [
-      150
-    ],
-    "chi": 2,
-    "ZhName": "👟",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9001004": {
-    "AddTp": [
-      6
-    ],
-    "Rate": 300,
-    "Add": [
-      175
-    ],
-    "chi": 2,
-    "ZhName": "👟",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
-  },
-  "9001005": {
-    "AddTp": [
-      6
-    ],
-    "Rate": 5,
-    "Add": [
-      200
-    ],
-    "chi": 2,
-    "ZhName": "👟",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
-  },
-  "9001006": {
-    "AddTp": [
-      3,
-      1
-    ],
-    "Rate": 4800,
-    "Add": [
-      200,
-      150
-    ],
-    "chi": 2,
-    "ZhName": "🧙",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9001007": {
-    "AddTp": [
-      3,
-      1
-    ],
-    "Rate": 3400,
-    "Add": [
-      300,
-      250
-    ],
-    "chi": 2,
-    "ZhName": "🧙",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9001008": {
-    "AddTp": [
-      3,
-      1
-    ],
-    "Rate": 1200,
-    "Add": [
-      450,
-      350
-    ],
-    "chi": 2,
-    "ZhName": "🧙",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9001009": {
-    "AddTp": [
-      3,
-      1
-    ],
-    "Rate": 300,
-    "Add": [
-      650,
-      450
-    ],
-    "chi": 2,
-    "ZhName": "🧙",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
-  },
-  "9001010": {
-    "AddTp": [
-      3,
-      1
-    ],
-    "Rate": 5,
-    "Add": [
-      900,
-      550
-    ],
-    "chi": 2,
-    "ZhName": "🧙",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
-  },
-  "9001011": {
-    "AddTp": [
-      2,
-      4
-    ],
-    "Rate": 6600,
-    "Add": [
-      150,
-      200
-    ],
-    "chi": 2,
-    "ZhName": "⚡",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9001012": {
-    "AddTp": [
-      2,
-      4
-    ],
-    "Rate": 4900,
-    "Add": [
-      250,
-      400
-    ],
-    "chi": 2,
-    "ZhName": "⚡",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9001013": {
-    "AddTp": [
-      2,
-      4
-    ],
-    "Rate": 1700,
-    "Add": [
-      400,
-      600
-    ],
-    "chi": 2,
-    "ZhName": "⚡",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9001014": {
-    "AddTp": [
-      2,
-      4
-    ],
-    "Rate": 400,
-    "Add": [
-      600,
-      800
-    ],
-    "chi": 2,
-    "ZhName": "⚡",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
-  },
-  "9001015": {
-    "AddTp": [
-      2,
-      4
-    ],
-    "Rate": 5,
-    "Add": [
-      850,
-      1000
-    ],
-    "chi": 2,
-    "ZhName": "⚡",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
-  },
-  "9001016": {
-    "AddTp": [
-      7
-    ],
-    "Rate": 1500,
-    "Add": [
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 11,
+    "Rate": 2500,
+    "SelfAdd": [
+      25,
       25
     ],
-    "chi": 2,
-    "ZhName": "🛠️",
     "Lv": 1,
-    "xyd": 1,
-    "World": ""
+    "Icon": "16564247187",
+    "Add": []
   },
-  "9001017": {
-    "AddTp": [
-      7
+  "9000012": {
+    "SelfAddTp": [
+      7,
+      22
     ],
-    "Rate": 600,
-    "Add": [
-      50
-    ],
-    "chi": 2,
-    "ZhName": "🛠️",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9001018": {
-    "AddTp": [
-      7
-    ],
-    "Rate": 300,
-    "Add": [
-      75
-    ],
-    "chi": 2,
-    "ZhName": "🛠️",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9001019": {
-    "AddTp": [
-      7
-    ],
-    "Rate": 100,
-    "Add": [
-      100
-    ],
-    "chi": 2,
-    "ZhName": "🛠️",
-    "Lv": 4,
+    "EffectName": "",
+    "ZhName": "Miniature",
     "xyd": 4,
-    "World": ""
-  },
-  "9001020": {
-    "AddTp": [
-      7
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 12,
+    "Rate": 2500,
+    "SelfAdd": [
+      3000,
+      -50
     ],
-    "Rate": 3,
+    "Lv": 1,
+    "Icon": "16564246876",
+    "Add": []
+  },
+  "9000013": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Stalwart",
+    "xyd": 4,
+    "chi": 5,
+    "AddTp": [
+      18
+    ],
+    "DesID": 13,
+    "Rate": 2000,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564247338",
     "Add": [
-      125
-    ],
-    "chi": 2,
-    "ZhName": "🛠️",
-    "Lv": 5,
-    "xyd": 5,
-    "World": ""
+      10
+    ]
   },
-  "9001021": {
+  "9000014": {
+    "SelfAddTp": [],
+    "EffectName": "治愈附魔特效",
+    "ZhName": "Healer",
+    "xyd": 5,
+    "chi": 5,
     "AddTp": [
-      4,
-      5
+      21
     ],
+    "DesID": 14,
+    "Rate": 500,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564244892",
+    "Add": [
+      1
+    ]
+  },
+  "9000015": {
+    "SelfAddTp": [],
+    "EffectName": "锋利附魔特效",
+    "ZhName": "Sharp",
+    "xyd": 5,
+    "chi": 5,
+    "AddTp": [
+      16
+    ],
+    "DesID": 15,
+    "Rate": 500,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564247659",
+    "Add": [
+      8
+    ]
+  },
+  "9000016": {
+    "SelfAddTp": [],
+    "EffectName": "抵御附魔特效",
+    "ZhName": "Resist",
+    "xyd": 5,
+    "chi": 5,
+    "AddTp": [
+      17
+    ],
+    "DesID": 16,
     "Rate": 1500,
-    "Add": [
-      250,
-      500
-    ],
-    "chi": 2,
-    "ZhName": "🧰",
+    "SelfAdd": [],
     "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9001022": {
-    "AddTp": [
-      4,
-      5
-    ],
-    "Rate": 600,
+    "Icon": "16564247740",
     "Add": [
-      500,
-      750
-    ],
-    "chi": 2,
-    "ZhName": "🧰",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
+      30
+    ]
   },
-  "9001023": {
-    "AddTp": [
-      4,
-      5
+  "9000017": {
+    "SelfAddTp": [
+      22,
+      16
     ],
-    "Rate": 300,
-    "Add": [
-      750,
-      1250
-    ],
-    "chi": 2,
-    "ZhName": "🧰",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
-  },
-  "9001024": {
-    "AddTp": [
-      4,
-      5
-    ],
-    "Rate": 100,
-    "Add": [
-      1000,
-      1500
-    ],
-    "chi": 2,
-    "ZhName": "🧰",
-    "Lv": 4,
-    "xyd": 4,
-    "World": ""
-  },
-  "9001025": {
-    "AddTp": [
-      4,
-      5
-    ],
-    "Rate": 3,
-    "Add": [
-      1250,
-      2000
-    ],
-    "chi": 2,
-    "ZhName": "🧰",
-    "Lv": 5,
+    "EffectName": "泰坦附魔特效",
+    "ZhName": "Titan",
     "xyd": 5,
-    "World": ""
-  },
-  "9001026": {
-    "AddTp": [
-      2,
-      3,
-      1,
-      4,
-      5,
-      6
-    ],
-    "Rate": 420,
-    "Add": [
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 17,
+    "Rate": 1500,
+    "SelfAdd": [
       75,
-      100,
-      50,
-      75,
-      125,
-      50
-    ],
-    "chi": 2,
-    "ZhName": "👑",
-    "Lv": 1,
-    "xyd": 1,
-    "World": ""
-  },
-  "9001027": {
-    "AddTp": [
-      2,
-      3,
-      1,
-      4,
-      5,
-      6
-    ],
-    "Rate": 250,
-    "Add": [
-      125,
-      150,
-      100,
-      150,
-      250,
-      63
-    ],
-    "chi": 2,
-    "ZhName": "👑",
-    "Lv": 2,
-    "xyd": 2,
-    "World": ""
-  },
-  "9001028": {
-    "AddTp": [
-      2,
-      3,
-      1,
-      4,
-      5,
-      6
-    ],
-    "Rate": 100,
-    "Add": [
-      200,
-      225,
-      150,
-      225,
-      500,
       75
     ],
-    "chi": 2,
-    "ZhName": "👑",
-    "Lv": 3,
-    "xyd": 3,
-    "World": ""
+    "Lv": 1,
+    "Icon": "16564246148",
+    "Add": []
   },
-  "9001029": {
+  "9000018": {
+    "SelfAddTp": [],
+    "EffectName": "吟咏诗人附魔特效",
+    "ZhName": "Bard",
+    "xyd": 6,
+    "chi": 5,
     "AddTp": [
-      2,
-      3,
-      1,
-      4,
-      5,
-      6
+      16,
+      17,
+      18,
+      21
     ],
-    "Rate": 20,
+    "DesID": 18,
+    "Rate": 100,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564245291",
     "Add": [
-      300,
-      325,
-      200,
-      300,
-      625,
-      88
+      10,
+      50,
+      10,
+      2
+    ]
+  },
+  "9000019": {
+    "SelfAddTp": [
+      6,
+      16,
+      23
     ],
+    "EffectName": "王者附魔特效",
+    "ZhName": "Sovereign",
+    "xyd": 6,
+    "chi": 5,
+    "AddTp": [],
+    "DesID": 19,
+    "Rate": 100,
+    "SelfAdd": [
+      100000,
+      100,
+      30
+    ],
+    "Lv": 1,
+    "Icon": "16564245627",
+    "Add": []
+  },
+  "9100001": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Speed Ι",
+    "xyd": 2,
     "chi": 2,
-    "ZhName": "👑",
-    "Lv": 4,
+    "AddTp": [
+      11
+    ],
+    "DesID": 20,
+    "Rate": 1535,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246305",
+    "Add": [
+      1
+    ]
+  },
+  "9100002": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Speed Ⅱ",
+    "xyd": 3,
+    "chi": 2,
+    "AddTp": [
+      11
+    ],
+    "DesID": 21,
+    "Rate": 700,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246305",
+    "Add": [
+      2
+    ]
+  },
+  "9100003": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Speed Ⅲ",
     "xyd": 4,
-    "World": ""
-  },
-  "9001030": {
+    "chi": 2,
     "AddTp": [
-      2,
-      3,
-      1,
-      4,
-      5,
+      11
+    ],
+    "DesID": 22,
+    "Rate": 350,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246305",
+    "Add": [
+      3
+    ]
+  },
+  "9100004": {
+    "SelfAddTp": [
+      16
+    ],
+    "EffectName": "",
+    "ZhName": "Attake Ι",
+    "xyd": 2,
+    "chi": 2,
+    "AddTp": [],
+    "DesID": 23,
+    "Rate": 1525,
+    "SelfAdd": [
+      3
+    ],
+    "Lv": 1,
+    "Icon": "16564246601",
+    "Add": []
+  },
+  "9100005": {
+    "SelfAddTp": [
+      16
+    ],
+    "EffectName": "",
+    "ZhName": "Attake Ⅱ",
+    "xyd": 3,
+    "chi": 2,
+    "AddTp": [],
+    "DesID": 24,
+    "Rate": 700,
+    "SelfAdd": [
+      4
+    ],
+    "Lv": 1,
+    "Icon": "16564246601",
+    "Add": []
+  },
+  "9100006": {
+    "SelfAddTp": [
+      16
+    ],
+    "EffectName": "",
+    "ZhName": "Attake Ⅲ",
+    "xyd": 4,
+    "chi": 2,
+    "AddTp": [],
+    "DesID": 25,
+    "Rate": 350,
+    "SelfAdd": [
+      5
+    ],
+    "Lv": 1,
+    "Icon": "16564246601",
+    "Add": []
+  },
+  "9100007": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Iron Wall Ι",
+    "xyd": 2,
+    "chi": 2,
+    "AddTp": [
+      17
+    ],
+    "DesID": 26,
+    "Rate": 1520,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564247449",
+    "Add": [
+      5
+    ]
+  },
+  "9100008": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Iron Wall Ⅱ",
+    "xyd": 3,
+    "chi": 2,
+    "AddTp": [
+      17
+    ],
+    "DesID": 27,
+    "Rate": 600,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564247449",
+    "Add": [
+      10
+    ]
+  },
+  "9100009": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Iron Wall Ⅲ",
+    "xyd": 4,
+    "chi": 2,
+    "AddTp": [
+      17
+    ],
+    "DesID": 28,
+    "Rate": 300,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564247449",
+    "Add": [
+      15
+    ]
+  },
+  "9100010": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Identify Weakness Ι",
+    "xyd": 3,
+    "chi": 2,
+    "AddTp": [
       6
     ],
-    "Rate": 1,
+    "DesID": 29,
+    "Rate": 500,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246482",
     "Add": [
-      425,
-      450,
-      250,
-      400,
-      750,
-      100
-    ],
+      10000
+    ]
+  },
+  "9100011": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Identify Weakness Ⅱ",
+    "xyd": 4,
     "chi": 2,
-    "ZhName": "👑",
-    "Lv": 5,
+    "AddTp": [
+      6
+    ],
+    "DesID": 30,
+    "Rate": 300,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246482",
+    "Add": [
+      50000
+    ]
+  },
+  "9100012": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Treasure Ι",
+    "xyd": 3,
+    "chi": 2,
+    "AddTp": [
+      20
+    ],
+    "DesID": 31,
+    "Rate": 500,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246023",
+    "Add": [
+      10
+    ]
+  },
+  "9100013": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Treasure Ⅱ",
+    "xyd": 4,
+    "chi": 2,
+    "AddTp": [
+      20
+    ],
+    "DesID": 32,
+    "Rate": 300,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564246023",
+    "Add": [
+      20
+    ]
+  },
+  "9100014": {
+    "SelfAddTp": [
+      16
+    ],
+    "EffectName": "",
+    "ZhName": "Impact",
+    "xyd": 4,
+    "chi": 2,
+    "AddTp": [],
+    "DesID": 33,
+    "Rate": 250,
+    "SelfAdd": [
+      7
+    ],
+    "Lv": 1,
+    "Icon": "16564245555",
+    "Add": []
+  },
+  "9100015": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Ambush",
+    "xyd": 4,
+    "chi": 2,
+    "AddTp": [
+      7
+    ],
+    "DesID": 34,
+    "Rate": 250,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564245745",
+    "Add": [
+      1000
+    ]
+  },
+  "9100016": {
+    "SelfAddTp": [
+      16
+    ],
+    "EffectName": "",
+    "ZhName": "Destruction",
     "xyd": 5,
-    "World": ""
-  },
-  "9001031": {
-    "AddTp": [
-      3,
-      1,
-      9
-    ],
-    "Rate": 3400,
-    "Add": [
-      300,
-      250,
-      100
-    ],
     "chi": 2,
-    "ZhName": "🍻",
+    "AddTp": [
+      7
+    ],
+    "DesID": 35,
+    "Rate": 120,
+    "SelfAdd": [
+      10
+    ],
     "Lv": 1,
-    "xyd": 1,
-    "World": "活动"
-  },
-  "9001032": {
-    "AddTp": [
-      3,
-      1,
-      9
-    ],
-    "Rate": 1200,
+    "Icon": "16573421671",
     "Add": [
-      450,
-      350,
-      250
-    ],
-    "chi": 2,
-    "ZhName": "🍻",
-    "Lv": 2,
-    "xyd": 2,
-    "World": "活动"
+      3000
+    ]
   },
-  "9001033": {
-    "AddTp": [
-      3,
-      1,
-      9
-    ],
-    "Rate": 300,
-    "Add": [
-      650,
-      450,
-      600
-    ],
+  "9100017": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Agility",
+    "xyd": 5,
     "chi": 2,
-    "ZhName": "🍻",
-    "Lv": 3,
-    "xyd": 3,
-    "World": "活动"
-  },
-  "9001034": {
     "AddTp": [
-      4,
-      5,
-      9
+      11,
+      16
     ],
-    "Rate": 3400,
-    "Add": [
-      500,
-      750,
-      100
-    ],
-    "chi": 2,
-    "ZhName": "🏖️",
+    "DesID": 36,
+    "Rate": 110,
+    "SelfAdd": [],
     "Lv": 1,
-    "xyd": 1,
-    "World": "活动"
-  },
-  "9001035": {
-    "AddTp": [
-      4,
+    "Icon": "16564246730",
+    "Add": [
       5,
-      9
-    ],
-    "Rate": 1200,
-    "Add": [
-      750,
-      1250,
-      250
-    ],
-    "chi": 2,
-    "ZhName": "🏖️",
-    "Lv": 2,
-    "xyd": 2,
-    "World": "活动"
+      10
+    ]
   },
-  "9001036": {
-    "AddTp": [
-      4,
-      5,
-      9
-    ],
-    "Rate": 300,
-    "Add": [
-      1000,
-      1500,
-      600
-    ],
+  "9100018": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Resilience",
+    "xyd": 5,
     "chi": 2,
-    "ZhName": "🏖️",
-    "Lv": 3,
-    "xyd": 3,
-    "World": "活动"
-  },
-  "9001037": {
     "AddTp": [
-      3,
-      2,
-      9
+      21
     ],
-    "Rate": 300,
-    "Add": [
-      500,
-      200,
-      600
-    ],
-    "chi": 2,
-    "ZhName": "🥛",
+    "DesID": 37,
+    "Rate": 70,
+    "SelfAdd": [],
     "Lv": 1,
-    "xyd": 1,
-    "World": "活动"
-  },
-  "9001038": {
-    "AddTp": [
-      3,
-      2,
-      9
-    ],
-    "Rate": 200,
+    "Icon": "16564244509",
     "Add": [
-      700,
-      400,
-      900
-    ],
-    "chi": 2,
-    "ZhName": "🥛",
-    "Lv": 2,
-    "xyd": 2,
-    "World": "活动"
+      1
+    ]
   },
-  "9001039": {
-    "AddTp": [
-      3,
-      2,
-      9
-    ],
-    "Rate": 50,
-    "Add": [
-      900,
-      600,
-      1500
-    ],
+  "9100019": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Eternity",
+    "xyd": 6,
     "chi": 2,
-    "ZhName": "🥛",
-    "Lv": 3,
-    "xyd": 3,
-    "World": "活动"
+    "AddTp": [
+      17,
+      18,
+      21
+    ],
+    "DesID": 38,
+    "Rate": 10,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564245114",
+    "Add": [
+      50,
+      10,
+      2
+    ]
+  },
+  "9100020": {
+    "SelfAddTp": [],
+    "EffectName": "",
+    "ZhName": "Rampage",
+    "xyd": 6,
+    "chi": 2,
+    "AddTp": [
+      7,
+      11,
+      16
+    ],
+    "DesID": 39,
+    "Rate": 10,
+    "SelfAdd": [],
+    "Lv": 1,
+    "Icon": "16564247894",
+    "Add": [
+      5000,
+      5,
+      20
+    ]
   }
 }

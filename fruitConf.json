@@ -1,0 +1,140 @@
+{
+  "2000001": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "",
+    "ZhName": "Punch",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "攻击挥动_太刀类",
+    "HoldWeaponType": "手持单手剑",
+    "WeaponAnimName": [
+      "砍1",
+      "砍2"
+    ],
+    "Model": "拳套0_0_0",
+    "LastAttackSound": "",
+    "HitSound": "受击_中小型锋利类",
+    "Icon": "15023387860",
+    "lvNeed": 1
+  },
+  "2110011": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "",
+    "ZhName": "Beginner Sword",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "攻击挥动_太刀类",
+    "HoldWeaponType": "手持单手剑",
+    "WeaponAnimName": [
+      "砍1",
+      "砍2"
+    ],
+    "Model": "剑1_1_1",
+    "LastAttackSound": "",
+    "HitSound": "受击_中小型锋利类",
+    "Icon": "15023270907",
+    "lvNeed": 1
+  },
+  "2120011": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "",
+    "ZhName": "Beginner Gloves",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "攻击挥动_太刀类",
+    "HoldWeaponType": "手持单手剑",
+    "WeaponAnimName": [
+      "砍1",
+      "砍2"
+    ],
+    "Model": "拳套1_1_1",
+    "LastAttackSound": "",
+    "HitSound": "受击_中小型锋利类",
+    "Icon": "15023387860",
+    "lvNeed": 1
+  },
+  "2130011": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "",
+    "ZhName": "Beginner Pistol",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "攻击挥动_太刀类",
+    "HoldWeaponType": "手持单手剑",
+    "WeaponAnimName": [
+      "砍1",
+      "砍2"
+    ],
+    "Model": "枪1_1_1",
+    "LastAttackSound": "",
+    "HitSound": "受击_中小型锋利类",
+    "Icon": "15354080199",
+    "lvNeed": 1
+  },
+  "2200011": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "帽子1_1_1",
+    "ZhName": "Beginner Hat",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "",
+    "HoldWeaponType": "",
+    "WeaponAnimName": [],
+    "Model": "帽子1_1_1",
+    "LastAttackSound": "",
+    "HitSound": "",
+    "Icon": "15032058952",
+    "lvNeed": 1
+  },
+  "2300011": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "被饰1_1_1",
+    "ZhName": "Beginner Adorned",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "",
+    "HoldWeaponType": "",
+    "WeaponAnimName": [],
+    "Model": "被饰1_1_1",
+    "LastAttackSound": "",
+    "HitSound": "",
+    "Icon": "15032048969",
+    "lvNeed": 1
+  },
+  "2400011": {
+    "ModelType": 1,
+    "tp": 11,
+    "Avatar": "鞋子1_1_1",
+    "ZhName": "Beginner Boots",
+    "SellCount": [
+      5
+    ],
+    "xyd": 1,
+    "AttackSound": "",
+    "HoldWeaponType": "",
+    "WeaponAnimName": [],
+    "Model": "鞋子1_1_1",
+    "LastAttackSound": "",
+    "HitSound": "",
+    "Icon": "15032076079",
+    "lvNeed": 1
+  }
+}
