@@ -1,0 +1,381 @@
+[
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 4,
+    "ZhDes": "Money",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15032404961,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Money",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 15352895055,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 3,
+    "ZhDes": "Gem",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15032405408,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Gem",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 15352894948,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 4,
+    "ZhDes": "经验",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15359280714,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Exp",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 15359280714,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "等级",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 12525251166,
+    "tp": 0,
+    "init": "1",
+    "ZhName": "Level",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 12525251166,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "代币",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 11823541289,
+    "tp": 0,
+    "init": "",
+    "ZhName": "代币",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 11823541289,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 1,
+    "xyd": 1,
+    "ZhDes": "Used for upgrading or enchanting",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 12843499041,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Dust",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 12843499041,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "附魔次数",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 12870254104,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Rare Dust",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 12870254104,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 1,
+    "xyd": 1,
+    "ZhDes": "Can be used for boss spins",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 13016238899,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Boss Token",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 13016238899,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "属性点",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 13016238899,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Stats Point",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 13016238899,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 3,
+    "ZhDes": "It can be used to respawn you when you die.",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15604532748,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Respawn Coin",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 15604532748,
+    "bagTp": 1,
+    "isShow": 0
+  },
+  {
+    "parms": [
+      "每日转盘"
+    ],
+    "isBag": 1,
+    "xyd": 1,
+    "ZhDes": "Can be used for daily spins",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 13005378497,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Daily Token",
+    "hasCount": 1,
+    "UseScript": "OpenUI",
+    "Model": "",
+    "UseNow": 1,
+    "Icon_Black": 13005378497,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  null,
+  {
+    "parms": [
+      "Season"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "SeasonExp",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15679089308,
+    "tp": 0,
+    "init": "",
+    "ZhName": "SeasonExp",
+    "hasCount": 1,
+    "UseScript": "OpenUI",
+    "Model": "",
+    "UseNow": 1,
+    "Icon_Black": 15679089308,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "Season"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "SeasonLevel",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 13005378497,
+    "tp": 0,
+    "init": "",
+    "ZhName": "SeasonLevel",
+    "hasCount": 1,
+    "UseScript": "OpenUI",
+    "Model": "",
+    "UseNow": 1,
+    "Icon_Black": 13005378497,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "Season"
+    ],
+    "isBag": 0,
+    "xyd": 1,
+    "ZhDes": "SeasonCard",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 13005378497,
+    "tp": 0,
+    "init": "",
+    "ZhName": "SeasonCard",
+    "hasCount": 1,
+    "UseScript": "OpenUI",
+    "Model": "",
+    "UseNow": 1,
+    "Icon_Black": 13005378497,
+    "bagTp": 0,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "技能"
+    ],
+    "isBag": 1,
+    "xyd": 4,
+    "ZhDes": "Used on the Skills page. returns all skill points already used.",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15359280601,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Skill Reset",
+    "hasCount": 1,
+    "UseScript": "OpenUI",
+    "Model": "",
+    "UseNow": 1,
+    "Icon_Black": 15359280601,
+    "bagTp": 1,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "加点"
+    ],
+    "isBag": 1,
+    "xyd": 4,
+    "ZhDes": "Used on the Update page. returns all Stats points already used.",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15359280461,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Stats Reset",
+    "hasCount": 1,
+    "UseScript": "OpenUI",
+    "Model": "",
+    "UseNow": 1,
+    "Icon_Black": 15359280461,
+    "bagTp": 1,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 1,
+    "xyd": 5,
+    "ZhDes": "Used on the Cosmetics Shop.",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15501642790,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Cos Coin",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 15501642790,
+    "bagTp": 1,
+    "isShow": 1
+  },
+  {
+    "parms": [
+      "0"
+    ],
+    "isBag": 0,
+    "xyd": 5,
+    "ZhDes": "Used on the Cosmetics Shop.",
+    "sort": 0,
+    "UnlockInf": 1,
+    "Icon": 15501642790,
+    "tp": 0,
+    "init": "",
+    "ZhName": "Coin Level",
+    "hasCount": 1,
+    "UseScript": "0",
+    "Model": "",
+    "UseNow": 0,
+    "Icon_Black": 15501642790,
+    "bagTp": 0,
+    "isShow": 1
+  }
+]

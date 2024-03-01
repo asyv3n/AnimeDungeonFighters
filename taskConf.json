@@ -1,0 +1,770 @@
+[
+  {
+    "award": [
+      2,
+      1,
+      18,
+      13
+    ],
+    "count": [
+      500,
+      10000,
+      6,
+      300
+    ],
+    "TaskType": [
+      "1"
+    ],
+    "onlyTag": "CompAllDayTask",
+    "TimeType": 0,
+    "wd": 0,
+    "param": "4"
+  },
+  {
+    "award": [
+      2,
+      1,
+      18,
+      13
+    ],
+    "count": [
+      2000,
+      50000,
+      10,
+      1000
+    ],
+    "TaskType": [
+      "2"
+    ],
+    "onlyTag": "CompAllWeekTask",
+    "TimeType": 0,
+    "wd": 0,
+    "param": "4"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      50,
+      1,
+      100
+    ],
+    "TaskType": [
+      "13"
+    ],
+    "onlyTag": "Day_1",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "150"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      100,
+      1,
+      100
+    ],
+    "TaskType": [
+      "13"
+    ],
+    "onlyTag": "Day_2",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "300"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      100,
+      1,
+      100
+    ],
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "Day_3",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "5"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      200,
+      1,
+      100
+    ],
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "Day_4",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "10"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      100,
+      1,
+      100
+    ],
+    "TaskType": [
+      "15"
+    ],
+    "onlyTag": "Day_5",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "5"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      200,
+      1,
+      100
+    ],
+    "TaskType": [
+      "15"
+    ],
+    "onlyTag": "Day_6",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "8"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      100,
+      1,
+      100
+    ],
+    "TaskType": [
+      "17"
+    ],
+    "onlyTag": "Day_7",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "30"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      150,
+      1,
+      100
+    ],
+    "TaskType": [
+      "18"
+    ],
+    "onlyTag": "Day_8",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "20"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      100,
+      1,
+      100
+    ],
+    "TaskType": [
+      "6"
+    ],
+    "onlyTag": "Day_9",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "10"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      150,
+      1,
+      100
+    ],
+    "TaskType": [
+      "19"
+    ],
+    "onlyTag": "Day_10",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "1"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      150,
+      1,
+      100
+    ],
+    "TaskType": [
+      "20"
+    ],
+    "onlyTag": "Day_11",
+    "TimeType": 1,
+    "wd": 0,
+    "param": "1"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      150,
+      1,
+      100
+    ],
+    "TaskType": [
+      "13"
+    ],
+    "onlyTag": "Week_1",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "1000"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1000,
+      3,
+      400
+    ],
+    "TaskType": [
+      "13"
+    ],
+    "onlyTag": "Week_2",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "2000"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      500,
+      3,
+      300
+    ],
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "Week_3",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "30"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1000,
+      3,
+      400
+    ],
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "Week_4",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "50"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      500,
+      3,
+      300
+    ],
+    "TaskType": [
+      "15"
+    ],
+    "onlyTag": "Week_5",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "15"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1000,
+      3,
+      400
+    ],
+    "TaskType": [
+      "15"
+    ],
+    "onlyTag": "Week_6",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "30"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1000,
+      3,
+      400
+    ],
+    "TaskType": [
+      "17"
+    ],
+    "onlyTag": "Week_7",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "120"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1500,
+      3,
+      500
+    ],
+    "TaskType": [
+      "18"
+    ],
+    "onlyTag": "Week_8",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "100"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1000,
+      3,
+      400
+    ],
+    "TaskType": [
+      "6"
+    ],
+    "onlyTag": "Week_9",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "400"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1500,
+      3,
+      500
+    ],
+    "TaskType": [
+      "19"
+    ],
+    "onlyTag": "Week_10",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "10"
+  },
+  {
+    "award": [
+      2,
+      18,
+      13
+    ],
+    "count": [
+      1500,
+      3,
+      500
+    ],
+    "TaskType": [
+      "20"
+    ],
+    "onlyTag": "Week_11",
+    "TimeType": 2,
+    "wd": 0,
+    "param": "10"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      3000,
+      600
+    ],
+    "TaskType": [
+      "6"
+    ],
+    "onlyTag": "1_1",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "100"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      2000,
+      400
+    ],
+    "TaskType": [
+      "19"
+    ],
+    "onlyTag": "1_2",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "10"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      3000,
+      600
+    ],
+    "TaskType": [
+      "7"
+    ],
+    "onlyTag": "1_3",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "100"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      1000,
+      200
+    ],
+    "TaskType": [
+      "10"
+    ],
+    "onlyTag": "1_4",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "6"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      5000,
+      1000
+    ],
+    "TaskType": [
+      "12",
+      "4"
+    ],
+    "onlyTag": "1_5",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "5"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      1000,
+      200
+    ],
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "1_7",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "100"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      2000,
+      400
+    ],
+    "TaskType": [
+      "15"
+    ],
+    "onlyTag": "1_8",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "50"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      3000,
+      600
+    ],
+    "TaskType": [
+      "17"
+    ],
+    "onlyTag": "1_9",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "500"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      2000,
+      400
+    ],
+    "TaskType": [
+      "18"
+    ],
+    "onlyTag": "1_10",
+    "TimeType": 3,
+    "wd": 1,
+    "param": "300"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      50000,
+      600
+    ],
+    "TaskType": [
+      "6"
+    ],
+    "onlyTag": "2_1",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "1000"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      120000,
+      400
+    ],
+    "TaskType": [
+      "19"
+    ],
+    "onlyTag": "2_2",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "50"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      80000,
+      600
+    ],
+    "TaskType": [
+      "7"
+    ],
+    "onlyTag": "2_3",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "500"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      100000,
+      200
+    ],
+    "TaskType": [
+      "10"
+    ],
+    "onlyTag": "2_4",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "18"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      130000,
+      1000
+    ],
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "2_5",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "7"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      100000,
+      200
+    ],
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "2_7",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "500"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      100000,
+      400
+    ],
+    "TaskType": [
+      "15"
+    ],
+    "onlyTag": "2_8",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "100"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      100000,
+      600
+    ],
+    "TaskType": [
+      "17"
+    ],
+    "onlyTag": "2_9",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "1000"
+  },
+  {
+    "award": [
+      3,
+      2
+    ],
+    "count": [
+      100000,
+      400
+    ],
+    "TaskType": [
+      "18"
+    ],
+    "onlyTag": "2_10",
+    "TimeType": 3,
+    "wd": 2,
+    "param": "500"
+  }
+]

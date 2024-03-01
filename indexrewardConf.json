@@ -1,0 +1,86 @@
+[
+  {
+    "ZhDes": "Get +1 Hero Equipped",
+    "Count": 1,
+    "Need": 45,
+    "Award": "IndexExPets"
+  },
+  {
+    "ZhDes": "Get  Daily Token 3",
+    "Count": 3,
+    "Need": 54,
+    "Award": "11"
+  },
+  {
+    "ZhDes": "Get  Power Boost 1 hour",
+    "Count": 1,
+    "Need": 63,
+    "Award": "411"
+  },
+  {
+    "ZhDes": "Get Super Money Boost 2 hour",
+    "Count": 2,
+    "Need": 72,
+    "Award": "112"
+  },
+  {
+    "ZhDes": "Get  Daily Token 4",
+    "Count": 4,
+    "Need": 81,
+    "Award": "11"
+  },
+  {
+    "ZhDes": "Get  Power Boost 3 hour",
+    "Count": 3,
+    "Need": 90,
+    "Award": "411"
+  },
+  {
+    "ZhDes": "Get Super Money Boost 3 hour",
+    "Count": 3,
+    "Need": 108,
+    "Award": "112"
+  },
+  {
+    "ZhDes": "Get  Daily Token 5",
+    "Count": 5,
+    "Need": 118,
+    "Award": "11"
+  },
+  {
+    "ZhDes": "Get  Power Boost 5 hour",
+    "Count": 5,
+    "Need": 135,
+    "Award": "411"
+  },
+  {
+    "ZhDes": "Get Super Money Boost 5 hour",
+    "Count": 5,
+    "Need": 180,
+    "Award": "112"
+  },
+  {
+    "ZhDes": "Get +1 Hero Equipped",
+    "Count": 1,
+    "Need": 200,
+    "Award": "IndexExPets"
+  },
+  {
+    "ZhDes": "Get +1 Hero Equipped",
+    "Count": 1,
+    "Need": 220,
+    "Award": "IndexExPets"
+  },
+  {
+    "ZhDes": "Get +1 Hero Equipped",
+    "Count": 1,
+    "Need": 240,
+    "Award": "IndexExPets"
+  },
+  {
+    "ZhDes": "Get Super Ball 5",
+    "Count": 5,
+    "Need": 260,
+    "Award": "26"
+  }
+]

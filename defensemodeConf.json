@@ -1,0 +1,32 @@
+[
+  {
+    "attr": [
+      3,
+      2
+    ],
+    "plrMax": 6,
+    "attrNum": [
+      400,
+      0
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 25,
+    "wave": 150,
+    "world": 1
+  },
+  {
+    "attr": [
+      3,
+      2
+    ],
+    "plrMax": 6,
+    "attrNum": [
+      400,
+      0
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 75,
+    "wave": 250,
+    "world": 2
+  }
+]

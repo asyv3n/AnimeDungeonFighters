@@ -1,0 +1,106 @@
+[
+  {
+    "ItemNumber": [
+      150
+    ],
+    "ItemID": [
+      1
+    ],
+    "OnlinTime": 1,
+    "ExtraChance": 1,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      1
+    ],
+    "ItemID": [
+      4000000
+    ],
+    "OnlinTime": 5,
+    "ExtraChance": 1,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      300
+    ],
+    "ItemID": [
+      1
+    ],
+    "OnlinTime": 10,
+    "ExtraChance": 2,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      1
+    ],
+    "ItemID": [
+      4000000
+    ],
+    "OnlinTime": 30,
+    "ExtraChance": 2,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      1
+    ],
+    "ItemID": [
+      4000002
+    ],
+    "OnlinTime": 50,
+    "ExtraChance": 2,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      1
+    ],
+    "ItemID": [
+      4000000
+    ],
+    "OnlinTime": 90,
+    "ExtraChance": 3,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      1
+    ],
+    "ItemID": [
+      4000002
+    ],
+    "OnlinTime": 120,
+    "ExtraChance": 3,
+    "ExtraRewards": [
+      52000003
+    ]
+  },
+  {
+    "ItemNumber": [
+      1
+    ],
+    "ItemID": [
+      4000001
+    ],
+    "OnlinTime": 150,
+    "ExtraChance": 3,
+    "ExtraRewards": [
+      52000003
+    ]
+  }
+]

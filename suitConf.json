@@ -1,0 +1,312 @@
+[
+  {
+    "attrNum_4": [
+      1200
+    ],
+    "attrNum_1": [],
+    "attrNum_2": [
+      800
+    ],
+    "xyd": 6,
+    "attrNum_5": [
+      30
+    ],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [
+      16
+    ],
+    "attr_4": [
+      1
+    ],
+    "attr_3": [],
+    "SuitName": "Chakra",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      10
+    ],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [],
+    "SuitName": "Robot",
+    "attr_2": [
+      16
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [
+      20
+    ],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [
+      16
+    ],
+    "SuitName": "Dark",
+    "attr_2": []
+  },
+  {
+    "attrNum_4": [
+      600
+    ],
+    "attrNum_1": [],
+    "attrNum_2": [
+      300
+    ],
+    "xyd": 6,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [
+      1
+    ],
+    "attr_3": [],
+    "SuitName": "Dragon",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [
+      600
+    ],
+    "attrNum_1": [],
+    "attrNum_2": [
+      300
+    ],
+    "xyd": 6,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [
+      1
+    ],
+    "attr_3": [],
+    "SuitName": "Rokudou",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      100
+    ],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [],
+    "SuitName": "Bunny",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      100
+    ],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [],
+    "SuitName": "Golden Bunny",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      400
+    ],
+    "xyd": 4,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [],
+    "SuitName": "Fox",
+    "attr_2": [
+      3
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      400
+    ],
+    "xyd": 4,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [],
+    "SuitName": "Lion",
+    "attr_2": [
+      3
+    ]
+  },
+  {
+    "attrNum_4": [
+      20
+    ],
+    "attrNum_1": [],
+    "attrNum_2": [
+      400
+    ],
+    "xyd": 6,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [
+      16
+    ],
+    "attr_3": [],
+    "SuitName": "Susanoo",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [
+      10
+    ],
+    "attrNum_1": [],
+    "attrNum_2": [
+      200
+    ],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [
+      16
+    ],
+    "attr_3": [],
+    "SuitName": "Magnet",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      4
+    ],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [
+      8
+    ],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [
+      15
+    ],
+    "SuitName": "DarkLord",
+    "attr_2": [
+      15
+    ]
+  },
+  {
+    "attrNum_4": [
+      15
+    ],
+    "attrNum_1": [],
+    "attrNum_2": [
+      5
+    ],
+    "xyd": 6,
+    "attrNum_5": [],
+    "attrNum_3": [],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [
+      15
+    ],
+    "attr_3": [],
+    "SuitName": "DarkLord (Shiny)",
+    "attr_2": [
+      15
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      200
+    ],
+    "xyd": 5,
+    "attrNum_5": [],
+    "attrNum_3": [
+      5
+    ],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [
+      16
+    ],
+    "SuitName": "Solo",
+    "attr_2": [
+      1
+    ]
+  },
+  {
+    "attrNum_4": [],
+    "attrNum_1": [],
+    "attrNum_2": [
+      400
+    ],
+    "xyd": 6,
+    "attrNum_5": [],
+    "attrNum_3": [
+      10
+    ],
+    "attr_1": [],
+    "attr_5": [],
+    "attr_4": [],
+    "attr_3": [
+      16
+    ],
+    "SuitName": "Solo (Shiny)",
+    "attr_2": [
+      1
+    ]
+  }
+]

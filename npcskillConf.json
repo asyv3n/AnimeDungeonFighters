@@ -1,0 +1,1964 @@
+{
+  "16000001": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 1,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000002": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 2,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000003": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 3,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000004": {
+    "PercentValue": [
+      1.3
+    ],
+    "CD": 4,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000005": {
+    "PercentValue": [
+      1.3
+    ],
+    "CD": 5,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000006": {
+    "PercentValue": [
+      1.4
+    ],
+    "CD": 6,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000007": {
+    "PercentValue": [
+      1.4
+    ],
+    "CD": 7,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000008": {
+    "PercentValue": [
+      1.5
+    ],
+    "CD": 8,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000300": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 5,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16000301": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 2,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16000302": {
+    "PercentValue": [
+      1.4
+    ],
+    "CD": 4,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16000303": {
+    "PercentValue": [
+      1.5
+    ],
+    "CD": 6,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16000400": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 5,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16000401": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 2,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16000402": {
+    "PercentValue": [
+      1.4
+    ],
+    "CD": 4,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16000403": {
+    "PercentValue": [
+      1.4
+    ],
+    "CD": 5,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16000501": {
+    "PercentValue": [
+      1.3
+    ],
+    "CD": 1,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000502": {
+    "PercentValue": [
+      1.5
+    ],
+    "CD": 2,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000503": {
+    "PercentValue": [
+      1.6
+    ],
+    "CD": 3,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000504": {
+    "PercentValue": [
+      1.7
+    ],
+    "CD": 4,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000505": {
+    "PercentValue": [
+      1.8
+    ],
+    "CD": 5,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000506": {
+    "PercentValue": [
+      1.8
+    ],
+    "CD": 6,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000507": {
+    "PercentValue": [
+      1.9
+    ],
+    "CD": 7,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000508": {
+    "PercentValue": [
+      2
+    ],
+    "CD": 8,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000601": {
+    "PercentValue": [
+      0.6
+    ],
+    "CD": 0.5,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000602": {
+    "PercentValue": [
+      0.5
+    ],
+    "CD": 0.5,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16000603": {
+    "PercentValue": [
+      1.5
+    ],
+    "CD": 0.5,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      100
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16000604": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 0.5,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      100
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16001001": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 25,
+    "order": 3,
+    "Range": 10,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      7
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC沙球"
+  },
+  "16002001": {
+    "PercentValue": [
+      2.9
+    ],
+    "CD": 30,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC潜影蛇手"
+  },
+  "16002002": {
+    "PercentValue": [
+      3.7
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC潜影蛇手"
+  },
+  "16002003": {
+    "PercentValue": [
+      5.4
+    ],
+    "CD": 25,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC潜影蛇手"
+  },
+  "16003001": {
+    "PercentValue": [
+      1.5
+    ],
+    "CD": 32,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC火遁豪火球"
+  },
+  "16003002": {
+    "PercentValue": [
+      2.3
+    ],
+    "CD": 30,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC火遁豪火球"
+  },
+  "16003003": {
+    "PercentValue": [
+      5.6
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC火遁豪火球"
+  },
+  "16004001": {
+    "PercentValue": [
+      1.3
+    ],
+    "CD": 27,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC风魔手里剑"
+  },
+  "16004002": {
+    "PercentValue": [
+      2.2
+    ],
+    "CD": 25,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC风魔手里剑"
+  },
+  "16004003": {
+    "PercentValue": [
+      3.5
+    ],
+    "CD": 23,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC风魔手里剑"
+  },
+  "16005001": {
+    "PercentValue": [
+      4
+    ],
+    "CD": 29,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC骨刺"
+  },
+  "16005002": {
+    "PercentValue": [
+      5.3
+    ],
+    "CD": 29,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC骨刺"
+  },
+  "16005003": {
+    "PercentValue": [
+      6.7
+    ],
+    "CD": 29,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC骨刺"
+  },
+  "16006001": {
+    "PercentValue": [
+      4
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC水冲波"
+  },
+  "16006002": {
+    "PercentValue": [
+      4
+    ],
+    "CD": 30,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC水冲波"
+  },
+  "16006003": {
+    "PercentValue": [
+      4
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC水冲波"
+  },
+  "16007001": {
+    "PercentValue": [
+      5.6
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC沙暴"
+  },
+  "16008001": {
+    "PercentValue": [
+      4.1
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC龙卷"
+  },
+  "16008002": {
+    "PercentValue": [
+      5.3
+    ],
+    "CD": 30,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC龙卷"
+  },
+  "16008003": {
+    "PercentValue": [
+      6.5
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC龙卷"
+  },
+  "16009001": {
+    "PercentValue": [
+      5.4
+    ],
+    "CD": 26,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC巴基炸弹"
+  },
+  "16010001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC四分五裂炮"
+  },
+  "16011001": {
+    "PercentValue": [
+      5.7
+    ],
+    "CD": 19,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC狮子冲击"
+  },
+  "16012001": {
+    "PercentValue": [
+      1.7
+    ],
+    "CD": 29,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC地震波"
+  },
+  "16013001": {
+    "PercentValue": [
+      6
+    ],
+    "CD": 36,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC地表干裂"
+  },
+  "16014001": {
+    "PercentValue": [
+      4.9
+    ],
+    "CD": 19,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC沙龙卷"
+  },
+  "16015001": {
+    "PercentValue": [
+      6.5
+    ],
+    "CD": 29,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC睫毛回力镖"
+  },
+  "16016001": {
+    "PercentValue": [
+      6.2
+    ],
+    "CD": 25,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC蜡烛矛"
+  },
+  "16017001": {
+    "PercentValue": [
+      4.6
+    ],
+    "CD": 15,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      8
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC飞踢能量波"
+  },
+  "16018001": {
+    "PercentValue": [
+      1.9
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC路奇指拳"
+  },
+  "16019001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC赤犬熔岩拳"
+  },
+  "16020001": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC赤犬熔岩大喷火"
+  },
+  "16021001": {
+    "PercentValue": [
+      0.6
+    ],
+    "CD": 25,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC八尺琼勾玉"
+  },
+  "16022001": {
+    "PercentValue": [
+      5.5
+    ],
+    "CD": 17,
+    "order": 2,
+    "Range": 50,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC冰河时代"
+  },
+  "16023001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      7
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC莫利亚黑刺"
+  },
+  "16024001": {
+    "PercentValue": [
+      5.8
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 20,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      7
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC莫利亚黑手"
+  },
+  "16025001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 12,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC横向剑气"
+  },
+  "16026001": {
+    "PercentValue": [
+      5.8
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC召唤幽灵"
+  },
+  "16027001": {
+    "PercentValue": [
+      6.5
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC布鲁诺铁块车轮"
+  },
+  "16028001": {
+    "PercentValue": [
+      6.2
+    ],
+    "CD": 24,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      7
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC卡库旋转白刃"
+  },
+  "16029001": {
+    "PercentValue": [
+      2.7
+    ],
+    "CD": 25,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC矢琶羽挥手箭头"
+  },
+  "16030001": {
+    "PercentValue": [
+      1.9
+    ],
+    "CD": 31,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC矢琶羽爆炸箭头"
+  },
+  "16031001": {
+    "PercentValue": [
+      5.3
+    ],
+    "CD": 15,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC朱纱丸丢球"
+  },
+  "16032001": {
+    "PercentValue": [
+      5.8
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC蜘蛛丝笼"
+  },
+  "16033001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC鲜红蛛网"
+  },
+  "16034001": {
+    "PercentValue": [
+      5.8
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC召唤蜘蛛群"
+  },
+  "16035001": {
+    "PercentValue": [
+      5.3
+    ],
+    "CD": 25,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      8
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC蜘蛛之父投掷石头"
+  },
+  "16036001": {
+    "PercentValue": [
+      4.8
+    ],
+    "CD": 17,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC破坏杀罗针"
+  },
+  "16037001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC破坏杀乱式"
+  },
+  "16038001": {
+    "PercentValue": [
+      5.8
+    ],
+    "CD": 33,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      9
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC辘轳恶鬼啃食"
+  },
+  "16039001": {
+    "PercentValue": [
+      4.3
+    ],
+    "CD": 12,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC魇梦噩梦之眼"
+  },
+  "16040001": {
+    "PercentValue": [
+      5
+    ],
+    "CD": 20,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      10
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC圆斩回旋"
+  },
+  "16041001": {
+    "PercentValue": [
+      5.5
+    ],
+    "CD": 28,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      7
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC回旋飞镰"
+  },
+  "16042001": {
+    "PercentValue": [
+      6.2
+    ],
+    "CD": 24,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      7
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC绸带追击"
+  },
+  "16043001": {
+    "PercentValue": [
+      6.5
+    ],
+    "CD": 29,
+    "order": 2,
+    "Range": 40,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC冰莲花"
+  },
+  "16100001": {
+    "PercentValue": [
+      0.8
+    ],
+    "CD": 1,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      2
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100002": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 2,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100003": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 3,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100004": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 4,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100005": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 5,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100006": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 6,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      5
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100007": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 7,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100008": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 8,
+    "order": 1,
+    "Range": 6,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      6
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC打拳普攻四连"
+  },
+  "16100301": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 2,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16100302": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 4,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16100303": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 6,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷苦无1"
+  },
+  "16100401": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 2,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16100402": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 4,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16100403": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 5,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC投掷手里剑1"
+  },
+  "16100501": {
+    "PercentValue": [
+      0.8
+    ],
+    "CD": 1,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100502": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 2,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100503": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 3,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100504": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 4,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100505": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 5,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100506": {
+    "PercentValue": [
+      1.2
+    ],
+    "CD": 6,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100507": {
+    "PercentValue": [
+      1.3
+    ],
+    "CD": 7,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      4
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100508": {
+    "PercentValue": [
+      1.4
+    ],
+    "CD": 8,
+    "order": 1,
+    "Range": 8,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC刀剑普攻三连"
+  },
+  "16100601": {
+    "PercentValue": [
+      0.9
+    ],
+    "CD": 2,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC枪射击1"
+  },
+  "16100602": {
+    "PercentValue": [
+      1
+    ],
+    "CD": 4,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC枪射击1"
+  },
+  "16100603": {
+    "PercentValue": [
+      1.1
+    ],
+    "CD": 6,
+    "order": 2,
+    "Range": 100,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      1
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC枪射击1"
+  },
+  "16100701": {
+    "PercentValue": [
+      0.7
+    ],
+    "CD": 4,
+    "order": 1,
+    "Range": 12,
+    "EffectTarget": 1,
+    "nowTime": 0,
+    "FixedValue": [
+      3
+    ],
+    "buffs": [
+      0
+    ],
+    "Priority": 1,
+    "scriptName": "NPC枪射击2"
+  }
+}

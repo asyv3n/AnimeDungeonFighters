@@ -1,0 +1,30 @@
+{
+  "8001": {
+    "ZhName": "Ice Fruit(Single-Use)",
+    "nor_rate": "100"
+  },
+  "8002": {
+    "ZhName": "Fox Fruit(Single-Use)",
+    "nor_rate": "100"
+  },
+  "8003": {
+    "ZhName": "Light Fruit(Single-Use)",
+    "nor_rate": "100"
+  },
+  "8004": {
+    "ZhName": "Love Fruit(Single-Use)",
+    "nor_rate": "100"
+  },
+  "8005": {
+    "ZhName": "果实5",
+    "nor_rate": "100"
+  },
+  "8006": {
+    "ZhName": "果实6",
+    "nor_rate": "100"
+  },
+  "8007": {
+    "ZhName": "solo",
+    "nor_rate": "800"
+  }
+}

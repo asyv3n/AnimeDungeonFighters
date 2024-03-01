@@ -1,0 +1,107 @@
+[
+  {
+    "Text": "累计登陆天数X天",
+    "TaskIcon": 13197884406,
+    "Task": "login for {1} days"
+  },
+  {
+    "Text": "游戏时长X秒",
+    "TaskIcon": 13197882109,
+    "Task": "Online for {1} minutes"
+  },
+  {
+    "Text": "击败X次副本Boss",
+    "TaskIcon": 13197886518,
+    "Task": "Defeat the Dungeon boss {1} times"
+  },
+  {
+    "Text": "参与X次副本",
+    "TaskIcon": 13197887905,
+    "Task": "Join {1} Dungeon"
+  },
+  {
+    "Text": "抓捕X只宝宝",
+    "TaskIcon": 13197885749,
+    "Task": "Catch {1} Heroes"
+  },
+  {
+    "Text": "扭蛋X次",
+    "TaskIcon": 13197884719,
+    "Task": "Open {1} eggs"
+  },
+  {
+    "Text": "点击X次",
+    "TaskIcon": 13197886772,
+    "Task": "Click {1} times"
+  },
+  {
+    "Text": "击败X个世界Boss",
+    "TaskIcon": 13197886391,
+    "Task": "Defeat the World boss {1} times"
+  },
+  {
+    "Text": "upgrade  X次",
+    "TaskIcon": 13197883058,
+    "Task": "Upgrade {1} times"
+  },
+  {
+    "Text": "附魔X次",
+    "TaskIcon": 13197886650,
+    "Task": "Enchanted {1} times"
+  },
+  {
+    "Text": "抓捕X只稀有度1宠物",
+    "TaskIcon": 13197881985,
+    "Task": "Hatch {1} Rare heros"
+  },
+  {
+    "Text": "抓捕X只稀有度2宠物",
+    "TaskIcon": 13197881985,
+    "Task": "Hatch {1} Epic heros"
+  },
+  {
+    "Text": "抓捕X只稀有度3宠物",
+    "TaskIcon": 13197881985,
+    "Task": "Hatch {1} Legendary heros"
+  },
+  {
+    "Text": "抓捕X只稀有度4宠物",
+    "TaskIcon": 13197881985,
+    "Task": "Hatch {1}  Mysterious heros"
+  },
+  {
+    "Text": "抓捕X只稀有度5宠物",
+    "TaskIcon": 13197881985,
+    "Task": "Hatch {1}  Immortal heros"
+  },
+  {
+    "Text": "合成 闪耀 宠物X次 成功",
+    "TaskIcon": 13197883621,
+    "Task": "Fuse {1} Shiny heros"
+  },
+  {
+    "Text": "合成 彩虹 宠物X次 成功",
+    "TaskIcon": 13197883806,
+    "Task": "Fuse {1} Rainbow heros"
+  },
+  {
+    "Text": "扭蛋X只稀有度6武器",
+    "TaskIcon": 13197884520,
+    "Task": "Open Secret Weapon {1} times"
+  },
+  {
+    "Text": "宝宝附魔N次",
+    "TaskIcon": 13796087330,
+    "Task": "Hero Enchanting  {1} times"
+  },
+  {
+    "Text": ".宝宝突破N次",
+    "TaskIcon": 13796087112,
+    "Task": "Hero Enchancer  {1} time"
+  },
+  {
+    "Text": "宝宝放大N次",
+    "TaskIcon": 13796087441,
+    "Task": "Hero Magnifier  {1} times"
+  }
+]

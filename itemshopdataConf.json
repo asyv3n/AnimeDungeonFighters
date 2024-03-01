@@ -1,0 +1,914 @@
+[
+  {
+    "GiftID": "1696761129",
+    "itemCount": [
+      3000
+    ],
+    "passTag": "",
+    "ZhName": "Money Pack Ι",
+    "ColorStr": "橙",
+    "OnlyTag": "Money1",
+    "ZhDes": "",
+    "itemID": [
+      1
+    ],
+    "passID": 1691504611,
+    "price": 39,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338314",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696761317",
+    "itemCount": [
+      8000
+    ],
+    "passTag": "",
+    "ZhName": "Money Pack Ⅱ",
+    "ColorStr": "橙",
+    "OnlyTag": "Money2",
+    "ZhDes": "",
+    "itemID": [
+      1
+    ],
+    "passID": 1691504663,
+    "price": 99,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338194",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696761421",
+    "itemCount": [
+      25000
+    ],
+    "passTag": "",
+    "ZhName": "Money Pack Ⅲ",
+    "ColorStr": "橙",
+    "OnlyTag": "Money3",
+    "ZhDes": "",
+    "itemID": [
+      1
+    ],
+    "passID": 1691504764,
+    "price": 299,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338106",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696761537",
+    "itemCount": [
+      55000
+    ],
+    "passTag": "",
+    "ZhName": "Money Pack Ⅳ",
+    "ColorStr": "橙",
+    "OnlyTag": "Money4",
+    "ZhDes": "",
+    "itemID": [
+      1
+    ],
+    "passID": 1691504808,
+    "price": 599,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427337976",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696761860",
+    "itemCount": [
+      100000
+    ],
+    "passTag": "",
+    "ZhName": "Money Pack Ⅴ",
+    "ColorStr": "橙",
+    "OnlyTag": "Money5",
+    "ZhDes": "",
+    "itemID": [
+      1
+    ],
+    "passID": 1691504875,
+    "price": 999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427337813",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696762165",
+    "itemCount": [
+      100
+    ],
+    "passTag": "",
+    "ZhName": "Gem Pack Ι",
+    "ColorStr": "紫",
+    "OnlyTag": "Gem1",
+    "ZhDes": "",
+    "itemID": [
+      2
+    ],
+    "passID": 1691453818,
+    "price": 49,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427274079",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696762234",
+    "itemCount": [
+      500
+    ],
+    "passTag": "",
+    "ZhName": "Gem Pack Ⅱ",
+    "ColorStr": "紫",
+    "OnlyTag": "Gem2",
+    "ZhDes": "",
+    "itemID": [
+      2
+    ],
+    "passID": 1691453898,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273974",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696762317",
+    "itemCount": [
+      2000
+    ],
+    "passTag": "",
+    "ZhName": "Gem Pack Ⅲ",
+    "ColorStr": "紫",
+    "OnlyTag": "Gem3",
+    "ZhDes": "",
+    "itemID": [
+      2
+    ],
+    "passID": 1691454363,
+    "price": 499,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273855",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696762407",
+    "itemCount": [
+      4500
+    ],
+    "passTag": "",
+    "ZhName": "Gem Pack Ⅳ",
+    "ColorStr": "紫",
+    "OnlyTag": "Gem4",
+    "ZhDes": "",
+    "itemID": [
+      2
+    ],
+    "passID": 1691454420,
+    "price": 999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273753",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696762483",
+    "itemCount": [
+      10000
+    ],
+    "passTag": "",
+    "ZhName": "Gem Pack Ⅴ",
+    "ColorStr": "紫",
+    "OnlyTag": "Gem5",
+    "ZhDes": "",
+    "itemID": [
+      2
+    ],
+    "passID": 1691454484,
+    "price": 1999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273647",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696763950",
+    "itemCount": [
+      50
+    ],
+    "passTag": "",
+    "ZhName": "Cos Coin Ι",
+    "ColorStr": "绿",
+    "OnlyTag": "Coscoin1",
+    "ZhDes": "",
+    "itemID": [
+      18
+    ],
+    "passID": 1696756244,
+    "price": 99,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15501652167",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696764013",
+    "itemCount": [
+      600
+    ],
+    "passTag": "",
+    "ZhName": "Cos Coin Ⅱ",
+    "ColorStr": "绿",
+    "OnlyTag": "Coscoin2",
+    "ZhDes": "",
+    "itemID": [
+      18
+    ],
+    "passID": 1696756278,
+    "price": 999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15501652539",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696764097",
+    "itemCount": [
+      2500
+    ],
+    "passTag": "",
+    "ZhName": "Cos Coin Ⅲ",
+    "ColorStr": "绿",
+    "OnlyTag": "Coscoin3",
+    "ZhDes": "",
+    "itemID": [
+      18
+    ],
+    "passID": 1696756336,
+    "price": 1999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15501652395",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696764482",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Reset Skill Point",
+    "ColorStr": "紫",
+    "OnlyTag": "Resetskill",
+    "ZhDes": "",
+    "itemID": [
+      16
+    ],
+    "passID": 1691454899,
+    "price": 49,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427272095",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696764548",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Reset Stats Point",
+    "ColorStr": "紫",
+    "OnlyTag": "ResetStats",
+    "ZhDes": "",
+    "itemID": [
+      17
+    ],
+    "passID": 1691454960,
+    "price": 69,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427271869",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696764869",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Exp Boost 30min",
+    "ColorStr": "红",
+    "OnlyTag": "Exp1",
+    "ZhDes": "",
+    "itemID": [
+      201
+    ],
+    "passID": 1691455098,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427274329",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696764987",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Exp Boost 60min",
+    "ColorStr": "红",
+    "OnlyTag": "Exp2",
+    "ZhDes": "",
+    "itemID": [
+      211
+    ],
+    "passID": 1691455163,
+    "price": 349,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427274329",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696765163",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Exp Boost 150min",
+    "ColorStr": "红",
+    "OnlyTag": "Exp3",
+    "ZhDes": "",
+    "itemID": [
+      221
+    ],
+    "passID": 1691455319,
+    "price": 599,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427274329",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696765289",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Exp Boost 300min",
+    "ColorStr": "红",
+    "OnlyTag": "Exp4",
+    "ZhDes": "",
+    "itemID": [
+      231
+    ],
+    "passID": 1691502614,
+    "price": 999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427274329",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696767064",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Weapon Mastery Boost 30min",
+    "ColorStr": "蓝",
+    "OnlyTag": "SkillExp1",
+    "ZhDes": "",
+    "itemID": [
+      301
+    ],
+    "passID": 1691455730,
+    "price": 139,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427272252",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696767143",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Weapon Mastery Boost 60min",
+    "ColorStr": "蓝",
+    "OnlyTag": "SkillExp2",
+    "ZhDes": "",
+    "itemID": [
+      311
+    ],
+    "passID": 1691455824,
+    "price": 249,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427272252",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696767224",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Weapon Mastery Boost 150min",
+    "ColorStr": "蓝",
+    "OnlyTag": "SkillExp3",
+    "ZhDes": "",
+    "itemID": [
+      321
+    ],
+    "passID": 1691455915,
+    "price": 399,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427272252",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696767428",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Weapon Mastery Boost 300min",
+    "ColorStr": "蓝",
+    "OnlyTag": "SkillExp4",
+    "ZhDes": "",
+    "itemID": [
+      331
+    ],
+    "passID": 1691502929,
+    "price": 699,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427272252",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696768089",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Money Boost 30min",
+    "ColorStr": "橙",
+    "OnlyTag": "MoneyBoost1",
+    "ZhDes": "",
+    "itemID": [
+      101
+    ],
+    "passID": 1691456259,
+    "price": 99,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338475",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696761317",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Money Boost 60min",
+    "ColorStr": "橙",
+    "OnlyTag": "MoneyBoost2",
+    "ZhDes": "",
+    "itemID": [
+      111
+    ],
+    "passID": 1691456345,
+    "price": 169,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338475",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696761421",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Money Boost 150min",
+    "ColorStr": "橙",
+    "OnlyTag": "MoneyBoost3",
+    "ZhDes": "",
+    "itemID": [
+      121
+    ],
+    "passID": 1691456426,
+    "price": 299,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338475",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696768547",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Money Boost 300min",
+    "ColorStr": "橙",
+    "OnlyTag": "MoneyBoost4",
+    "ZhDes": "",
+    "itemID": [
+      131
+    ],
+    "passID": 1691503204,
+    "price": 499,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427338475",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696769271",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Loot Boost 30min",
+    "ColorStr": "绿",
+    "OnlyTag": "Loop1",
+    "ZhDes": "",
+    "itemID": [
+      401
+    ],
+    "passID": 1691456519,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273522",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696769360",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Loot Boost 60min",
+    "ColorStr": "绿",
+    "OnlyTag": "Loop2",
+    "ZhDes": "",
+    "itemID": [
+      411
+    ],
+    "passID": 1691456595,
+    "price": 349,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273522",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696769442",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Loot Boost 150min",
+    "ColorStr": "绿",
+    "OnlyTag": "Loop3",
+    "ZhDes": "",
+    "itemID": [
+      421
+    ],
+    "passID": 1691456663,
+    "price": 599,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273522",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696769903",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Loot Boost 300min",
+    "ColorStr": "绿",
+    "OnlyTag": "Loop4",
+    "ZhDes": "",
+    "itemID": [
+      431
+    ],
+    "passID": 1691502760,
+    "price": 999,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273522",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696770528",
+    "itemCount": [
+      10
+    ],
+    "passTag": "",
+    "ZhName": "+10 Equipment Storage",
+    "ColorStr": "蓝",
+    "OnlyTag": "Weaponstorage1",
+    "ZhDes": "",
+    "itemID": [
+      7001
+    ],
+    "passID": 1691457133,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "13109925399",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696770627",
+    "itemCount": [
+      10
+    ],
+    "passTag": "",
+    "ZhName": "+10 Heroes Storage",
+    "ColorStr": "蓝",
+    "OnlyTag": "Herostorage1",
+    "ZhDes": "",
+    "itemID": [
+      7002
+    ],
+    "passID": 1691457213,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "13109925399",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696770705",
+    "itemCount": [
+      5
+    ],
+    "passTag": "",
+    "ZhName": "+5 Cos Storage",
+    "ColorStr": "蓝",
+    "OnlyTag": "Cosstorage1",
+    "ZhDes": "",
+    "itemID": [
+      7003
+    ],
+    "passID": 1691506137,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "13109925399",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1742990469",
+    "itemCount": [
+      5
+    ],
+    "passTag": "",
+    "ZhName": "+5 Fruit Storage",
+    "ColorStr": "蓝",
+    "OnlyTag": "FruitStorage1",
+    "ZhDes": "",
+    "itemID": [
+      7004
+    ],
+    "passID": 1742990193,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "13109925399",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Lucky Potion",
+    "ColorStr": "绿",
+    "OnlyTag": "LuckyPotion",
+    "ZhDes": "last until hero refresh ",
+    "itemID": [
+      0
+    ],
+    "passID": 1691491902,
+    "price": 99,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427274437",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Super Lucky Potion",
+    "ColorStr": "绿",
+    "OnlyTag": "SuperLuckyPotion",
+    "ZhDes": "last until hero refresh ",
+    "itemID": [
+      0
+    ],
+    "passID": 1691491958,
+    "price": 149,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427273114",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1696771509",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Money Bonus",
+    "ColorStr": "橙",
+    "OnlyTag": "MoneyBonuse",
+    "ZhDes": "Earn the twice the amount of money from dungeons",
+    "itemID": [
+      0
+    ],
+    "passID": 665131339,
+    "price": 499,
+    "cost": 2,
+    "passSort": "",
+    "Icon": "15427338396",
+    "gamePassItemID": "3000002"
+  },
+  {
+    "GiftID": "1696771571",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Vip",
+    "ColorStr": "橙",
+    "OnlyTag": "Vip",
+    "ZhDes": "+20% level exp from Dungeon and AFK Rainbow nametag and message",
+    "itemID": [
+      0
+    ],
+    "passID": 664991523,
+    "price": 299,
+    "cost": 2,
+    "passSort": "",
+    "Icon": "15427271692",
+    "gamePassItemID": "3000001"
+  },
+  {
+    "GiftID": "1696771644",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Extra Loot",
+    "ColorStr": "紫",
+    "OnlyTag": "ExtraLoop",
+    "ZhDes": "Obtain 2x loot from dungeon drops",
+    "itemID": [
+      0
+    ],
+    "passID": 664973353,
+    "price": 999,
+    "cost": 2,
+    "passSort": "",
+    "Icon": "15543097252",
+    "gamePassItemID": "3000003"
+  },
+  {
+    "GiftID": "1733969126",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Fast Hatch",
+    "ColorStr": "紫",
+    "OnlyTag": "FastHatch",
+    "ZhDes": "Hatch Speed +100%",
+    "itemID": [
+      0
+    ],
+    "passID": 694119512,
+    "price": 399,
+    "cost": 2,
+    "passSort": "",
+    "Icon": "16013191110",
+    "gamePassItemID": "3000004"
+  },
+  {
+    "GiftID": "1733968944",
+    "itemCount": [
+      0
+    ],
+    "passTag": "",
+    "ZhName": "Triple Hatch",
+    "ColorStr": "紫",
+    "OnlyTag": "TripleHatch",
+    "ZhDes": "Can hatch 3 Eggs at once",
+    "itemID": [
+      0
+    ],
+    "passID": 694317117,
+    "price": 299,
+    "cost": 2,
+    "passSort": "",
+    "Icon": "16013191026",
+    "gamePassItemID": "3000005"
+  },
+  {
+    "GiftID": "",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Skip",
+    "ColorStr": "橙",
+    "OnlyTag": "Skip",
+    "ZhDes": "",
+    "itemID": [
+      14
+    ],
+    "passID": 1705595720,
+    "price": 99,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427271692",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "1721516369",
+    "itemCount": [
+      1
+    ],
+    "passTag": "",
+    "ZhName": "Premium Pass 3",
+    "ColorStr": "紫",
+    "OnlyTag": "Premium",
+    "ZhDes": "Complete the season pass to get 2 Fruits lots of Cos and Gems!",
+    "itemID": [
+      15
+    ],
+    "passID": 1705596205,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15852394514",
+    "gamePassItemID": ""
+  },
+  {
+    "GiftID": "",
+    "itemCount": [
+      1,
+      1,
+      1,
+      1,
+      8000,
+      20,
+      20
+    ],
+    "passTag": "",
+    "ZhName": "Advanced Fighter Pack",
+    "ColorStr": "橙",
+    "OnlyTag": "StartGift",
+    "ZhDes": "",
+    "itemID": [
+      50000015,
+      2200104,
+      2300104,
+      2400104,
+      1,
+      1001,
+      1002
+    ],
+    "passID": 1708324986,
+    "price": 199,
+    "cost": 1,
+    "passSort": "",
+    "Icon": "15427271692",
+    "gamePassItemID": ""
+  }
+]

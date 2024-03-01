@@ -1,0 +1,1870 @@
+{
+  "6000001": {
+    "ModelType": 1,
+    "Avatar": "黄金兔子头部",
+    "attrNum": [
+      300,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15510874535",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Golden Bunny Hat",
+    "SellCount": [
+      30
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "黄金兔子头部",
+    "Sell": "1",
+    "Suit": "Golden Bunny",
+    "pos": 2
+  },
+  "6000002": {
+    "ModelType": 1,
+    "Avatar": "黄金兔子上身",
+    "attrNum": [
+      300,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15510874458",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Golden Cloth Coat",
+    "SellCount": [
+      30
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "黄金兔子上身",
+    "Sell": "1",
+    "Suit": "Golden Bunny",
+    "pos": 3
+  },
+  "6000003": {
+    "ModelType": 1,
+    "Avatar": "黄金兔子下身",
+    "attrNum": [
+      300,
+      5
+    ],
+    "xyd": 5,
+    "Icon": "15510874279",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Golden Bunny Bottoms",
+    "SellCount": [
+      30
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "黄金兔子下身",
+    "Sell": "1",
+    "Suit": "Golden Bunny",
+    "pos": 4
+  },
+  "6000004": {
+    "ModelType": 1,
+    "Avatar": "黄金萝卜剑",
+    "attrNum": [
+      300,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15510874046",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Golden Bunny Sword",
+    "SellCount": [
+      30
+    ],
+    "rate": 0,
+    "weaponTp": 1,
+    "Model": "黄金萝卜剑",
+    "Sell": "1",
+    "Suit": "Golden Bunny",
+    "pos": 1
+  },
+  "6010001": {
+    "ModelType": 1,
+    "Avatar": "兔子头部",
+    "attrNum": [
+      500,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15487060955",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Bunny Hat",
+    "SellCount": [
+      30
+    ],
+    "rate": 50,
+    "weaponTp": 2,
+    "Model": "兔子头部",
+    "Sell": "1",
+    "Suit": "Bunny",
+    "pos": 2
+  },
+  "6010002": {
+    "ModelType": 1,
+    "Avatar": "兔子上身",
+    "attrNum": [
+      8,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15487060793",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Bunny Cloth Coat",
+    "SellCount": [
+      30
+    ],
+    "rate": 50,
+    "weaponTp": 2,
+    "Model": "兔子上身",
+    "Sell": "1",
+    "Suit": "Bunny",
+    "pos": 3
+  },
+  "6010003": {
+    "ModelType": 1,
+    "Avatar": "兔子下身",
+    "attrNum": [
+      8,
+      5
+    ],
+    "xyd": 5,
+    "Icon": "15487060603",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Bunny Bottoms",
+    "SellCount": [
+      30
+    ],
+    "rate": 50,
+    "weaponTp": 2,
+    "Model": "兔子下身",
+    "Sell": "1",
+    "Suit": "Bunny",
+    "pos": 4
+  },
+  "6010004": {
+    "ModelType": 1,
+    "Avatar": "萝卜剑",
+    "attrNum": [
+      15,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15487060385",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Bunny Sword",
+    "SellCount": [
+      30
+    ],
+    "rate": 50,
+    "weaponTp": 1,
+    "Model": "萝卜剑",
+    "Sell": "1",
+    "Suit": "Bunny",
+    "pos": 1
+  },
+  "6010005": {
+    "ModelType": 1,
+    "Avatar": "兔子拳套",
+    "attrNum": [
+      15,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15487060179",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Bunny Punch",
+    "SellCount": [
+      30
+    ],
+    "rate": 50,
+    "weaponTp": 2,
+    "Model": "兔子拳套",
+    "Sell": "1",
+    "Suit": "Bunny",
+    "pos": 1
+  },
+  "6100001": {
+    "ModelType": 1,
+    "Avatar": "须佐九尾头部",
+    "attrNum": [
+      8000,
+      10,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487062473",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      16,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Chakra Hat",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "须佐九尾头部",
+    "Sell": "0",
+    "Suit": "Chakra",
+    "pos": 2
+  },
+  "6100002": {
+    "ModelType": 1,
+    "Avatar": "须佐九尾上身",
+    "attrNum": [
+      200,
+      10,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487062397",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Chakra Cloth Coat",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "须佐九尾上身",
+    "Sell": "0",
+    "Suit": "Chakra",
+    "pos": 3
+  },
+  "6100003": {
+    "ModelType": 1,
+    "Avatar": "须佐九尾下身",
+    "attrNum": [
+      200,
+      10,
+      300
+    ],
+    "xyd": 6,
+    "Icon": "15487062303",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      16,
+      10
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Chakra Bottoms",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "须佐九尾下身",
+    "Sell": "0",
+    "Suit": "Chakra",
+    "pos": 4
+  },
+  "6100004": {
+    "ModelType": 1,
+    "Avatar": "须佐能乎枪",
+    "attrNum": [
+      200,
+      10,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487062186",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Chakra Gun",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 3,
+    "Model": "须佐能乎枪",
+    "Sell": "0",
+    "Suit": "Chakra",
+    "pos": 1
+  },
+  "6100005": {
+    "ModelType": 1,
+    "Avatar": "须佐能乎拳套",
+    "attrNum": [
+      200,
+      10,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487062068",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16,
+      19
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Chakra Gloves",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "须佐能乎拳套",
+    "Sell": "0",
+    "Suit": "Chakra",
+    "pos": 1
+  },
+  "6100006": {
+    "ModelType": 1,
+    "Avatar": "九尾剑",
+    "attrNum": [
+      200,
+      10,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487061172",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16,
+      20
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Chakra Blade",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 1,
+    "Model": "九尾剑",
+    "Sell": "0",
+    "Suit": "Chakra",
+    "pos": 1
+  },
+  "6110001": {
+    "ModelType": 1,
+    "Avatar": "拳套1_1_3",
+    "attrNum": [
+      10,
+      0.5
+    ],
+    "xyd": 3,
+    "Icon": "15023387694",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Fox Gloves ",
+    "SellCount": [
+      1
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "拳套1_1_3",
+    "Sell": "1",
+    "Suit": "Fox",
+    "pos": 1
+  },
+  "6110002": {
+    "ModelType": 1,
+    "Avatar": "剑1_1_3",
+    "attrNum": [
+      12,
+      1
+    ],
+    "xyd": 4,
+    "Icon": "15023270698",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Fox Sword ",
+    "SellCount": [
+      5
+    ],
+    "rate": 100,
+    "weaponTp": 1,
+    "Model": "剑1_1_3",
+    "Sell": "1",
+    "Suit": "Fox",
+    "pos": 1
+  },
+  "6110003": {
+    "ModelType": 1,
+    "Avatar": "枪1_1_3",
+    "attrNum": [
+      15,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15354122753",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Fox Pistol ",
+    "SellCount": [
+      30
+    ],
+    "rate": 100,
+    "weaponTp": 3,
+    "Model": "枪1_1_3",
+    "Sell": "1",
+    "Suit": "Fox",
+    "pos": 1
+  },
+  "6110004": {
+    "ModelType": 1,
+    "Avatar": "Fox头部",
+    "attrNum": [
+      200,
+      0.5
+    ],
+    "xyd": 3,
+    "Icon": "15572208479",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Fox Hat ",
+    "SellCount": [
+      1
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "Fox头部",
+    "Sell": "1",
+    "Suit": "Fox",
+    "pos": 2
+  },
+  "6110005": {
+    "ModelType": 1,
+    "Avatar": "Fox上身",
+    "attrNum": [
+      8,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15572208150",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Fox Adorned ",
+    "SellCount": [
+      30
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "Fox上身",
+    "Sell": "1",
+    "Suit": "Fox",
+    "pos": 3
+  },
+  "6110006": {
+    "ModelType": 1,
+    "Avatar": "Fox下身",
+    "attrNum": [
+      500,
+      5
+    ],
+    "xyd": 5,
+    "Icon": "15572208350",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Fox Boots ",
+    "SellCount": [
+      30
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "Fox下身",
+    "Sell": "1",
+    "Suit": "Fox",
+    "pos": 4
+  },
+  "6120001": {
+    "ModelType": 1,
+    "Avatar": "拳套1_3_3",
+    "attrNum": [
+      12,
+      1
+    ],
+    "xyd": 4,
+    "Icon": "15023387147",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Lion Gloves ",
+    "SellCount": [
+      5
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "拳套1_3_3",
+    "Sell": "1",
+    "Suit": "Lion",
+    "pos": 1
+  },
+  "6120002": {
+    "ModelType": 1,
+    "Avatar": "剑1_3_3",
+    "attrNum": [
+      15,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15023270260",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Lion Sword ",
+    "SellCount": [
+      30
+    ],
+    "rate": 100,
+    "weaponTp": 1,
+    "Model": "剑1_3_3",
+    "Sell": "1",
+    "Suit": "Lion",
+    "pos": 1
+  },
+  "6120003": {
+    "ModelType": 1,
+    "Avatar": "枪1_3_3",
+    "attrNum": [
+      10,
+      0.5
+    ],
+    "xyd": 3,
+    "Icon": "15354121612",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Lion Pistol ",
+    "SellCount": [
+      1
+    ],
+    "rate": 100,
+    "weaponTp": 3,
+    "Model": "枪1_3_3",
+    "Sell": "1",
+    "Suit": "Lion",
+    "pos": 1
+  },
+  "6120004": {
+    "ModelType": 1,
+    "Avatar": "Lion头部",
+    "attrNum": [
+      500,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "15572208717",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Lion Hat ",
+    "SellCount": [
+      30
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "Lion头部",
+    "Sell": "1",
+    "Suit": "Lion",
+    "pos": 2
+  },
+  "6120005": {
+    "ModelType": 1,
+    "Avatar": "Lion上身",
+    "attrNum": [
+      6,
+      1
+    ],
+    "xyd": 4,
+    "Icon": "15572208628",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Lion Adorned ",
+    "SellCount": [
+      5
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "Lion上身",
+    "Sell": "1",
+    "Suit": "Lion",
+    "pos": 3
+  },
+  "6120006": {
+    "ModelType": 1,
+    "Avatar": "Lion下身",
+    "attrNum": [
+      200,
+      1
+    ],
+    "xyd": 3,
+    "Icon": "15572222213",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Lion Boots ",
+    "SellCount": [
+      1
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "Lion下身",
+    "Sell": "1",
+    "Suit": "Lion",
+    "pos": 4
+  },
+  "6130001": {
+    "ModelType": 1,
+    "Avatar": "拿破仑",
+    "attrNum": [
+      23,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15487063276",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Robot Blade",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 1,
+    "Model": "拿破仑",
+    "Sell": "1",
+    "Suit": "Robot",
+    "pos": 1
+  },
+  "6130002": {
+    "ModelType": 1,
+    "Avatar": "弗兰奇头部",
+    "attrNum": [
+      750,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15487063070",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Robot Hat",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "弗兰奇头部",
+    "Sell": "1",
+    "Suit": "Robot",
+    "pos": 2
+  },
+  "6130003": {
+    "ModelType": 1,
+    "Avatar": "弗兰奇上身",
+    "attrNum": [
+      9,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15487063001",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Robot Armor",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "弗兰奇上身",
+    "Sell": "1",
+    "Suit": "Robot",
+    "pos": 3
+  },
+  "6140001": {
+    "ModelType": 1,
+    "Avatar": "暗影头部",
+    "attrNum": [
+      750,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15487062896",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dark Hat",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "暗影头部",
+    "Sell": "1",
+    "Suit": "Dark",
+    "pos": 2
+  },
+  "6140002": {
+    "ModelType": 1,
+    "Avatar": "暗影上身",
+    "attrNum": [
+      9,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15487062808",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dark Cloth Coat",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "暗影上身",
+    "Sell": "1",
+    "Suit": "Dark",
+    "pos": 3
+  },
+  "6140003": {
+    "ModelType": 1,
+    "Avatar": "暗影下身",
+    "attrNum": [
+      23,
+      6
+    ],
+    "xyd": 5,
+    "Icon": "15487062665",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dark Bottoms",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "暗影下身",
+    "Sell": "1",
+    "Suit": "Dark",
+    "pos": 4
+  },
+  "6140004": {
+    "ModelType": 1,
+    "Avatar": "暗影剑",
+    "attrNum": [
+      23,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15487062572",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dark Blade",
+    "SellCount": [
+      200
+    ],
+    "rate": 0,
+    "weaponTp": 1,
+    "Model": "暗影剑",
+    "Sell": "1",
+    "Suit": "Dark",
+    "pos": 1
+  },
+  "6150001": {
+    "ModelType": 1,
+    "Avatar": "凯多头部",
+    "attrNum": [
+      1000,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061931",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dragon Hat",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "凯多头部",
+    "Sell": "1",
+    "Suit": "Dragon",
+    "pos": 2
+  },
+  "6150002": {
+    "ModelType": 1,
+    "Avatar": "凯多上身",
+    "attrNum": [
+      12,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061815",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dragon Armor",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "凯多上身",
+    "Sell": "1",
+    "Suit": "Dragon",
+    "pos": 3
+  },
+  "6150003": {
+    "ModelType": 1,
+    "Avatar": "凯多下身",
+    "attrNum": [
+      30,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487061741",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dragon Bottoms",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "凯多下身",
+    "Sell": "1",
+    "Suit": "Dragon",
+    "pos": 4
+  },
+  "6150004": {
+    "ModelType": 1,
+    "Avatar": "凯多拳",
+    "attrNum": [
+      30,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061656",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dragon Gloves",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "凯多拳",
+    "Sell": "1",
+    "Suit": "Dragon",
+    "pos": 1
+  },
+  "6150005": {
+    "ModelType": 1,
+    "Avatar": "凯多大棒",
+    "attrNum": [
+      30,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061538",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Dragon Stick",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 1,
+    "Model": "凯多大棒",
+    "Sell": "1",
+    "Suit": "Dragon",
+    "pos": 1
+  },
+  "6160001": {
+    "ModelType": 1,
+    "Avatar": "鸣人头部",
+    "attrNum": [
+      1000,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061450",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Rokudou Hat",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "鸣人头部",
+    "Sell": "1",
+    "Suit": "Rokudou",
+    "pos": 2
+  },
+  "6160002": {
+    "ModelType": 1,
+    "Avatar": "鸣人上身",
+    "attrNum": [
+      12,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061364",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Rokudou Cloth Coat",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "鸣人上身",
+    "Sell": "1",
+    "Suit": "Rokudou",
+    "pos": 3
+  },
+  "6160003": {
+    "ModelType": 1,
+    "Avatar": "鸣人下身",
+    "attrNum": [
+      30,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "15487061261",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      19
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Rokudou Bottoms",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "鸣人下身",
+    "Sell": "1",
+    "Suit": "Rokudou",
+    "pos": 4
+  },
+  "6160004": {
+    "ModelType": 1,
+    "Avatar": "九尾枪",
+    "attrNum": [
+      30,
+      5
+    ],
+    "xyd": 6,
+    "Icon": "15487061038",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Rokudou Pistol",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 3,
+    "Model": "九尾枪",
+    "Sell": "1",
+    "Suit": "Rokudou",
+    "pos": 1
+  },
+  "6170001": {
+    "ModelType": 1,
+    "Avatar": "须佐能乎头部",
+    "attrNum": [
+      1500,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "15941674023",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Susanoo Hat",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "须佐能乎头部",
+    "Sell": "1",
+    "Suit": "Susanoo",
+    "pos": 2
+  },
+  "6170002": {
+    "ModelType": 1,
+    "Avatar": "须佐能乎上身",
+    "attrNum": [
+      20,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "15941666670",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Susanoo Armor",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "须佐能乎上身",
+    "Sell": "1",
+    "Suit": "Susanoo",
+    "pos": 3
+  },
+  "6170003": {
+    "ModelType": 1,
+    "Avatar": "须佐能乎下身",
+    "attrNum": [
+      50,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "15941665989",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Susanoo Bottoms",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "须佐能乎下身",
+    "Sell": "1",
+    "Suit": "Susanoo",
+    "pos": 4
+  },
+  "6170004": {
+    "ModelType": 1,
+    "Avatar": "须佐剑",
+    "attrNum": [
+      50,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "15941665435",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Susanoo Sword",
+    "SellCount": [
+      200
+    ],
+    "rate": 100,
+    "weaponTp": 1,
+    "Model": "须佐剑",
+    "Sell": "1",
+    "Suit": "Susanoo",
+    "pos": 1
+  },
+  "6180001": {
+    "ModelType": 1,
+    "Avatar": "基德头部",
+    "attrNum": [
+      1500,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "15941666969",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Magnet Hat",
+    "SellCount": [
+      50
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "基德头部",
+    "Sell": "1",
+    "Suit": "Magnet",
+    "pos": 2
+  },
+  "6180002": {
+    "ModelType": 1,
+    "Avatar": "基德上身",
+    "attrNum": [
+      10,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15941666399",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Magnet Cloth Coat",
+    "SellCount": [
+      50
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "基德上身",
+    "Sell": "1",
+    "Suit": "Magnet",
+    "pos": 3
+  },
+  "6180003": {
+    "ModelType": 1,
+    "Avatar": "基德下身",
+    "attrNum": [
+      20,
+      3
+    ],
+    "xyd": 5,
+    "Icon": "15941665646",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Magnet Bottoms",
+    "SellCount": [
+      50
+    ],
+    "rate": 100,
+    "weaponTp": 2,
+    "Model": "基德下身",
+    "Sell": "1",
+    "Suit": "Magnet",
+    "pos": 4
+  },
+  "6180004": {
+    "ModelType": 1,
+    "Avatar": "基德枪",
+    "attrNum": [
+      50,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "15941665263",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "Magnet Pistol",
+    "SellCount": [
+      50
+    ],
+    "rate": 100,
+    "weaponTp": 3,
+    "Model": "基德枪",
+    "Sell": "1",
+    "Suit": "Magnet",
+    "pos": 1
+  },
+  "6190001": {
+    "ModelType": 1,
+    "Avatar": "Solo高级时装头部",
+    "attrNum": [
+      500,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "16194005015",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Hair",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "Solo高级时装头部",
+    "Sell": "1",
+    "Suit": "DarkLord",
+    "pos": 2
+  },
+  "6190002": {
+    "ModelType": 1,
+    "Avatar": "Solo高级时装上身",
+    "attrNum": [
+      8,
+      2
+    ],
+    "xyd": 5,
+    "Icon": "16194004881",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Cloth",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "Solo高级时装上身",
+    "Sell": "1",
+    "Suit": "DarkLord",
+    "pos": 3
+  },
+  "6190003": {
+    "ModelType": 1,
+    "Avatar": "Solo高级时装下身",
+    "attrNum": [
+      15,
+      4
+    ],
+    "xyd": 5,
+    "Icon": "16194004731",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Bottoms",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "Solo高级时装下身",
+    "Sell": "1",
+    "Suit": "DarkLord",
+    "pos": 4
+  },
+  "6200001": {
+    "ModelType": 1,
+    "Avatar": "Solo高级时装头部Shiny",
+    "attrNum": [
+      800,
+      3
+    ],
+    "xyd": 6,
+    "Icon": "16193881516",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      18
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Hair (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "Solo高级时装头部Shiny",
+    "Sell": "1",
+    "Suit": "DarkLord (Shiny)",
+    "pos": 2
+  },
+  "6200002": {
+    "ModelType": 1,
+    "Avatar": "Solo高级时装上身Shiny",
+    "attrNum": [
+      10,
+      3
+    ],
+    "xyd": 6,
+    "Icon": "16193881227",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      17
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Cloth (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "Solo高级时装上身Shiny",
+    "Sell": "1",
+    "Suit": "DarkLord (Shiny)",
+    "pos": 3
+  },
+  "6200003": {
+    "ModelType": 1,
+    "Avatar": "Solo高级时装下身Shiny",
+    "attrNum": [
+      20,
+      6
+    ],
+    "xyd": 6,
+    "Icon": "16193880975",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Bottoms (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 2,
+    "Model": "Solo高级时装下身Shiny",
+    "Sell": "1",
+    "Suit": "DarkLord (Shiny)",
+    "pos": 4
+  },
+  "6200004": {
+    "ModelType": 1,
+    "Avatar": "高级暗影君主剑",
+    "attrNum": [
+      20,
+      3
+    ],
+    "xyd": 6,
+    "Icon": "16194015389",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      16
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "DarkLord Blade (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 0,
+    "weaponTp": 1,
+    "Model": "高级暗影君主剑",
+    "Sell": "1",
+    "Suit": "DarkLord (Shiny)",
+    "pos": 1
+  },
+  "6210001": {
+    "ModelType": 1,
+    "Avatar": "Solo低级时装头部",
+    "attrNum": [
+      500,
+      4
+    ],
+    "xyd": 5,
+    "Icon": "16193283033",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "SoloHair",
+    "SellCount": [
+      50
+    ],
+    "rate": 200,
+    "weaponTp": 2,
+    "Model": "Solo低级时装头部",
+    "Sell": "1",
+    "Suit": "Solo",
+    "pos": 2
+  },
+  "6210002": {
+    "ModelType": 1,
+    "Avatar": "Solo低级时装上身",
+    "attrNum": [
+      8,
+      4
+    ],
+    "xyd": 5,
+    "Icon": "16193282892",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "SoloCloth Coat",
+    "SellCount": [
+      50
+    ],
+    "rate": 200,
+    "weaponTp": 2,
+    "Model": "Solo低级时装上身",
+    "Sell": "1",
+    "Suit": "Solo",
+    "pos": 3
+  },
+  "6210003": {
+    "ModelType": 1,
+    "Avatar": "Solo低级时装下身",
+    "attrNum": [
+      15,
+      4
+    ],
+    "xyd": 5,
+    "Icon": "16193282733",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "SoloBottoms",
+    "SellCount": [
+      50
+    ],
+    "rate": 200,
+    "weaponTp": 2,
+    "Model": "Solo低级时装下身",
+    "Sell": "1",
+    "Suit": "Solo",
+    "pos": 4
+  },
+  "6220001": {
+    "ModelType": 1,
+    "Avatar": "Solo低级时装头部Shiny",
+    "attrNum": [
+      1000,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "16193880764",
+    "lvNeed": 1,
+    "attr": [
+      3,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "SoloHair (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 200,
+    "weaponTp": 2,
+    "Model": "Solo低级时装头部Shiny",
+    "Sell": "1",
+    "Suit": "Solo (Shiny)",
+    "pos": 2
+  },
+  "6220002": {
+    "ModelType": 1,
+    "Avatar": "Solo低级时装上身Shiny",
+    "attrNum": [
+      12,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "16193880402",
+    "lvNeed": 1,
+    "attr": [
+      2,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "SoloCloth Coat (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 200,
+    "weaponTp": 2,
+    "Model": "Solo低级时装上身Shiny",
+    "Sell": "1",
+    "Suit": "Solo (Shiny)",
+    "pos": 3
+  },
+  "6220003": {
+    "ModelType": 1,
+    "Avatar": "Solo低级时装下身Shiny",
+    "attrNum": [
+      30,
+      10
+    ],
+    "xyd": 6,
+    "Icon": "16193880167",
+    "lvNeed": 1,
+    "attr": [
+      1,
+      15
+    ],
+    "SellItem": [
+      18
+    ],
+    "tp": 6,
+    "ZhName": "SoloBottoms (Shiny)",
+    "SellCount": [
+      50
+    ],
+    "rate": 200,
+    "weaponTp": 2,
+    "Model": "Solo低级时装下身Shiny",
+    "Sell": "1",
+    "Suit": "Solo (Shiny)",
+    "pos": 4
+  }
+}

@@ -1,0 +1,1370 @@
+[
+  {
+    "index": 1,
+    "TaskType": [
+      "4",
+      "1_1_1"
+    ],
+    "onlyTag": "NPC_1_1",
+    "wd": 1,
+    "talk": [
+      "Greetings adventurer! You're finally here! ",
+      " Please help me pass the Final Valley(Easy)."
+    ],
+    "count": [
+      300,
+      200
+    ],
+    "title": "任务1",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 2,
+    "TaskType": [
+      "4",
+      "1_1_2"
+    ],
+    "onlyTag": "NPC_1_2",
+    "wd": 1,
+    "talk": [
+      "Greetings adventurer! You're finally here! ",
+      " Please help me pass the Final Valley(Normal)."
+    ],
+    "count": [
+      1200,
+      200
+    ],
+    "title": "任务2",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 3,
+    "TaskType": [
+      "4",
+      "1_1_3"
+    ],
+    "onlyTag": "NPC_1_3",
+    "wd": 1,
+    "talk": [
+      "Greetings adventurer! You're finally here! ",
+      " Please help me pass the Final Valley(Hard)."
+    ],
+    "count": [
+      1600,
+      200
+    ],
+    "title": "任务3",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 4,
+    "TaskType": [
+      "10"
+    ],
+    "onlyTag": "NPC_1_4",
+    "wd": 1,
+    "talk": [
+      "A new epiphany! ",
+      " Go learn a new skill."
+    ],
+    "count": [
+      2000,
+      200
+    ],
+    "title": "任务4",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 5,
+    "TaskType": [
+      "12",
+      "1"
+    ],
+    "onlyTag": "NPC_1_5",
+    "wd": 1,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 5 equipment."
+    ],
+    "count": [
+      2200,
+      200
+    ],
+    "title": "任务5",
+    "award": [
+      3,
+      2
+    ],
+    "param": "5"
+  },
+  {
+    "index": 6,
+    "TaskType": [
+      "4",
+      "1_2_1"
+    ],
+    "onlyTag": "NPC_1_6",
+    "wd": 1,
+    "talk": [
+      "Could you help me to pass dungeon Labs(Easy)?"
+    ],
+    "count": [
+      2400,
+      200
+    ],
+    "title": "任务6",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 7,
+    "TaskType": [
+      "4",
+      "1_2_2"
+    ],
+    "onlyTag": "NPC_1_7",
+    "wd": 1,
+    "talk": [
+      "Could you help me to pass dungeon Labs(Normal) ?"
+    ],
+    "count": [
+      5000,
+      200
+    ],
+    "title": "任务7",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 8,
+    "TaskType": [
+      "4",
+      "1_2_3"
+    ],
+    "onlyTag": "NPC_1_8",
+    "wd": 1,
+    "talk": [
+      "Could you help me to pass dungeon Labs(Hard) ?"
+    ],
+    "count": [
+      10000,
+      200
+    ],
+    "title": "任务8",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 9,
+    "TaskType": [
+      "11"
+    ],
+    "onlyTag": "NPC_1_9",
+    "wd": 1,
+    "talk": [
+      "Make your skills stronger and stronger  ",
+      " Please increase skills 4 times."
+    ],
+    "count": [
+      8000,
+      200
+    ],
+    "title": "任务9",
+    "award": [
+      3,
+      2
+    ],
+    "param": "4"
+  },
+  {
+    "index": 10,
+    "TaskType": [
+      "7"
+    ],
+    "onlyTag": "NPC_1_10",
+    "wd": 1,
+    "talk": [
+      "Make your equipments stronger and stronger ",
+      " Please strengthen equipment 5 times."
+    ],
+    "count": [
+      8000,
+      200
+    ],
+    "title": "任务10",
+    "award": [
+      3,
+      2
+    ],
+    "param": "5"
+  },
+  {
+    "index": 11,
+    "TaskType": [
+      "4",
+      "1_3_1"
+    ],
+    "onlyTag": "NPC_1_11",
+    "wd": 1,
+    "talk": [
+      "Could you help me pass dungeon Village(Easy) ?"
+    ],
+    "count": [
+      5000,
+      200
+    ],
+    "title": "任务11",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 12,
+    "TaskType": [
+      "4",
+      "1_3_2"
+    ],
+    "onlyTag": "NPC_1_12",
+    "wd": 1,
+    "talk": [
+      "Could you help me pass dungeon Village(Normal) ?"
+    ],
+    "count": [
+      8000,
+      200
+    ],
+    "title": "任务12",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 13,
+    "TaskType": [
+      "4",
+      "1_3_3"
+    ],
+    "onlyTag": "NPC_1_13",
+    "wd": 1,
+    "talk": [
+      "Can you help pass dungeon Village(Hard)?"
+    ],
+    "count": [
+      10000,
+      200
+    ],
+    "title": "任务13",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 14,
+    "TaskType": [
+      "4",
+      "1_3_4"
+    ],
+    "onlyTag": "NPC_1_14",
+    "wd": 1,
+    "talk": [
+      "Can you help pass dungeon Village(Hell) ?"
+    ],
+    "count": [
+      30000,
+      200
+    ],
+    "title": "任务14",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 1,
+    "TaskType": [
+      "4",
+      "2_1_1"
+    ],
+    "onlyTag": "NPC_2_1",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Skull Island(Easy) ?"
+    ],
+    "count": [
+      10000,
+      200
+    ],
+    "title": "任务1",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 2,
+    "TaskType": [
+      "4",
+      "2_1_2"
+    ],
+    "onlyTag": "NPC_2_2",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Skull Island(Normal) ?"
+    ],
+    "count": [
+      15000,
+      200
+    ],
+    "title": "任务2",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 3,
+    "TaskType": [
+      "4",
+      "2_1_3"
+    ],
+    "onlyTag": "NPC_2_3",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Skull Island(Hard)?"
+    ],
+    "count": [
+      20000,
+      200
+    ],
+    "title": "任务3",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 4,
+    "TaskType": [
+      "4",
+      "2_1_4"
+    ],
+    "onlyTag": "NPC_2_4",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Skull Island(Hell) ?"
+    ],
+    "count": [
+      30000,
+      200
+    ],
+    "title": "任务4",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 5,
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "NPC_2_5",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon 10 Times?"
+    ],
+    "count": [
+      30000,
+      200
+    ],
+    "title": "任务5",
+    "award": [
+      3,
+      2
+    ],
+    "param": "10"
+  },
+  {
+    "index": 6,
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "NPC_2_6",
+    "wd": 2,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 2 Mysterious equipment."
+    ],
+    "count": [
+      30000,
+      200
+    ],
+    "title": "任务6",
+    "award": [
+      3,
+      2
+    ],
+    "param": "2"
+  },
+  {
+    "index": 7,
+    "TaskType": [
+      "4",
+      "2_2_1"
+    ],
+    "onlyTag": "NPC_2_7",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Desert City(Easy) ?"
+    ],
+    "count": [
+      40000,
+      200
+    ],
+    "title": "任务7",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 8,
+    "TaskType": [
+      "4",
+      "2_2_2"
+    ],
+    "onlyTag": "NPC_2_8",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Desert City(Normal) ?"
+    ],
+    "count": [
+      50000,
+      200
+    ],
+    "title": "任务8",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 9,
+    "TaskType": [
+      "4",
+      "2_2_3"
+    ],
+    "onlyTag": "NPC_2_9",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Desert City(Hard)?"
+    ],
+    "count": [
+      60000,
+      200
+    ],
+    "title": "任务9",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 10,
+    "TaskType": [
+      "4",
+      "2_2_4"
+    ],
+    "onlyTag": "NPC_2_10",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Desert City(Hell) ?"
+    ],
+    "count": [
+      70000,
+      200
+    ],
+    "title": "任务10",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 11,
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "NPC_2_11",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon 15 Times?"
+    ],
+    "count": [
+      80000,
+      200
+    ],
+    "title": "任务11",
+    "award": [
+      3,
+      2
+    ],
+    "param": "15"
+  },
+  {
+    "index": 12,
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "NPC_2_12",
+    "wd": 2,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 3 Mysterious equipment."
+    ],
+    "count": [
+      90000,
+      200
+    ],
+    "title": "任务12",
+    "award": [
+      3,
+      2
+    ],
+    "param": "3"
+  },
+  {
+    "index": 13,
+    "TaskType": [
+      "4",
+      "2_3_1"
+    ],
+    "onlyTag": "NPC_2_13",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Frozen Fortress(Easy) ?"
+    ],
+    "count": [
+      100000,
+      200
+    ],
+    "title": "任务13",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 14,
+    "TaskType": [
+      "4",
+      "2_3_2"
+    ],
+    "onlyTag": "NPC_2_14",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Frozen Fortress(Normal) ?"
+    ],
+    "count": [
+      150000,
+      200
+    ],
+    "title": "任务14",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 15,
+    "TaskType": [
+      "4",
+      "2_3_3"
+    ],
+    "onlyTag": "NPC_2_15",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Frozen Fortress(Hard)?"
+    ],
+    "count": [
+      200000,
+      200
+    ],
+    "title": "任务15",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 16,
+    "TaskType": [
+      "4",
+      "2_3_4"
+    ],
+    "onlyTag": "NPC_2_16",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Frozen Fortress(Hell) ?"
+    ],
+    "count": [
+      250000,
+      200
+    ],
+    "title": "任务16",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 17,
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "NPC_2_17",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon 20 Times?"
+    ],
+    "count": [
+      300000,
+      200
+    ],
+    "title": "任务17",
+    "award": [
+      3,
+      2
+    ],
+    "param": "20"
+  },
+  {
+    "index": 18,
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "NPC_2_18",
+    "wd": 2,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 4 Mysterious equipment."
+    ],
+    "count": [
+      350000,
+      200
+    ],
+    "title": "任务18",
+    "award": [
+      3,
+      2
+    ],
+    "param": "4"
+  },
+  {
+    "index": 19,
+    "TaskType": [
+      "4",
+      "2_4_1"
+    ],
+    "onlyTag": "NPC_2_19",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Seven Sea(Easy) ?"
+    ],
+    "count": [
+      400000,
+      200
+    ],
+    "title": "任务19",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 20,
+    "TaskType": [
+      "4",
+      "2_4_2"
+    ],
+    "onlyTag": "NPC_2_20",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Seven Sea(Normal) ?"
+    ],
+    "count": [
+      450000,
+      200
+    ],
+    "title": "任务20",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 21,
+    "TaskType": [
+      "4",
+      "2_4_3"
+    ],
+    "onlyTag": "NPC_2_21",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Seven Sea(Hard)?"
+    ],
+    "count": [
+      500000,
+      200
+    ],
+    "title": "任务21",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 22,
+    "TaskType": [
+      "4",
+      "2_4_4"
+    ],
+    "onlyTag": "NPC_2_22",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Seven Sea(Hell) ?"
+    ],
+    "count": [
+      500000,
+      200
+    ],
+    "title": "任务22",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 23,
+    "TaskType": [
+      "4",
+      "2_5_1"
+    ],
+    "onlyTag": "NPC_2_23",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Graveyard(Easy) ?"
+    ],
+    "count": [
+      500000,
+      200
+    ],
+    "title": "任务23",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 24,
+    "TaskType": [
+      "4",
+      "2_5_2"
+    ],
+    "onlyTag": "NPC_2_24",
+    "wd": 2,
+    "talk": [
+      "Could you help me pass dungeon Graveyard(Normal) ?"
+    ],
+    "count": [
+      500000,
+      200
+    ],
+    "title": "任务24",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 25,
+    "TaskType": [
+      "4",
+      "2_5_3"
+    ],
+    "onlyTag": "NPC_2_25",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Graveyard(Hard)?"
+    ],
+    "count": [
+      500000,
+      200
+    ],
+    "title": "任务25",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 26,
+    "TaskType": [
+      "4",
+      "2_5_4"
+    ],
+    "onlyTag": "NPC_2_26",
+    "wd": 2,
+    "talk": [
+      "Can you help pass dungeon Graveyard(Hell) ?"
+    ],
+    "count": [
+      500000,
+      200
+    ],
+    "title": "任务26",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 1,
+    "TaskType": [
+      "4",
+      "3_1_1"
+    ],
+    "onlyTag": "NPC_3_1",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Snow Village(Easy) ?"
+    ],
+    "count": [
+      1500000,
+      200
+    ],
+    "title": "任务27",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 2,
+    "TaskType": [
+      "4",
+      "3_1_2"
+    ],
+    "onlyTag": "NPC_3_2",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Snow Village(Normal) ?"
+    ],
+    "count": [
+      1600000,
+      200
+    ],
+    "title": "任务28",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 3,
+    "TaskType": [
+      "4",
+      "3_1_3"
+    ],
+    "onlyTag": "NPC_3_3",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Snow Village(Hard)?"
+    ],
+    "count": [
+      1700000,
+      200
+    ],
+    "title": "任务29",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 4,
+    "TaskType": [
+      "4",
+      "3_1_4"
+    ],
+    "onlyTag": "NPC_3_4",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Snow Village(Hell) ?"
+    ],
+    "count": [
+      1800000,
+      200
+    ],
+    "title": "任务30",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 5,
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "NPC_3_5",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon 10 Times?"
+    ],
+    "count": [
+      1900000,
+      200
+    ],
+    "title": "任务31",
+    "award": [
+      3,
+      2
+    ],
+    "param": "10"
+  },
+  {
+    "index": 6,
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "NPC_3_6",
+    "wd": 3,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 3 Mysterious equipment."
+    ],
+    "count": [
+      2000000,
+      200
+    ],
+    "title": "任务32",
+    "award": [
+      3,
+      2
+    ],
+    "param": "3"
+  },
+  {
+    "index": 7,
+    "TaskType": [
+      "4",
+      "3_2_1"
+    ],
+    "onlyTag": "NPC_3_7",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Spiders Mountain(Easy) ?"
+    ],
+    "count": [
+      2100000,
+      200
+    ],
+    "title": "任务33",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 8,
+    "TaskType": [
+      "4",
+      "3_2_2"
+    ],
+    "onlyTag": "NPC_3_8",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Spiders Mountain(Normal) ?"
+    ],
+    "count": [
+      2200000,
+      200
+    ],
+    "title": "任务34",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 9,
+    "TaskType": [
+      "4",
+      "3_2_3"
+    ],
+    "onlyTag": "NPC_3_9",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Spiders Mountain(Hard)?"
+    ],
+    "count": [
+      2300000,
+      200
+    ],
+    "title": "任务35",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 10,
+    "TaskType": [
+      "4",
+      "3_2_4"
+    ],
+    "onlyTag": "NPC_3_10",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Spiders Mountain(Hell) ?"
+    ],
+    "count": [
+      2400000,
+      200
+    ],
+    "title": "任务36",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 11,
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "NPC_3_11",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon 15 Times?"
+    ],
+    "count": [
+      2500000,
+      200
+    ],
+    "title": "任务37",
+    "award": [
+      3,
+      2
+    ],
+    "param": "15"
+  },
+  {
+    "index": 12,
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "NPC_3_12",
+    "wd": 3,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 4 Mysterious equipment."
+    ],
+    "count": [
+      2600000,
+      200
+    ],
+    "title": "任务38",
+    "award": [
+      3,
+      2
+    ],
+    "param": "4"
+  },
+  {
+    "index": 13,
+    "TaskType": [
+      "4",
+      "3_3_1"
+    ],
+    "onlyTag": "NPC_3_13",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Infinite Train(Easy) ?"
+    ],
+    "count": [
+      2700000,
+      200
+    ],
+    "title": "任务39",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 14,
+    "TaskType": [
+      "4",
+      "3_3_2"
+    ],
+    "onlyTag": "NPC_3_14",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Infinite Train(Normal) ?"
+    ],
+    "count": [
+      2800000,
+      200
+    ],
+    "title": "任务40",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 15,
+    "TaskType": [
+      "4",
+      "3_3_3"
+    ],
+    "onlyTag": "NPC_3_15",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Infinite Train(Hard)?"
+    ],
+    "count": [
+      2900000,
+      200
+    ],
+    "title": "任务41",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 16,
+    "TaskType": [
+      "4",
+      "3_3_4"
+    ],
+    "onlyTag": "NPC_3_16",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Infinite Train(Hell) ?"
+    ],
+    "count": [
+      3000000,
+      200
+    ],
+    "title": "任务42",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 17,
+    "TaskType": [
+      "14"
+    ],
+    "onlyTag": "NPC_3_17",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon 20 Times?"
+    ],
+    "count": [
+      3100000,
+      200
+    ],
+    "title": "任务43",
+    "award": [
+      3,
+      2
+    ],
+    "param": "20"
+  },
+  {
+    "index": 18,
+    "TaskType": [
+      "12",
+      "5"
+    ],
+    "onlyTag": "NPC_3_18",
+    "wd": 3,
+    "talk": [
+      "Arm yourself to the teeth! ",
+      " Please wear 5 Mysterious equipment."
+    ],
+    "count": [
+      3500000,
+      200
+    ],
+    "title": "任务44",
+    "award": [
+      3,
+      2
+    ],
+    "param": "5"
+  },
+  {
+    "index": 19,
+    "TaskType": [
+      "4",
+      "3_4_1"
+    ],
+    "onlyTag": "NPC_3_19",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Sakura Street(Easy) ?"
+    ],
+    "count": [
+      3700000,
+      200
+    ],
+    "title": "任务45",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 20,
+    "TaskType": [
+      "4",
+      "3_4_2"
+    ],
+    "onlyTag": "NPC_3_20",
+    "wd": 3,
+    "talk": [
+      "Could you help me pass dungeon Sakura Street(Normal) ?"
+    ],
+    "count": [
+      3900000,
+      200
+    ],
+    "title": "任务46",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 21,
+    "TaskType": [
+      "4",
+      "3_4_3"
+    ],
+    "onlyTag": "NPC_3_21",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Sakura Street(Hard)?"
+    ],
+    "count": [
+      4100000,
+      200
+    ],
+    "title": "任务47",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  },
+  {
+    "index": 22,
+    "TaskType": [
+      "4",
+      "3_4_4"
+    ],
+    "onlyTag": "NPC_3_22",
+    "wd": 3,
+    "talk": [
+      "Can you help pass dungeon Sakura Street(Hell) ?"
+    ],
+    "count": [
+      5000000,
+      200
+    ],
+    "title": "任务48",
+    "award": [
+      3,
+      2
+    ],
+    "param": "1"
+  }
+]

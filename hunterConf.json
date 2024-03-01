@@ -1,0 +1,314 @@
+[
+  {
+    "exAward": 4000001,
+    "lv_start": 1,
+    "awardCount": [
+      10,
+      4,
+      10,
+      15
+    ],
+    "lv_end": 20,
+    "exCount": 1
+  },
+  {
+    "exAward": 4010001,
+    "lv_start": 21,
+    "awardCount": [
+      20,
+      4,
+      15,
+      30
+    ],
+    "lv_end": 40,
+    "exCount": 1
+  },
+  {
+    "exAward": 4020001,
+    "lv_start": 41,
+    "awardCount": [
+      40,
+      4,
+      20,
+      60
+    ],
+    "lv_end": 60,
+    "exCount": 1
+  },
+  {
+    "exAward": 4040001,
+    "lv_start": 61,
+    "awardCount": [
+      100,
+      4,
+      50,
+      80
+    ],
+    "lv_end": 80,
+    "exCount": 1
+  },
+  {
+    "exAward": 4050001,
+    "lv_start": 81,
+    "awardCount": [
+      200,
+      4,
+      150,
+      100
+    ],
+    "lv_end": 100,
+    "exCount": 1
+  },
+  {
+    "exAward": 4060001,
+    "lv_start": 101,
+    "awardCount": [
+      300,
+      4,
+      300,
+      150
+    ],
+    "lv_end": 120,
+    "exCount": 1
+  },
+  {
+    "exAward": 4070001,
+    "lv_start": 121,
+    "awardCount": [
+      400,
+      4,
+      500,
+      400
+    ],
+    "lv_end": 140,
+    "exCount": 1
+  },
+  {
+    "exAward": 4080001,
+    "lv_start": 141,
+    "awardCount": [
+      500,
+      4,
+      800,
+      500
+    ],
+    "lv_end": 160,
+    "exCount": 1
+  },
+  {
+    "exAward": 4090001,
+    "lv_start": 161,
+    "awardCount": [
+      500,
+      4,
+      1000,
+      700
+    ],
+    "lv_end": 180,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001001,
+    "lv_start": 181,
+    "awardCount": [
+      500,
+      4,
+      2000,
+      1000
+    ],
+    "lv_end": 200,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001101,
+    "lv_start": 201,
+    "awardCount": [
+      500,
+      4,
+      3000,
+      2000
+    ],
+    "lv_end": 220,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 221,
+    "awardCount": [
+      500,
+      4,
+      5000,
+      4000
+    ],
+    "lv_end": 240,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 241,
+    "awardCount": [
+      500,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 260,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 261,
+    "awardCount": [
+      500,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 280,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 281,
+    "awardCount": [
+      500,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 300,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 301,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 320,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 321,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 340,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 341,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 360,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 361,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 380,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 381,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 400,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 401,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 420,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 421,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 440,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 441,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 460,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 461,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 480,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 481,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 500,
+    "exCount": 1
+  },
+  {
+    "exAward": 4001201,
+    "lv_start": 501,
+    "awardCount": [
+      200,
+      4,
+      8000,
+      4000
+    ],
+    "lv_end": 520,
+    "exCount": 1
+  }
+]

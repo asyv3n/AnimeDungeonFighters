@@ -1,0 +1,62 @@
+[
+  {
+    "ZhDes": "Get Super Money Boost 30 min",
+    "Count": 2,
+    "Need": 10,
+    "Award": "102"
+  },
+  {
+    "ZhDes": "Get  Daily Token 1",
+    "Count": 2,
+    "Need": 20,
+    "Award": "11"
+  },
+  {
+    "ZhDes": "Get  Lucky Boost 60min",
+    "Count": 4,
+    "Need": 30,
+    "Award": "301"
+  },
+  {
+    "ZhDes": "Get +1 Egg Each Hatch",
+    "Count": 1,
+    "Need": 40,
+    "Award": "IndexExHatch"
+  },
+  {
+    "ZhDes": "Get  Daily Token 3",
+    "Count": 3,
+    "Need": 50,
+    "Award": "11"
+  },
+  {
+    "ZhDes": "Get  Lucky Boost 2 hour",
+    "Count": 1,
+    "Need": 60,
+    "Award": "311"
+  },
+  {
+    "ZhDes": "Get  Power Boost 3 hour",
+    "Count": 3,
+    "Need": 70,
+    "Award": "411"
+  },
+  {
+    "ZhDes": "Get  Daily Token 4",
+    "Count": 4,
+    "Need": 80,
+    "Award": "11"
+  },
+  {
+    "ZhDes": "Get  Lucky Boost 5 hour",
+    "Count": 5,
+    "Need": 100,
+    "Award": "321"
+  },
+  {
+    "ZhDes": "Get  Daily Token 5",
+    "Count": 5,
+    "Need": 120,
+    "Award": "11"
+  }
+]

@@ -1,0 +1,2752 @@
+[
+  {
+    "UpPrice": [
+      1,
+      4,
+      8,
+      12,
+      16
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade1_1",
+    "Icon": "",
+    "WorldID": "1"
+  },
+  {
+    "UpPrice": [
+      1,
+      4,
+      8,
+      12,
+      16
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade1_2",
+    "Icon": "",
+    "WorldID": "1"
+  },
+  {
+    "UpPrice": [
+      1,
+      4,
+      8,
+      12,
+      16
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade1_3",
+    "Icon": "",
+    "WorldID": "1"
+  },
+  {
+    "UpPrice": [
+      1,
+      4,
+      8,
+      12,
+      16
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade1_4",
+    "Icon": "",
+    "WorldID": "1"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade2_1",
+    "Icon": "",
+    "WorldID": "2"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade2_2",
+    "Icon": "",
+    "WorldID": "2"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade2_3",
+    "Icon": "",
+    "WorldID": "2"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade2_4",
+    "Icon": "",
+    "WorldID": "2"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade3_1",
+    "Icon": "",
+    "WorldID": "3"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade3_2",
+    "Icon": "",
+    "WorldID": "3"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade3_3",
+    "Icon": "",
+    "WorldID": "3"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade3_4",
+    "Icon": "",
+    "WorldID": "3"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade3_5",
+    "Icon": "",
+    "WorldID": "3"
+  },
+  {
+    "UpPrice": [
+      3,
+      6,
+      9,
+      15,
+      25
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade4_1",
+    "Icon": "",
+    "WorldID": "4"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade4_2",
+    "Icon": "",
+    "WorldID": "4"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      8,
+      14,
+      22
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade4_3",
+    "Icon": "",
+    "WorldID": "4"
+  },
+  {
+    "UpPrice": [
+      3,
+      6,
+      9,
+      15,
+      25
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade4_4",
+    "Icon": "",
+    "WorldID": "4"
+  },
+  {
+    "UpPrice": [
+      3,
+      6,
+      9,
+      15,
+      25
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade4_5",
+    "Icon": "",
+    "WorldID": "4"
+  },
+  {
+    "UpPrice": [
+      3,
+      6,
+      9,
+      15,
+      25
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade4_6",
+    "Icon": "",
+    "WorldID": "4"
+  },
+  {
+    "UpPrice": [
+      5,
+      10,
+      15,
+      25,
+      40
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade5_1",
+    "Icon": "",
+    "WorldID": "5"
+  },
+  {
+    "UpPrice": [
+      2,
+      5,
+      10,
+      20,
+      30
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade5_2",
+    "Icon": "",
+    "WorldID": "5"
+  },
+  {
+    "UpPrice": [
+      2,
+      5,
+      10,
+      20,
+      30
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade5_3",
+    "Icon": "",
+    "WorldID": "5"
+  },
+  {
+    "UpPrice": [
+      5,
+      10,
+      15,
+      25,
+      40
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade5_4",
+    "Icon": "",
+    "WorldID": "5"
+  },
+  {
+    "UpPrice": [
+      5,
+      10,
+      15,
+      25,
+      40
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade5_5",
+    "Icon": "",
+    "WorldID": "5"
+  },
+  {
+    "UpPrice": [
+      5,
+      10,
+      15,
+      25,
+      40
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade5_6",
+    "Icon": "",
+    "WorldID": "5"
+  },
+  {
+    "UpPrice": [
+      7,
+      15,
+      25,
+      35,
+      55
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade6_1",
+    "Icon": "",
+    "WorldID": "6"
+  },
+  {
+    "UpPrice": [
+      3,
+      5,
+      15,
+      20,
+      30
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade6_2",
+    "Icon": "",
+    "WorldID": "6"
+  },
+  {
+    "UpPrice": [
+      3,
+      5,
+      15,
+      20,
+      30
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade6_3",
+    "Icon": "",
+    "WorldID": "6"
+  },
+  {
+    "UpPrice": [
+      7,
+      15,
+      25,
+      35,
+      55
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade6_4",
+    "Icon": "",
+    "WorldID": "6"
+  },
+  {
+    "UpPrice": [
+      7,
+      15,
+      25,
+      35,
+      55
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade6_5",
+    "Icon": "",
+    "WorldID": "6"
+  },
+  {
+    "UpPrice": [
+      7,
+      15,
+      25,
+      35,
+      55
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade6_6",
+    "Icon": "",
+    "WorldID": "6"
+  },
+  {
+    "UpPrice": [
+      8,
+      20,
+      25,
+      40,
+      60
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade7_1",
+    "Icon": "",
+    "WorldID": "7"
+  },
+  {
+    "UpPrice": [
+      3,
+      6,
+      15,
+      25,
+      35
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade7_2",
+    "Icon": "",
+    "WorldID": "7"
+  },
+  {
+    "UpPrice": [
+      3,
+      6,
+      15,
+      25,
+      35
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade7_3",
+    "Icon": "",
+    "WorldID": "7"
+  },
+  {
+    "UpPrice": [
+      8,
+      20,
+      25,
+      40,
+      60
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade7_4",
+    "Icon": "",
+    "WorldID": "7"
+  },
+  {
+    "UpPrice": [
+      8,
+      20,
+      25,
+      40,
+      60
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade7_5",
+    "Icon": "",
+    "WorldID": "7"
+  },
+  {
+    "UpPrice": [
+      8,
+      20,
+      25,
+      40,
+      60
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade7_6",
+    "Icon": "",
+    "WorldID": "7"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      30,
+      50,
+      75
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade8_1",
+    "Icon": "",
+    "WorldID": "8"
+  },
+  {
+    "UpPrice": [
+      3,
+      7,
+      15,
+      25,
+      40
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade8_2",
+    "Icon": "",
+    "WorldID": "8"
+  },
+  {
+    "UpPrice": [
+      3,
+      7,
+      15,
+      25,
+      40
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade8_3",
+    "Icon": "",
+    "WorldID": "8"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      30,
+      50,
+      75
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade8_4",
+    "Icon": "",
+    "WorldID": "8"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      30,
+      50,
+      75
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade8_5",
+    "Icon": "",
+    "WorldID": "8"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      30,
+      50,
+      75
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade8_6",
+    "Icon": "",
+    "WorldID": "8"
+  },
+  {
+    "UpPrice": [
+      18,
+      30,
+      50,
+      85,
+      110
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade9_1",
+    "Icon": "",
+    "WorldID": "9"
+  },
+  {
+    "UpPrice": [
+      4,
+      8,
+      20,
+      30,
+      45
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade9_2",
+    "Icon": "",
+    "WorldID": "9"
+  },
+  {
+    "UpPrice": [
+      4,
+      8,
+      20,
+      30,
+      45
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade9_3",
+    "Icon": "",
+    "WorldID": "9"
+  },
+  {
+    "UpPrice": [
+      18,
+      30,
+      50,
+      85,
+      110
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade9_4",
+    "Icon": "",
+    "WorldID": "9"
+  },
+  {
+    "UpPrice": [
+      18,
+      30,
+      50,
+      85,
+      110
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade9_5",
+    "Icon": "",
+    "WorldID": "9"
+  },
+  {
+    "UpPrice": [
+      18,
+      30,
+      50,
+      85,
+      110
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade9_6",
+    "Icon": "",
+    "WorldID": "9"
+  },
+  {
+    "UpPrice": [
+      21,
+      35,
+      60,
+      100,
+      130
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade10_1",
+    "Icon": "",
+    "WorldID": "10"
+  },
+  {
+    "UpPrice": [
+      4,
+      8,
+      20,
+      30,
+      50
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade10_2",
+    "Icon": "",
+    "WorldID": "10"
+  },
+  {
+    "UpPrice": [
+      4,
+      8,
+      20,
+      30,
+      50
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade10_3",
+    "Icon": "",
+    "WorldID": "10"
+  },
+  {
+    "UpPrice": [
+      21,
+      35,
+      60,
+      100,
+      130
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade10_4",
+    "Icon": "",
+    "WorldID": "10"
+  },
+  {
+    "UpPrice": [
+      21,
+      35,
+      60,
+      100,
+      130
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade10_5",
+    "Icon": "",
+    "WorldID": "10"
+  },
+  {
+    "UpPrice": [
+      21,
+      35,
+      60,
+      100,
+      130
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade10_6",
+    "Icon": "",
+    "WorldID": "10"
+  },
+  {
+    "UpPrice": [
+      24,
+      40,
+      65,
+      115,
+      145
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade11_1",
+    "Icon": "",
+    "WorldID": "11"
+  },
+  {
+    "UpPrice": [
+      8,
+      20,
+      35,
+      60,
+      90
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade11_2",
+    "Icon": "",
+    "WorldID": "11"
+  },
+  {
+    "UpPrice": [
+      8,
+      20,
+      35,
+      60,
+      90
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade11_3",
+    "Icon": "",
+    "WorldID": "11"
+  },
+  {
+    "UpPrice": [
+      24,
+      40,
+      65,
+      115,
+      145
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade11_4",
+    "Icon": "",
+    "WorldID": "11"
+  },
+  {
+    "UpPrice": [
+      24,
+      40,
+      65,
+      115,
+      145
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade11_5",
+    "Icon": "",
+    "WorldID": "11"
+  },
+  {
+    "UpPrice": [
+      24,
+      40,
+      65,
+      115,
+      145
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade11_6",
+    "Icon": "",
+    "WorldID": "11"
+  },
+  {
+    "UpPrice": [
+      27,
+      45,
+      75,
+      130,
+      165
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade12_1",
+    "Icon": "",
+    "WorldID": "12"
+  },
+  {
+    "UpPrice": [
+      9,
+      20,
+      40,
+      65,
+      100
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade12_2",
+    "Icon": "",
+    "WorldID": "12"
+  },
+  {
+    "UpPrice": [
+      9,
+      20,
+      40,
+      65,
+      100
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade12_3",
+    "Icon": "",
+    "WorldID": "12"
+  },
+  {
+    "UpPrice": [
+      27,
+      45,
+      75,
+      130,
+      165
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade12_4",
+    "Icon": "",
+    "WorldID": "12"
+  },
+  {
+    "UpPrice": [
+      27,
+      45,
+      75,
+      130,
+      165
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade12_5",
+    "Icon": "",
+    "WorldID": "12"
+  },
+  {
+    "UpPrice": [
+      27,
+      45,
+      75,
+      130,
+      165
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade12_6",
+    "Icon": "",
+    "WorldID": "12"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 6,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade13_1",
+    "Icon": "",
+    "WorldID": "13"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      40,
+      70,
+      110
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade13_2",
+    "Icon": "",
+    "WorldID": "13"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      40,
+      70,
+      110
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 6,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade13_3",
+    "Icon": "",
+    "WorldID": "13"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade13_4",
+    "Icon": "",
+    "WorldID": "13"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 6,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade13_5",
+    "Icon": "",
+    "WorldID": "13"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 6,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade13_6",
+    "Icon": "",
+    "WorldID": "13"
+  },
+  {
+    "UpPrice": [
+      3,
+      4,
+      7,
+      12,
+      15
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade14_1",
+    "Icon": "",
+    "WorldID": "14"
+  },
+  {
+    "UpPrice": [
+      1,
+      1,
+      2,
+      3,
+      4
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade14_2",
+    "Icon": "",
+    "WorldID": "14"
+  },
+  {
+    "UpPrice": [
+      1,
+      1,
+      2,
+      3,
+      4
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade14_3",
+    "Icon": "",
+    "WorldID": "14"
+  },
+  {
+    "UpPrice": [
+      3,
+      4,
+      7,
+      12,
+      15
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade14_4",
+    "Icon": "",
+    "WorldID": "14"
+  },
+  {
+    "UpPrice": [
+      3,
+      4,
+      7,
+      12,
+      15
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade14_5",
+    "Icon": "",
+    "WorldID": "14"
+  },
+  {
+    "UpPrice": [
+      3,
+      4,
+      7,
+      12,
+      15
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade14_6",
+    "Icon": "",
+    "WorldID": "14"
+  },
+  {
+    "UpPrice": [
+      5,
+      8,
+      13,
+      23,
+      29
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade15_1",
+    "Icon": "",
+    "WorldID": "15"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade15_2",
+    "Icon": "",
+    "WorldID": "15"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade15_3",
+    "Icon": "",
+    "WorldID": "15"
+  },
+  {
+    "UpPrice": [
+      5,
+      8,
+      13,
+      23,
+      29
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade15_4",
+    "Icon": "",
+    "WorldID": "15"
+  },
+  {
+    "UpPrice": [
+      5,
+      8,
+      13,
+      23,
+      29
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade15_5",
+    "Icon": "",
+    "WorldID": "15"
+  },
+  {
+    "UpPrice": [
+      5,
+      8,
+      13,
+      23,
+      29
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade15_6",
+    "Icon": "",
+    "WorldID": "15"
+  },
+  {
+    "UpPrice": [
+      6,
+      10,
+      16,
+      28,
+      36
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade16_1",
+    "Icon": "",
+    "WorldID": "16"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade16_2",
+    "Icon": "",
+    "WorldID": "16"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade16_3",
+    "Icon": "",
+    "WorldID": "16"
+  },
+  {
+    "UpPrice": [
+      6,
+      10,
+      16,
+      28,
+      36
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade16_4",
+    "Icon": "",
+    "WorldID": "16"
+  },
+  {
+    "UpPrice": [
+      6,
+      10,
+      16,
+      28,
+      36
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade16_5",
+    "Icon": "",
+    "WorldID": "16"
+  },
+  {
+    "UpPrice": [
+      6,
+      10,
+      16,
+      28,
+      36
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade16_6",
+    "Icon": "",
+    "WorldID": "16"
+  },
+  {
+    "UpPrice": [
+      7,
+      11,
+      18,
+      31,
+      40
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade17_1",
+    "Icon": "",
+    "WorldID": "17"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade17_2",
+    "Icon": "",
+    "WorldID": "17"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade17_3",
+    "Icon": "",
+    "WorldID": "17"
+  },
+  {
+    "UpPrice": [
+      7,
+      11,
+      18,
+      31,
+      40
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade17_4",
+    "Icon": "",
+    "WorldID": "17"
+  },
+  {
+    "UpPrice": [
+      7,
+      11,
+      18,
+      31,
+      40
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade17_5",
+    "Icon": "",
+    "WorldID": "17"
+  },
+  {
+    "UpPrice": [
+      7,
+      11,
+      18,
+      31,
+      40
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade17_6",
+    "Icon": "",
+    "WorldID": "17"
+  },
+  {
+    "UpPrice": [
+      12,
+      20,
+      32,
+      56,
+      72
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade18_1",
+    "Icon": "",
+    "WorldID": "18"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade18_2",
+    "Icon": "",
+    "WorldID": "18"
+  },
+  {
+    "UpPrice": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade18_3",
+    "Icon": "",
+    "WorldID": "18"
+  },
+  {
+    "UpPrice": [
+      12,
+      20,
+      32,
+      56,
+      72
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade18_4",
+    "Icon": "",
+    "WorldID": "18"
+  },
+  {
+    "UpPrice": [
+      12,
+      20,
+      32,
+      56,
+      72
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade18_5",
+    "Icon": "",
+    "WorldID": "18"
+  },
+  {
+    "UpPrice": [
+      12,
+      20,
+      32,
+      56,
+      72
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade18_6",
+    "Icon": "",
+    "WorldID": "18"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade19_1",
+    "Icon": "",
+    "WorldID": "19"
+  },
+  {
+    "UpPrice": [
+      2,
+      3,
+      6,
+      9,
+      15
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade19_2",
+    "Icon": "",
+    "WorldID": "19"
+  },
+  {
+    "UpPrice": [
+      2,
+      3,
+      6,
+      9,
+      15
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade19_3",
+    "Icon": "",
+    "WorldID": "19"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade19_4",
+    "Icon": "",
+    "WorldID": "19"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade19_5",
+    "Icon": "",
+    "WorldID": "19"
+  },
+  {
+    "UpPrice": [
+      30,
+      50,
+      80,
+      140,
+      180
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade19_6",
+    "Icon": "",
+    "WorldID": "19"
+  },
+  {
+    "UpPrice": [
+      40,
+      66,
+      106,
+      185,
+      238
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade20_1",
+    "Icon": "",
+    "WorldID": "20"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      7,
+      12,
+      18
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade20_2",
+    "Icon": "",
+    "WorldID": "20"
+  },
+  {
+    "UpPrice": [
+      2,
+      4,
+      7,
+      12,
+      18
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade20_3",
+    "Icon": "",
+    "WorldID": "20"
+  },
+  {
+    "UpPrice": [
+      40,
+      66,
+      106,
+      185,
+      238
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade20_4",
+    "Icon": "",
+    "WorldID": "20"
+  },
+  {
+    "UpPrice": [
+      40,
+      66,
+      106,
+      185,
+      238
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade20_5",
+    "Icon": "",
+    "WorldID": "20"
+  },
+  {
+    "UpPrice": [
+      40,
+      66,
+      106,
+      185,
+      238
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade20_6",
+    "Icon": "",
+    "WorldID": "20"
+  },
+  {
+    "UpPrice": [
+      50,
+      82,
+      132,
+      230,
+      296
+    ],
+    "upgradeTp": 1,
+    "AddValue": [
+      500,
+      1000,
+      1500,
+      2000,
+      2500
+    ],
+    "cost": 24,
+    "ZhName": "Power",
+    "OnlyTag": "Upgrade21_1",
+    "Icon": "",
+    "WorldID": "21"
+  },
+  {
+    "UpPrice": [
+      3,
+      5,
+      10,
+      17,
+      27
+    ],
+    "upgradeTp": 2,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Weapon Storge",
+    "OnlyTag": "Upgrade22_2",
+    "Icon": "",
+    "WorldID": "21"
+  },
+  {
+    "UpPrice": [
+      3,
+      5,
+      10,
+      17,
+      27
+    ],
+    "upgradeTp": 3,
+    "AddValue": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cost": 24,
+    "ZhName": "More Heroes Storge",
+    "OnlyTag": "Upgrade21_2",
+    "Icon": "",
+    "WorldID": "21"
+  },
+  {
+    "UpPrice": [
+      50,
+      82,
+      132,
+      230,
+      296
+    ],
+    "upgradeTp": 4,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Critical Chance",
+    "OnlyTag": "Upgrade22_3",
+    "Icon": "",
+    "WorldID": "21"
+  },
+  {
+    "UpPrice": [
+      50,
+      82,
+      132,
+      230,
+      296
+    ],
+    "upgradeTp": 5,
+    "AddValue": [
+      200,
+      400,
+      600,
+      800,
+      1000
+    ],
+    "cost": 24,
+    "ZhName": "Critical Damage",
+    "OnlyTag": "Upgrade21_3",
+    "Icon": "",
+    "WorldID": "21"
+  },
+  {
+    "UpPrice": [
+      50,
+      82,
+      132,
+      230,
+      296
+    ],
+    "upgradeTp": 6,
+    "AddValue": [
+      25,
+      50,
+      75,
+      100,
+      125
+    ],
+    "cost": 24,
+    "ZhName": "Catch Chance",
+    "OnlyTag": "Upgrade22_4",
+    "Icon": "",
+    "WorldID": "21"
+  },
+  {
+    "UpPrice": [
+      50,
+      100,
+      150,
+      200,
+      300
+    ],
+    "upgradeTp": 7,
+    "AddValue": [
+      1000,
+      2000,
+      3000,
+      4000,
+      5000
+    ],
+    "cost": 42,
+    "ZhName": "Cold",
+    "OnlyTag": "2023_7_14_1",
+    "Icon": "",
+    "WorldID": "活动"
+  },
+  {
+    "UpPrice": [
+      10,
+      20,
+      30,
+      40,
+      50
+    ],
+    "upgradeTp": 8,
+    "AddValue": [
+      1000,
+      2000,
+      3000,
+      4000,
+      5000
+    ],
+    "cost": 42,
+    "ZhName": "Fly Money",
+    "OnlyTag": "2023_7_14_2",
+    "Icon": "",
+    "WorldID": "活动"
+  },
+  {
+    "UpPrice": [
+      100,
+      200,
+      300,
+      400,
+      500
+    ],
+    "upgradeTp": 9,
+    "AddValue": [
+      20000,
+      40000,
+      60000,
+      80000,
+      100000
+    ],
+    "cost": 42,
+    "ZhName": "Acclaim",
+    "OnlyTag": "2023_7_14_3",
+    "Icon": "",
+    "WorldID": "活动"
+  },
+  {
+    "UpPrice": [
+      100,
+      200,
+      300,
+      400,
+      500
+    ],
+    "upgradeTp": 10,
+    "AddValue": [
+      1000,
+      2000,
+      3000,
+      4000,
+      5000
+    ],
+    "cost": 42,
+    "ZhName": "Wit",
+    "OnlyTag": "2023_7_14_4",
+    "Icon": "",
+    "WorldID": "活动"
+  }
+]

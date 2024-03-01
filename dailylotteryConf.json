@@ -1,0 +1,98 @@
+[
+  {
+    "CountID": [
+      150
+    ],
+    "ExCountID": [],
+    "ExAwardID": [],
+    "Rate": 2000,
+    "AwardID": [
+      1
+    ]
+  },
+  {
+    "CountID": [
+      1
+    ],
+    "ExCountID": [],
+    "ExAwardID": [],
+    "Rate": 2000,
+    "AwardID": [
+      17
+    ]
+  },
+  {
+    "CountID": [
+      1
+    ],
+    "ExCountID": [],
+    "ExAwardID": [],
+    "Rate": 2000,
+    "AwardID": [
+      25
+    ]
+  },
+  {
+    "CountID": [
+      1
+    ],
+    "ExCountID": [
+      50
+    ],
+    "ExAwardID": [
+      26
+    ],
+    "Rate": 50,
+    "AwardID": [
+      8000014
+    ]
+  },
+  {
+    "CountID": [
+      50
+    ],
+    "ExCountID": [],
+    "ExAwardID": [],
+    "Rate": 1000,
+    "AwardID": [
+      6
+    ]
+  },
+  {
+    "CountID": [
+      1
+    ],
+    "ExCountID": [],
+    "ExAwardID": [],
+    "Rate": 949,
+    "AwardID": [
+      401
+    ]
+  },
+  {
+    "CountID": [
+      1
+    ],
+    "ExCountID": [],
+    "ExAwardID": [],
+    "Rate": 2000,
+    "AwardID": [
+      301
+    ]
+  },
+  {
+    "CountID": [
+      1
+    ],
+    "ExCountID": [
+      100
+    ],
+    "ExAwardID": [
+      27
+    ],
+    "Rate": 10,
+    "AwardID": [
+      51000104
+    ]
+  }
+]

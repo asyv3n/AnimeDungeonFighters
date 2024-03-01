@@ -1,0 +1,887 @@
+{
+  "50000001": {
+    "xyd": 2,
+    "attrLvlNum": [
+      3160,
+      3687.95
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Yamchan",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w3_雅木茶",
+    "talentattrLvlNum": [],
+    "sp23_rate": "",
+    "FeedExp": 200,
+    "talentattrLvl": []
+  },
+  "50000002": {
+    "xyd": 2,
+    "attrLvlNum": [
+      3945,
+      4604.25
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Lee",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w2_小李",
+    "talentattrLvlNum": [],
+    "sp23_rate": "",
+    "FeedExp": 200,
+    "talentattrLvl": []
+  },
+  "50000003": {
+    "xyd": 2,
+    "attrLvlNum": [
+      4141,
+      4833.5
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Tanjurou",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w5_炭治郎",
+    "talentattrLvlNum": [],
+    "sp23_rate": "",
+    "FeedExp": 200,
+    "talentattrLvl": []
+  },
+  "50000004": {
+    "xyd": 3,
+    "attrLvlNum": [
+      5978,
+      6976.9
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Tanjurou",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w5_炭治郎",
+    "talentattrLvlNum": [
+      1
+    ],
+    "sp23_rate": "",
+    "FeedExp": 500,
+    "talentattrLvl": [
+      18
+    ]
+  },
+  "50000005": {
+    "xyd": 3,
+    "attrLvlNum": [
+      6255,
+      7300.65
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Nezuke",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w5_祢豆子",
+    "talentattrLvlNum": [
+      1
+    ],
+    "sp23_rate": "",
+    "FeedExp": 500,
+    "talentattrLvl": [
+      17
+    ]
+  },
+  "50000006": {
+    "xyd": 3,
+    "attrLvlNum": [
+      6531,
+      7621.95
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "kriin",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w3_克林",
+    "talentattrLvlNum": [
+      1
+    ],
+    "sp23_rate": "",
+    "FeedExp": 500,
+    "talentattrLvl": [
+      15
+    ]
+  },
+  "50000007": {
+    "xyd": 4,
+    "attrLvlNum": [
+      12300,
+      14355.25
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Hitana",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 1,
+    "Model": "w2_雏田",
+    "talentattrLvlNum": [
+      1.5
+    ],
+    "sp23_rate": "",
+    "FeedExp": 1000,
+    "talentattrLvl": [
+      15
+    ]
+  },
+  "50000008": {
+    "xyd": 4,
+    "attrLvlNum": [
+      12828,
+      14970.9
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Kiiba",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w1_犬牙",
+    "talentattrLvlNum": [
+      1.5
+    ],
+    "sp23_rate": "",
+    "FeedExp": 1000,
+    "talentattrLvl": [
+      18
+    ]
+  },
+  "50000009": {
+    "xyd": 4,
+    "attrLvlNum": [
+      13393,
+      15629.6
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Zenitsi",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w5_善逸",
+    "talentattrLvlNum": [
+      1.5
+    ],
+    "sp23_rate": "",
+    "FeedExp": 1000,
+    "talentattrLvl": [
+      17
+    ]
+  },
+  "50000010": {
+    "xyd": 4,
+    "attrLvlNum": [
+      16592,
+      19362
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Zenitsi",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w5_善逸",
+    "talentattrLvlNum": [
+      1.5
+    ],
+    "sp23_rate": "",
+    "FeedExp": 1000,
+    "talentattrLvl": [
+      19
+    ]
+  },
+  "50000011": {
+    "xyd": 5,
+    "attrLvlNum": [
+      27113,
+      63269.85
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Sakura",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w2_小樱",
+    "talentattrLvlNum": [
+      2
+    ],
+    "sp23_rate": "",
+    "FeedExp": 5000,
+    "talentattrLvl": [
+      15
+    ]
+  },
+  "50000012": {
+    "xyd": 5,
+    "attrLvlNum": [
+      28259.5,
+      65944.55
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Tsunadi",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w2_纲手",
+    "talentattrLvlNum": [
+      2
+    ],
+    "sp23_rate": "",
+    "FeedExp": 5000,
+    "talentattrLvl": [
+      18
+    ]
+  },
+  "50000013": {
+    "xyd": 5,
+    "attrLvlNum": [
+      29547,
+      68949.65
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Master Turtle",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w3_龟仙人",
+    "talentattrLvlNum": [
+      2
+    ],
+    "sp23_rate": "",
+    "FeedExp": 5000,
+    "talentattrLvl": [
+      19
+    ]
+  },
+  "50000014": {
+    "xyd": 5,
+    "attrLvlNum": [
+      30166.5,
+      70394.8
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Usoppu",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w1_乌索普",
+    "talentattrLvlNum": [
+      2
+    ],
+    "sp23_rate": "",
+    "FeedExp": 5000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000015": {
+    "xyd": 5,
+    "attrLvlNum": [
+      30829,
+      71941.1
+    ],
+    "sp1_rate": "",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Sanjin",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000002
+    ],
+    "nor_rate": "100",
+    "upType": 2,
+    "Model": "w1_山治",
+    "talentattrLvlNum": [
+      2.5
+    ],
+    "sp23_rate": "",
+    "FeedExp": 10000,
+    "talentattrLvl": [
+      20
+    ]
+  },
+  "50000016": {
+    "xyd": 6,
+    "attrLvlNum": [
+      43058,
+      125597.85
+    ],
+    "sp1_rate": "200",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Zaruto",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000007
+    ],
+    "nor_rate": "100",
+    "upType": 4,
+    "Model": "w2_鸣人",
+    "talentattrLvlNum": [
+      10
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 50000,
+    "talentattrLvl": [
+      15
+    ]
+  },
+  "50000017": {
+    "xyd": 6,
+    "attrLvlNum": [
+      43058,
+      125597.85
+    ],
+    "sp1_rate": "200",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Luff",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000001
+    ],
+    "nor_rate": "100",
+    "upType": 3,
+    "Model": "w1_路飞",
+    "talentattrLvlNum": [
+      10
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 50000,
+    "talentattrLvl": [
+      19
+    ]
+  },
+  "50000018": {
+    "xyd": 6,
+    "attrLvlNum": [
+      43734.8,
+      127571.85
+    ],
+    "sp1_rate": "200",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Ace",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000003
+    ],
+    "nor_rate": "100",
+    "upType": 4,
+    "Model": "w1_艾斯",
+    "talentattrLvlNum": [
+      5
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 50000,
+    "talentattrLvl": [
+      20
+    ]
+  },
+  "50000019": {
+    "xyd": 6,
+    "attrLvlNum": [
+      44728.8,
+      130469.5
+    ],
+    "sp1_rate": "200",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Nani",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000006
+    ],
+    "nor_rate": "60",
+    "upType": 3,
+    "Model": "w1_娜美",
+    "talentattrLvlNum": [
+      5
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 50000,
+    "talentattrLvl": [
+      18
+    ]
+  },
+  "50000020": {
+    "xyd": 6,
+    "attrLvlNum": [
+      45503.6,
+      132729.45
+    ],
+    "sp1_rate": "200",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Fudoun",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000009
+    ],
+    "nor_rate": "60",
+    "upType": 4,
+    "Model": "w7_Fudoun",
+    "talentattrLvlNum": [
+      5
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 50000,
+    "talentattrLvl": [
+      17
+    ]
+  },
+  "50000021": {
+    "xyd": 6,
+    "attrLvlNum": [
+      46332.4,
+      135147.6
+    ],
+    "sp1_rate": "30",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Madaran",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000011
+    ],
+    "nor_rate": "0",
+    "upType": 5,
+    "Model": "w2_班",
+    "talentattrLvlNum": [
+      4
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 100000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000022": {
+    "xyd": 6,
+    "attrLvlNum": [
+      47488.8,
+      138520.2
+    ],
+    "sp1_rate": "30",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Black Mustache",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000004
+    ],
+    "nor_rate": "0",
+    "upType": 5,
+    "Model": "w1_黑胡子",
+    "talentattrLvlNum": [
+      4.5
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 100000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000023": {
+    "xyd": 6,
+    "attrLvlNum": [
+      48438,
+      141288.7
+    ],
+    "sp1_rate": "30",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Mingo",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000005
+    ],
+    "nor_rate": "0",
+    "upType": 6,
+    "Model": "w1_明哥",
+    "talentattrLvlNum": [
+      5
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 100000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000024": {
+    "xyd": 6,
+    "attrLvlNum": [
+      49453.6,
+      144251.1
+    ],
+    "sp1_rate": "10",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Char",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000008
+    ],
+    "nor_rate": "0",
+    "upType": 7,
+    "Model": "w1_卡2",
+    "talentattrLvlNum": [
+      5.5
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 100000,
+    "talentattrLvl": [
+      16
+    ]
+  },
+  "50000025": {
+    "xyd": 6,
+    "attrLvlNum": [
+      50809.6,
+      148206.1
+    ],
+    "sp1_rate": "10",
+    "Size": "",
+    "SellItem": [
+      1,
+      2
+    ],
+    "tp": 5,
+    "ZhName": "Saber",
+    "SellCount": [
+      1,
+      1
+    ],
+    "attrLvl": [
+      1,
+      6
+    ],
+    "Skill": [
+      18000010
+    ],
+    "nor_rate": "0",
+    "upType": 8,
+    "Model": "W6_saber",
+    "talentattrLvlNum": [
+      6
+    ],
+    "sp23_rate": "10|10",
+    "FeedExp": 100000,
+    "talentattrLvl": [
+      16
+    ]
+  }
+}

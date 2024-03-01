@@ -1,0 +1,12 @@
+[
+  {
+    "ZhName": "Ninja World",
+    "worldID": 1,
+    "NeedLv": 0
+  },
+  {
+    "ZhName": "Piece World",
+    "worldID": 2,
+    "NeedLv": 60
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "101": {
+    "buffName": "抽蛋幸运",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "抽蛋幸运",
+    "addPower": 30,
+    "Icon": 16074309961,
+    "des": "抽蛋幸运+30%"
+  },
+  "102": {
+    "buffName": "抽蛋幸运",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "抽蛋幸运",
+    "addPower": 60,
+    "Icon": 16074294085,
+    "des": "抽蛋幸运+60%"
+  },
+  "201": {
+    "buffName": "额外金币",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "额外金币100%",
+    "addPower": 100,
+    "Icon": 15502486245,
+    "des": "额外金币+100%"
+  },
+  "401": {
+    "buffName": "攻击百分比加成",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "攻击力加成100%",
+    "addPower": 100,
+    "Icon": 13109835010,
+    "des": "攻击百分比加成100%"
+  },
+  "601": {
+    "buffName": "经验",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "免费 2x Exp",
+    "addPower": 100,
+    "Icon": 15502486492,
+    "des": "经验+100%"
+  },
+  "602": {
+    "buffName": "经验",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "2x Exp",
+    "addPower": 100,
+    "Icon": 15502486492,
+    "des": "经验+100%"
+  },
+  "701": {
+    "buffName": "技能经验",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "技能经验x2",
+    "addPower": 100,
+    "Icon": 15502486133,
+    "des": "技能经验+100%"
+  },
+  "801": {
+    "buffName": "装备掉落率",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "稀有装备掉落权重增加",
+    "addPower": 100,
+    "Icon": 16419130427,
+    "des": "掉落权重*100%"
+  },
+  "802": {
+    "buffName": "装备掉落率",
+    "isShow": 1,
+    "isOver": 0,
+    "ZhName": "稀有装备掉落权重增加",
+    "addPower": 200,
+    "Icon": 16419130427,
+    "des": "掉落权重*200%"
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "week": 1,
+    "index": 1,
+    "BtnColor": "紫",
+    "BtnIcon": "16106408724",
+    "CountID": 1,
+    "AwardID": 50000004
+  },
+  {
+    "week": 1,
+    "index": 2,
+    "BtnColor": "橙",
+    "BtnIcon": "16106298660",
+    "CountID": 1,
+    "AwardID": 2110204
+  },
+  {
+    "week": 1,
+    "index": 3,
+    "BtnColor": "暗紫",
+    "BtnIcon": "15501652167",
+    "CountID": 300,
+    "AwardID": 18
+  },
+  {
+    "week": 1,
+    "index": 4,
+    "BtnColor": "红",
+    "BtnIcon": "15875732265",
+    "CountID": 1,
+    "AwardID": 2110205
+  },
+  {
+    "week": 1,
+    "index": 5,
+    "BtnColor": "橙",
+    "BtnIcon": "15501652539",
+    "CountID": 600,
+    "AwardID": 18
+  },
+  {
+    "week": 1,
+    "index": 6,
+    "BtnColor": "红",
+    "BtnIcon": "15875527185",
+    "CountID": 3000,
+    "AwardID": 2
+  },
+  {
+    "week": 1,
+    "index": 7,
+    "BtnColor": "橙",
+    "BtnIcon": "15345566432",
+    "CountID": 1,
+    "AwardID": 4300003
+  },
+  {
+    "week": 2,
+    "index": 1,
+    "BtnColor": "红",
+    "BtnIcon": "15501652167",
+    "CountID": 50,
+    "AwardID": 18
+  },
+  {
+    "week": 2,
+    "index": 2,
+    "BtnColor": "紫",
+    "BtnIcon": "15345565487",
+    "CountID": 500,
+    "AwardID": 2
+  },
+  {
+    "week": 2,
+    "index": 3,
+    "BtnColor": "蓝",
+    "BtnIcon": "15002259490",
+    "CountID": 1,
+    "AwardID": 2600303
+  },
+  {
+    "week": 2,
+    "index": 4,
+    "BtnColor": "暗紫",
+    "BtnIcon": "15345565848",
+    "CountID": 1,
+    "AwardID": 17
+  },
+  {
+    "week": 2,
+    "index": 5,
+    "BtnColor": "红",
+    "BtnIcon": "15501652167",
+    "CountID": 50,
+    "AwardID": 18
+  },
+  {
+    "week": 2,
+    "index": 6,
+    "BtnColor": "紫",
+    "BtnIcon": "15345565487",
+    "CountID": 1000,
+    "AwardID": 2
+  },
+  {
+    "week": 2,
+    "index": 7,
+    "BtnColor": "橙",
+    "BtnIcon": "15345566432",
+    "CountID": 1,
+    "AwardID": 4300004
+  },
+  {
+    "week": 3,
+    "index": 1,
+    "BtnColor": "红",
+    "BtnIcon": "15345565487",
+    "CountID": 50,
+    "AwardID": 2
+  },
+  {
+    "week": 3,
+    "index": 2,
+    "BtnColor": "紫",
+    "BtnIcon": "15345565487",
+    "CountID": 100,
+    "AwardID": 2
+  },
+  {
+    "week": 3,
+    "index": 3,
+    "BtnColor": "蓝",
+    "BtnIcon": "15345565487",
+    "CountID": 150,
+    "AwardID": 2
+  },
+  {
+    "week": 3,
+    "index": 4,
+    "BtnColor": "暗紫",
+    "BtnIcon": "15345565487",
+    "CountID": 200,
+    "AwardID": 2
+  },
+  {
+    "week": 3,
+    "index": 5,
+    "BtnColor": "红",
+    "BtnIcon": "15345565487",
+    "CountID": 250,
+    "AwardID": 2
+  },
+  {
+    "week": 3,
+    "index": 6,
+    "BtnColor": "紫",
+    "BtnIcon": "15345565487",
+    "CountID": 500,
+    "AwardID": 2
+  },
+  {
+    "week": 3,
+    "index": 7,
+    "BtnColor": "橙",
+    "BtnIcon": "15345565487",
+    "CountID": 1000,
+    "AwardID": 2
+  }
+]

@@ -1,0 +1,186 @@
+{
+  "20000001": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "Solo Leveling",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      100
+    ],
+    "lvNeed": 0,
+    "Icon": "16073585240",
+    "DesText": "我独自升级"
+  },
+  "20000002": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "The Weakest Hunter of All Mankind",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      20
+    ],
+    "lvNeed": 0,
+    "Icon": "16183118340",
+    "DesText": "我独自升级_2"
+  },
+  "20000003": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "E-Rank Hunter",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      50
+    ],
+    "lvNeed": 0,
+    "Icon": "16183119741",
+    "DesText": "我独自升级_3"
+  },
+  "20000004": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "D-Rank Hunter",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      200
+    ],
+    "lvNeed": 0,
+    "Icon": "16183119813",
+    "DesText": "我独自升级_4"
+  },
+  "20000005": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "C-Rank Hunter",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      400
+    ],
+    "lvNeed": 0,
+    "Icon": "16183119937",
+    "DesText": "我独自升级_5"
+  },
+  "20000006": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "B-Rank Hunter",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      600
+    ],
+    "lvNeed": 0,
+    "Icon": "16183120048",
+    "DesText": "我独自升级_6"
+  },
+  "20000007": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "A-Rank Hunter",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      800
+    ],
+    "lvNeed": 0,
+    "Icon": "16183120212",
+    "DesText": "我独自升级_7"
+  },
+  "20000008": {
+    "attr": [
+      1
+    ],
+    "tp": 20,
+    "RGB": [
+      255,
+      87,
+      30
+    ],
+    "ZhName": "S-Rank Hunter",
+    "xyd": 1,
+    "Size": [
+      515,
+      182
+    ],
+    "attrNum": [
+      1000
+    ],
+    "lvNeed": 0,
+    "Icon": "16183118194",
+    "DesText": "我独自升级_8"
+  }
+}

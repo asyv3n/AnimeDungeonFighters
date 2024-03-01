@@ -1,0 +1,92 @@
+[
+  {
+    "ZhName": "Rich",
+    "icon": "💰",
+    "des": "+%s Money"
+  },
+  {
+    "ZhName": "Strong",
+    "icon": "⚔️",
+    "des": "+%s Damage"
+  },
+  {
+    "ZhName": "Energy",
+    "icon": "🔥",
+    "des": "+%s Power"
+  },
+  {
+    "ZhName": "Smite",
+    "icon": "💥",
+    "des": "+%s Critical"
+  },
+  {
+    "ZhName": "Destruction",
+    "icon": "☄️",
+    "des": "+%s Critical Damage"
+  },
+  {
+    "ZhName": "Light",
+    "icon": "👟",
+    "des": "+%s Walk Speed"
+  },
+  {
+    "ZhName": "Wisely",
+    "icon": "🧙",
+    "des": "+%s Power -%s Size"
+  },
+  {
+    "ZhName": "Thunder",
+    "icon": "⚡",
+    "des": "+%s Damage +%s Size"
+  },
+  {
+    "ZhName": "Reform",
+    "icon": "🧰",
+    "des": "+%s Critical +%s Critical Damage"
+  },
+  {
+    "ZhName": "Small",
+    "icon": "🐜",
+    "des": "+%s Power  -%s Size"
+  },
+  {
+    "ZhName": "Huge",
+    "icon": "🐘",
+    "des": "+%s Damage +%s Size"
+  },
+  {
+    "ZhName": "Titan",
+    "icon": "🧬",
+    "des": "+%s  Damage +%s Power +%s Size"
+  },
+  {
+    "ZhName": "Mini",
+    "icon": "🧫",
+    "des": "+%s Damage +%s Power -%s Size"
+  },
+  {
+    "ZhName": "Fervor",
+    "icon": "❤🔥",
+    "des": "+%s Damage +%s Summer events damage"
+  },
+  {
+    "ZhName": "Sunshine",
+    "icon": "🌞",
+    "des": "+%s Power +%s Summer events damage"
+  },
+  {
+    "ZhName": "Cheer",
+    "icon": "🍻",
+    "des": "+%s Damage + %s Power +%s Summer events damage"
+  },
+  {
+    "ZhName": "Vacation",
+    "icon": "🏖️",
+    "des": "+%s Critical +%s Critical Damage +%s Summer events damage"
+  },
+  {
+    "ZhName": "Rainbow",
+    "icon": "🌈",
+    "des": "+%s Damage + %s Power +%s Critical +%s Summer events damage"
+  }
+]

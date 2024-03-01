@@ -1,0 +1,26 @@
+{
+  "19000001": {
+    "EffectsName": "",
+    "ScriptName": "防御增加1",
+    "ZhName": "DefenceUp",
+    "Priority": "DefenceUp",
+    "Icon": "13272596287",
+    "des": "X"
+  },
+  "19000002": {
+    "EffectsName": "",
+    "ScriptName": "攻击增加1",
+    "ZhName": "AttackUp",
+    "Priority": "AttackUp",
+    "Icon": "13272596287",
+    "des": "X"
+  },
+  "19000003": {
+    "EffectsName": "",
+    "ScriptName": "速度增加1",
+    "ZhName": "SpeedUp",
+    "Priority": "SpeedUp",
+    "Icon": "13272596287",
+    "des": "X"
+  }
+}

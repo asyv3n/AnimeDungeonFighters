@@ -1,0 +1,363 @@
+[
+  {
+    "ItemCount": 1,
+    "ItemID": 6130001,
+    "WorldID": 1,
+    "SuitName": "Robot",
+    "Type": 2,
+    "Need": [
+      50000020,
+      5001,
+      5002,
+      1
+    ],
+    "Count": [
+      1,
+      80,
+      80,
+      20000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6130002,
+    "WorldID": 1,
+    "SuitName": "Robot",
+    "Type": 2,
+    "Need": [
+      50000018,
+      5001,
+      5002,
+      1
+    ],
+    "Count": [
+      1,
+      50,
+      50,
+      20000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6130003,
+    "WorldID": 1,
+    "SuitName": "Robot",
+    "Type": 2,
+    "Need": [
+      50000017,
+      5001,
+      5002,
+      1
+    ],
+    "Count": [
+      1,
+      100,
+      100,
+      20000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100001,
+    "WorldID": 1,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000016,
+      6160001,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100002,
+    "WorldID": 1,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000017,
+      6160002,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100003,
+    "WorldID": 1,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000018,
+      6160003,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100004,
+    "WorldID": 1,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000020,
+      6160004,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100005,
+    "WorldID": 1,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000019,
+      6150004,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100006,
+    "WorldID": 1,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000017,
+      6150005,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6140001,
+    "WorldID": 2,
+    "SuitName": "Dark",
+    "Type": 2,
+    "Need": [
+      50000016,
+      5003,
+      5004,
+      1
+    ],
+    "Count": [
+      1,
+      100,
+      100,
+      50000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6140002,
+    "WorldID": 2,
+    "SuitName": "Dark",
+    "Type": 2,
+    "Need": [
+      50000019,
+      5003,
+      5004,
+      1
+    ],
+    "Count": [
+      1,
+      300,
+      300,
+      50000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6140003,
+    "WorldID": 2,
+    "SuitName": "Dark",
+    "Type": 2,
+    "Need": [
+      50000018,
+      5003,
+      5004,
+      1
+    ],
+    "Count": [
+      1,
+      100,
+      100,
+      50000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6140004,
+    "WorldID": 2,
+    "SuitName": "Dark",
+    "Type": 2,
+    "Need": [
+      50000017,
+      5003,
+      5004,
+      1
+    ],
+    "Count": [
+      1,
+      200,
+      200,
+      50000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100001,
+    "WorldID": 2,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000016,
+      6160001,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100002,
+    "WorldID": 2,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000017,
+      6160002,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100003,
+    "WorldID": 2,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000018,
+      6160003,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100004,
+    "WorldID": 2,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000020,
+      6160004,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100005,
+    "WorldID": 2,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000019,
+      6150004,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  },
+  {
+    "ItemCount": 1,
+    "ItemID": 6100006,
+    "WorldID": 2,
+    "SuitName": "Chakra",
+    "Type": 2,
+    "Need": [
+      50000017,
+      6150005,
+      2,
+      1
+    ],
+    "Count": [
+      1,
+      1,
+      50000,
+      100000
+    ]
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "ShowRewards": [
+      1
+    ],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 100,
+    "ExPayCountID": [],
+    "PayCountID": [
+      1
+    ],
+    "PayAwardID": [
+      8008
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 200,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 300,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      201
+    ],
+    "AwardID": [
+      201
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 300,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 300,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 300,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      401
+    ],
+    "AwardID": [
+      401
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 350,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 400,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 450,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      17
+    ],
+    "AwardID": [
+      17
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      50
+    ],
+    "ExPayAwardID": [],
+    "Exp": 500,
+    "ExPayCountID": [],
+    "PayCountID": [
+      150
+    ],
+    "PayAwardID": [
+      18
+    ],
+    "AwardID": [
+      18
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 550,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 600,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 650,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      16
+    ],
+    "AwardID": [
+      16
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 700,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [
+      1
+    ],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 750,
+    "ExPayCountID": [],
+    "PayCountID": [
+      1
+    ],
+    "PayAwardID": [
+      8009
+    ],
+    "AwardID": [
+      8008
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 800,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 850,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      17
+    ],
+    "AwardID": [
+      17
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 900,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 950,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      101
+    ],
+    "AwardID": [
+      101
+    ]
+  },
+  {
+    "ShowRewards": [
+      1
+    ],
+    "CountID": [
+      50
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      150
+    ],
+    "PayAwardID": [
+      18
+    ],
+    "AwardID": [
+      18
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      50
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      100
+    ],
+    "PayAwardID": [
+      5001
+    ],
+    "AwardID": [
+      5001
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      50
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      100
+    ],
+    "PayAwardID": [
+      5002
+    ],
+    "AwardID": [
+      5002
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      100
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      300
+    ],
+    "PayAwardID": [
+      2
+    ],
+    "AwardID": [
+      2
+    ]
+  },
+  {
+    "ShowRewards": [],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      2
+    ],
+    "PayAwardID": [
+      17
+    ],
+    "AwardID": [
+      17
+    ]
+  },
+  {
+    "ShowRewards": [
+      1
+    ],
+    "CountID": [
+      1
+    ],
+    "ExPayAwardID": [],
+    "Exp": 1000,
+    "ExPayCountID": [],
+    "PayCountID": [
+      150
+    ],
+    "PayAwardID": [
+      18
+    ],
+    "AwardID": [
+      8009
+    ]
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "beAttackMinPursuitLength": 80,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 7,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 10,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 3,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 5,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 21,
+    "ZhName": "拳近战小怪",
+    "runAttackSpeed": 20,
+    "pursuitLength": 50
+  },
+  {
+    "beAttackMinPursuitLength": 100,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 8,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 10,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 10,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 21,
+    "ZhName": "刀近战小怪",
+    "runAttackSpeed": 20,
+    "pursuitLength": 30
+  },
+  {
+    "beAttackMinPursuitLength": 80,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 6,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 2,
+    "attackRadius": 50,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 12,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 15,
+    "ZhName": "枪远程小怪",
+    "runAttackSpeed": 12,
+    "pursuitLength": 50
+  },
+  {
+    "beAttackMinPursuitLength": 200,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      2,
+      5
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 8,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 2,
+    "attackRadius": 200,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 200,
+    "attackHitboxRadius": 20,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 20,
+    "ZhName": "投掷远程小怪",
+    "runAttackSpeed": 18,
+    "pursuitLength": 200
+  },
+  {
+    "beAttackMinPursuitLength": 240,
+    "maxAttackRadius": 300,
+    "patrolRadius": [
+      5,
+      10
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      7,
+      10
+    ],
+    "walkSpeed": 10,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 10,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 120,
+    "attackHitboxRadius": 15,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 24,
+    "ZhName": "刀近战Boss",
+    "runAttackSpeed": 21,
+    "pursuitLength": 120
+  },
+  {
+    "beAttackMinPursuitLength": 80,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 7,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 10,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 3,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 5,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 19,
+    "ZhName": "拳近战小怪",
+    "runAttackSpeed": 18,
+    "pursuitLength": 50
+  },
+  {
+    "beAttackMinPursuitLength": 200,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 8,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 12,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 80,
+    "attackHitboxRadius": 6,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 15,
+    "ZhName": "枪近战小怪",
+    "runAttackSpeed": 15,
+    "pursuitLength": 60
+  },
+  {
+    "beAttackMinPursuitLength": 80,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 7,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 10,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 3,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 5,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 15,
+    "ZhName": "简单拳近战小怪",
+    "runAttackSpeed": 14,
+    "pursuitLength": 50
+  },
+  {
+    "beAttackMinPursuitLength": 100,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 8,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 7,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 10,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 15,
+    "ZhName": "简单刀近战小怪",
+    "runAttackSpeed": 14,
+    "pursuitLength": 30
+  },
+  {
+    "beAttackMinPursuitLength": 80,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 7,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 10,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 3,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 5,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 18,
+    "ZhName": "中等拳近战小怪",
+    "runAttackSpeed": 16,
+    "pursuitLength": 50
+  },
+  {
+    "beAttackMinPursuitLength": 100,
+    "maxAttackRadius": 200,
+    "patrolRadius": [
+      10,
+      20
+    ],
+    "runLeisureSpeed": 8,
+    "idelTime": [
+      2,
+      5
+    ],
+    "pursuiBackHometTime": [
+      3,
+      5
+    ],
+    "walkSpeed": 8,
+    "pursuitChangeTargetTime": [
+      1,
+      3
+    ],
+    "enemyType": 1,
+    "attackRadius": 7,
+    "patrolCount": [
+      1,
+      3
+    ],
+    "patrolAttackRadius": 40,
+    "attackHitboxRadius": 10,
+    "patrolTime": [
+      1,
+      3
+    ],
+    "backHomeMaxTime": 10,
+    "runSpeed": 18,
+    "ZhName": "中等刀近战小怪",
+    "runAttackSpeed": 16,
+    "pursuitLength": 30
+  }
+]

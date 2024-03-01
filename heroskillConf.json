@@ -1,0 +1,182 @@
+{
+  "18000000": {
+    "HitNum": 1,
+    "PercentValue": [
+      0.5
+    ],
+    "CD": 1,
+    "SkillBuff": "",
+    "nowTime": 1,
+    "SkillTarget": 1,
+    "scriptName": "普通攻击",
+    "FixedValue": [
+      1
+    ],
+    "HitRange": 5
+  },
+  "18000001": {
+    "HitNum": 3,
+    "PercentValue": [
+      0.5
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "橡胶机关枪",
+    "FixedValue": [
+      2
+    ],
+    "HitRange": 20
+  },
+  "18000002": {
+    "HitNum": 3,
+    "PercentValue": [
+      0.5
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "火焰旋风踢",
+    "FixedValue": [
+      2
+    ],
+    "HitRange": 20
+  },
+  "18000003": {
+    "HitNum": 1,
+    "PercentValue": [
+      1
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "艾斯豪火球",
+    "FixedValue": [
+      4
+    ],
+    "HitRange": 30
+  },
+  "18000004": {
+    "HitNum": 3,
+    "PercentValue": [
+      0.5
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "诅咒烟雾",
+    "FixedValue": [
+      2
+    ],
+    "HitRange": 30
+  },
+  "18000005": {
+    "HitNum": 1,
+    "PercentValue": [
+      1
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "丝线之笼改",
+    "FixedValue": [
+      4
+    ],
+    "HitRange": 70
+  },
+  "18000006": {
+    "HitNum": 3,
+    "PercentValue": [
+      0.5
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "紫雷",
+    "FixedValue": [
+      2
+    ],
+    "HitRange": 30
+  },
+  "18000007": {
+    "HitNum": 2,
+    "PercentValue": [
+      0.63
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "风遁螺旋手里剑",
+    "FixedValue": [
+      2
+    ],
+    "HitRange": 40
+  },
+  "18000008": {
+    "HitNum": 10,
+    "PercentValue": [
+      0.2
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "糯米拳头风暴",
+    "FixedValue": [
+      1
+    ],
+    "HitRange": 25
+  },
+  "18000009": {
+    "HitNum": 12,
+    "PercentValue": [
+      0.15
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "星耀",
+    "FixedValue": [
+      1
+    ],
+    "HitRange": 20
+  },
+  "18000010": {
+    "HitNum": 20,
+    "PercentValue": [
+      0.1
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "剑雨",
+    "FixedValue": [
+      1
+    ],
+    "HitRange": 40
+  },
+  "18000011": {
+    "HitNum": 5,
+    "PercentValue": [
+      0.25
+    ],
+    "CD": 15,
+    "SkillBuff": "",
+    "nowTime": 10,
+    "SkillTarget": 1,
+    "scriptName": "流星落",
+    "FixedValue": [
+      1
+    ],
+    "HitRange": 20
+  }
+}

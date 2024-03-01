@@ -1,0 +1,1861 @@
+[
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Final Valley",
+    "onlyTag": "1_1_1",
+    "awardCount": [
+      80,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4000002,
+      4200001
+    ],
+    "awardCount_1": [
+      320,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4000002
+    ],
+    "mapTag": "1_1",
+    "time": 360,
+    "EnemyHpAtkAdd": [
+      1,
+      1.3,
+      2,
+      3
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 1,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Final Valley",
+    "onlyTag": "1_1_2",
+    "awardCount": [
+      700,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4000012,
+      4200011
+    ],
+    "awardCount_1": [
+      1600,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4000012
+    ],
+    "mapTag": "1_1",
+    "time": 360,
+    "EnemyHpAtkAdd": [
+      1,
+      1.3,
+      2,
+      3
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 10,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Final Valley",
+    "onlyTag": "1_1_3",
+    "awardCount": [
+      800,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4000022,
+      4200011
+    ],
+    "awardCount_1": [
+      2500,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4000012
+    ],
+    "mapTag": "1_1",
+    "time": 360,
+    "EnemyHpAtkAdd": [
+      1,
+      1.3,
+      2,
+      3
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 15,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Labs",
+    "onlyTag": "1_2_1",
+    "awardCount": [
+      1800,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4010002,
+      4200002
+    ],
+    "awardCount_1": [
+      4500,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4010002
+    ],
+    "mapTag": "1_2",
+    "time": 480,
+    "EnemyHpAtkAdd": [
+      1,
+      1.3,
+      2,
+      3
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 20,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Labs",
+    "onlyTag": "1_2_2",
+    "awardCount": [
+      2000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4010012,
+      4200002
+    ],
+    "awardCount_1": [
+      12000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4010012
+    ],
+    "mapTag": "1_2",
+    "time": 480,
+    "EnemyHpAtkAdd": [
+      1,
+      1.5,
+      2.2,
+      3.3
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 24,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Labs",
+    "onlyTag": "1_2_3",
+    "awardCount": [
+      2500,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4010022,
+      4200012
+    ],
+    "awardCount_1": [
+      25000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4010022
+    ],
+    "mapTag": "1_2",
+    "time": 480,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 28,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Village",
+    "onlyTag": "1_3_1",
+    "awardCount": [
+      2500,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4020002,
+      4200003
+    ],
+    "awardCount_1": [
+      8000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4020002
+    ],
+    "mapTag": "1_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 40,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Village",
+    "onlyTag": "1_3_2",
+    "awardCount": [
+      3200,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4020012,
+      4200003
+    ],
+    "awardCount_1": [
+      12000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4020012
+    ],
+    "mapTag": "1_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 43,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Village",
+    "onlyTag": "1_3_3",
+    "awardCount": [
+      3500,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4020022,
+      4200003
+    ],
+    "awardCount_1": [
+      18000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4020022
+    ],
+    "mapTag": "1_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 46,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Village",
+    "onlyTag": "1_3_4",
+    "awardCount": [
+      4500,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4020032,
+      4200013
+    ],
+    "awardCount_1": [
+      30000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4020032
+    ],
+    "mapTag": "1_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 49,
+    "Icon": "",
+    "world": 1
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Skull Island",
+    "onlyTag": "2_1_1",
+    "awardCount": [
+      3700,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4040002,
+      4200004
+    ],
+    "awardCount_1": [
+      18600,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4040002
+    ],
+    "mapTag": "2_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 60,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Skull Island",
+    "onlyTag": "2_1_2",
+    "awardCount": [
+      5000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4040012,
+      4200004
+    ],
+    "awardCount_1": [
+      25000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4040012
+    ],
+    "mapTag": "2_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 63,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Skull Island",
+    "onlyTag": "2_1_3",
+    "awardCount": [
+      6000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4040022,
+      4200004
+    ],
+    "awardCount_1": [
+      28000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4040022
+    ],
+    "mapTag": "2_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 66,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Skull Island",
+    "onlyTag": "2_1_4",
+    "awardCount": [
+      8500,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4040032,
+      4200014
+    ],
+    "awardCount_1": [
+      50000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4040032
+    ],
+    "mapTag": "2_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 70,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Desert City",
+    "onlyTag": "2_2_1",
+    "awardCount": [
+      10000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4050002,
+      4200005
+    ],
+    "awardCount_1": [
+      70000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4050002
+    ],
+    "mapTag": "2_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 80,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Desert City",
+    "onlyTag": "2_2_2",
+    "awardCount": [
+      25000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4050012,
+      4200005
+    ],
+    "awardCount_1": [
+      85000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4050012
+    ],
+    "mapTag": "2_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 83,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Desert City",
+    "onlyTag": "2_2_3",
+    "awardCount": [
+      28000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4050022,
+      4200005
+    ],
+    "awardCount_1": [
+      93000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4050022
+    ],
+    "mapTag": "2_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 86,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Desert City",
+    "onlyTag": "2_2_4",
+    "awardCount": [
+      35000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4050032,
+      4200015
+    ],
+    "awardCount_1": [
+      200000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4050032
+    ],
+    "mapTag": "2_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 90,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Frozen Fortress",
+    "onlyTag": "2_3_1",
+    "awardCount": [
+      30000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4060002,
+      4200006
+    ],
+    "awardCount_1": [
+      210000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4060002
+    ],
+    "mapTag": "2_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 100,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Frozen Fortress",
+    "onlyTag": "2_3_2",
+    "awardCount": [
+      48000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4060012,
+      4200006
+    ],
+    "awardCount_1": [
+      400000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4060012
+    ],
+    "mapTag": "2_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 103,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Frozen Fortress",
+    "onlyTag": "2_3_3",
+    "awardCount": [
+      61000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4060022,
+      4200006
+    ],
+    "awardCount_1": [
+      510000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4060022
+    ],
+    "mapTag": "2_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 106,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Frozen Fortress",
+    "onlyTag": "2_3_4",
+    "awardCount": [
+      85000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4060032,
+      4200016
+    ],
+    "awardCount_1": [
+      550000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4060032
+    ],
+    "mapTag": "2_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 110,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Seven Sea",
+    "onlyTag": "2_4_1",
+    "awardCount": [
+      90000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4070002,
+      4200007
+    ],
+    "awardCount_1": [
+      600000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4070002
+    ],
+    "mapTag": "2_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 120,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Seven Sea",
+    "onlyTag": "2_4_2",
+    "awardCount": [
+      110000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4070012,
+      4200007
+    ],
+    "awardCount_1": [
+      1000000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4070012
+    ],
+    "mapTag": "2_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 123,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Seven Sea",
+    "onlyTag": "2_4_3",
+    "awardCount": [
+      127000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4070022,
+      4200007
+    ],
+    "awardCount_1": [
+      1400000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4070022
+    ],
+    "mapTag": "2_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 126,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Seven Sea",
+    "onlyTag": "2_4_4",
+    "awardCount": [
+      180000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4070032,
+      4200017
+    ],
+    "awardCount_1": [
+      1500000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4070032
+    ],
+    "mapTag": "2_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 130,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Graveyard",
+    "onlyTag": "2_5_1",
+    "awardCount": [
+      190000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4080002,
+      4200008
+    ],
+    "awardCount_1": [
+      1600000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4080002
+    ],
+    "mapTag": "2_5",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 140,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Graveyard",
+    "onlyTag": "2_5_2",
+    "awardCount": [
+      215000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4080012,
+      4200008
+    ],
+    "awardCount_1": [
+      2000000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4080012
+    ],
+    "mapTag": "2_5",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 143,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Graveyard",
+    "onlyTag": "2_5_3",
+    "awardCount": [
+      230000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4080022,
+      4200008
+    ],
+    "awardCount_1": [
+      2500000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4080022
+    ],
+    "mapTag": "2_5",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 146,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Graveyard",
+    "onlyTag": "2_5_4",
+    "awardCount": [
+      300000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4080032,
+      4200018
+    ],
+    "awardCount_1": [
+      3000000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4080032
+    ],
+    "mapTag": "2_5",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 150,
+    "Icon": "",
+    "world": 2
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Snow Village",
+    "onlyTag": "3_1_1",
+    "awardCount": [
+      350000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4090002,
+      4200009
+    ],
+    "awardCount_1": [
+      3200000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4090002
+    ],
+    "mapTag": "3_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 160,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Snow Village",
+    "onlyTag": "3_1_2",
+    "awardCount": [
+      455000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4090012,
+      4200009
+    ],
+    "awardCount_1": [
+      5000000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4090012
+    ],
+    "mapTag": "3_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 163,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Snow Village",
+    "onlyTag": "3_1_3",
+    "awardCount": [
+      500000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4090022,
+      4200009
+    ],
+    "awardCount_1": [
+      5500000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4090022
+    ],
+    "mapTag": "3_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 166,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Snow Village",
+    "onlyTag": "3_1_4",
+    "awardCount": [
+      650000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4090032,
+      4200019
+    ],
+    "awardCount_1": [
+      6000000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4090032
+    ],
+    "mapTag": "3_1",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 170,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Spiders Mountain",
+    "onlyTag": "3_2_1",
+    "awardCount": [
+      650000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001002,
+      4200010
+    ],
+    "awardCount_1": [
+      5000000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001002
+    ],
+    "mapTag": "3_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 180,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Spiders Mountain",
+    "onlyTag": "3_2_2",
+    "awardCount": [
+      705000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001012,
+      4200010
+    ],
+    "awardCount_1": [
+      7000000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001012
+    ],
+    "mapTag": "3_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 183,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Spiders Mountain",
+    "onlyTag": "3_2_3",
+    "awardCount": [
+      800000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001022,
+      4200010
+    ],
+    "awardCount_1": [
+      8000000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001022
+    ],
+    "mapTag": "3_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 186,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Spiders Mountain",
+    "onlyTag": "3_2_4",
+    "awardCount": [
+      1000000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001032,
+      4200020
+    ],
+    "awardCount_1": [
+      9000000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001032
+    ],
+    "mapTag": "3_2",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 190,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Infinite Train",
+    "onlyTag": "3_3_1",
+    "awardCount": [
+      1000000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001102,
+      4210011
+    ],
+    "awardCount_1": [
+      7000000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001102
+    ],
+    "mapTag": "3_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 200,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Infinite Train",
+    "onlyTag": "3_3_2",
+    "awardCount": [
+      1150000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001112,
+      4210011
+    ],
+    "awardCount_1": [
+      10000000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001112
+    ],
+    "mapTag": "3_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 203,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Infinite Train",
+    "onlyTag": "3_3_3",
+    "awardCount": [
+      1200000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001122,
+      4210011
+    ],
+    "awardCount_1": [
+      11000000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001122
+    ],
+    "mapTag": "3_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 206,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Infinite Train",
+    "onlyTag": "3_3_4",
+    "awardCount": [
+      1300000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001132,
+      4220021
+    ],
+    "awardCount_1": [
+      12000000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001132
+    ],
+    "mapTag": "3_3",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 210,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 1,
+    "ZhName": "Sakura Street",
+    "onlyTag": "3_4_1",
+    "awardCount": [
+      1300000,
+      10,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001202,
+      4210012
+    ],
+    "awardCount_1": [
+      10000000,
+      100,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001202
+    ],
+    "mapTag": "3_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 220,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 2,
+    "ZhName": "Sakura Street",
+    "onlyTag": "3_4_2",
+    "awardCount": [
+      1405000,
+      15,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001212,
+      4210012
+    ],
+    "awardCount_1": [
+      14000000,
+      150,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001212
+    ],
+    "mapTag": "3_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.7,
+      2.55,
+      3.4
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 223,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 3,
+    "ZhName": "Sakura Street",
+    "onlyTag": "3_4_3",
+    "awardCount": [
+      1500000,
+      20,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001222,
+      4210012
+    ],
+    "awardCount_1": [
+      16000000,
+      200,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001222
+    ],
+    "mapTag": "3_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.8,
+      2.7,
+      3.6
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 226,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 4,
+    "hardlv": 4,
+    "ZhName": "Sakura Street",
+    "onlyTag": "3_4_4",
+    "awardCount": [
+      1700000,
+      30,
+      1,
+      1
+    ],
+    "award": [
+      3,
+      2,
+      4001232,
+      4220022
+    ],
+    "awardCount_1": [
+      18000000,
+      300,
+      1
+    ],
+    "award_1": [
+      3,
+      2,
+      4001232
+    ],
+    "mapTag": "3_4",
+    "time": 660,
+    "EnemyHpAtkAdd": [
+      1,
+      1.9,
+      2.85,
+      3.8
+    ],
+    "rebitrh": 3,
+    "UnlockLv": 230,
+    "Icon": "",
+    "world": 3
+  },
+  {
+    "plrMax": 1,
+    "hardlv": 0,
+    "ZhName": "Gold Dungeon",
+    "onlyTag": "金币副本_1",
+    "awardCount": [],
+    "award": [],
+    "awardCount_1": [],
+    "award_1": [],
+    "mapTag": "金币副本",
+    "time": 720,
+    "EnemyHpAtkAdd": [
+      1
+    ],
+    "rebitrh": -1,
+    "UnlockLv": 1,
+    "Icon": "",
+    "world": 0
+  }
+]

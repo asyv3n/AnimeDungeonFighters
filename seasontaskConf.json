@@ -1,0 +1,110 @@
+[
+  {
+    "Exp": 90,
+    "TimeType": 1,
+    "param": 1200,
+    "TaskType": 2
+  },
+  {
+    "Exp": 70,
+    "TimeType": 1,
+    "param": 1,
+    "TaskType": 4
+  },
+  {
+    "Exp": 100,
+    "TimeType": 1,
+    "param": 5000,
+    "TaskType": 7
+  },
+  {
+    "Exp": 80,
+    "TimeType": 1,
+    "param": 1,
+    "TaskType": 8
+  },
+  {
+    "Exp": 70,
+    "TimeType": 1,
+    "param": 1000,
+    "TaskType": 6
+  },
+  {
+    "Exp": 90,
+    "TimeType": 1,
+    "param": 1,
+    "TaskType": 19
+  },
+  {
+    "Exp": 80,
+    "TimeType": 1,
+    "param": 2,
+    "TaskType": 10
+  },
+  {
+    "Exp": 300,
+    "TimeType": 2,
+    "param": 14400,
+    "TaskType": 2
+  },
+  {
+    "Exp": 300,
+    "TimeType": 2,
+    "param": 5,
+    "TaskType": 8
+  },
+  {
+    "Exp": 200,
+    "TimeType": 2,
+    "param": 10000,
+    "TaskType": 6
+  },
+  {
+    "Exp": 400,
+    "TimeType": 2,
+    "param": 50000,
+    "TaskType": 7
+  },
+  {
+    "Exp": 200,
+    "TimeType": 2,
+    "param": 10,
+    "TaskType": 16
+  },
+  {
+    "Exp": 250,
+    "TimeType": 2,
+    "param": 3,
+    "TaskType": 17
+  },
+  {
+    "Exp": 250,
+    "TimeType": 2,
+    "param": 2,
+    "TaskType": 18
+  },
+  {
+    "Exp": 300,
+    "TimeType": 2,
+    "param": 20,
+    "TaskType": 10
+  },
+  {
+    "Exp": 300,
+    "TimeType": 2,
+    "param": 10,
+    "TaskType": 19
+  },
+  {
+    "Exp": 300,
+    "TimeType": 2,
+    "param": 1,
+    "TaskType": 20
+  },
+  {
+    "Exp": 300,
+    "TimeType": 2,
+    "param": 2,
+    "TaskType": 21
+  }
+]

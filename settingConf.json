@@ -1,0 +1,79 @@
+[
+  {
+    "ShowName": "音乐大小",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "MUSIC VOLUME",
+    "isBar": 1
+  },
+  {
+    "ShowName": "音乐开关",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "MUSIC",
+    "isBar": 0
+  },
+  {
+    "ShowName": "音效大小",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "SFX VOLUME",
+    "isBar": 1
+  },
+  {
+    "ShowName": "音效开关",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "General SFX",
+    "isBar": 0
+  },
+  {
+    "ShowName": "技能音效",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "SKILL SFX",
+    "isBar": 0
+  },
+  {
+    "ShowName": "UI音效",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "UI SFX",
+    "isBar": 0
+  },
+  {
+    "ShowName": "快速模式",
+    "isShow": 1,
+    "set": 0,
+    "ZhName": "FAST-MODE",
+    "isBar": 0
+  },
+  {
+    "ShowName": "屏幕震动",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "Screen Shake",
+    "isBar": 0
+  },
+  {
+    "ShowName": "显示伤害",
+    "isShow": 1,
+    "set": 0,
+    "ZhName": "SHOW DMG",
+    "isBar": 0
+  },
+  {
+    "ShowName": "显示称号",
+    "isShow": 0,
+    "set": 1,
+    "ZhName": "ShowTitle",
+    "isBar": 0
+  },
+  {
+    "ShowName": "全服公告",
+    "isShow": 1,
+    "set": 1,
+    "ZhName": "GLOBAL NOTICE",
+    "isBar": 0
+  }
+]

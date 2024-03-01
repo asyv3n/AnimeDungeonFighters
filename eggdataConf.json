@@ -1,0 +1,779 @@
+{
+  "7000001": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "1_1",
+    "Price": 200,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120011,
+      2120012,
+      2120013,
+      2120014
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      74000,
+      20000,
+      4000,
+      2000
+    ],
+    "world": 1
+  },
+  "7000002": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "1_1",
+    "Price": 200,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110011,
+      2110012,
+      2110013,
+      2110014
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      74000,
+      20000,
+      4000,
+      2000
+    ],
+    "world": 1
+  },
+  "7000003": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "1_1",
+    "Price": 200,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130011,
+      2130012,
+      2130013,
+      2130014
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      74000,
+      20000,
+      4000,
+      2000
+    ],
+    "world": 1
+  },
+  "7000011": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "1_2",
+    "Price": 1000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120101,
+      2120102,
+      2120103,
+      2120104,
+      2120105
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      86400,
+      10000,
+      2500,
+      850,
+      250
+    ],
+    "world": 1
+  },
+  "7000012": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "1_2",
+    "Price": 1000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110101,
+      2110102,
+      2110103,
+      2110104,
+      2110105
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      86400,
+      10000,
+      2500,
+      850,
+      250
+    ],
+    "world": 1
+  },
+  "7000013": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "1_2",
+    "Price": 1000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130101,
+      2130102,
+      2130103,
+      2130104,
+      2130105
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      86400,
+      10000,
+      2500,
+      850,
+      250
+    ],
+    "world": 1
+  },
+  "7000021": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "1_3",
+    "Price": 4000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120201,
+      2120202,
+      2120203,
+      2120204,
+      2120205
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 1
+  },
+  "7000022": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "1_3",
+    "Price": 4000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110201,
+      2110202,
+      2110203,
+      2110204,
+      2110205
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 1
+  },
+  "7000023": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "1_3",
+    "Price": 4000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130201,
+      2130202,
+      2130203,
+      2130204,
+      2130205
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 1
+  },
+  "7000031": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "1_1",
+    "Price": 200,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      9110011,
+      9110012,
+      9110013,
+      9110014,
+      9110015
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      73750,
+      20000,
+      4000,
+      2000,
+      250
+    ],
+    "world": 1
+  },
+  "7000032": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "1_2",
+    "Price": 1000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      9110016,
+      9110017,
+      9110018,
+      9110019,
+      9110020
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      86400,
+      10000,
+      2500,
+      850,
+      250
+    ],
+    "world": 1
+  },
+  "7000033": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "1_3",
+    "Price": 8000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      9110021,
+      9110022,
+      9110023,
+      9110024,
+      9110025
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 1
+  },
+  "7000041": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "2_1",
+    "Price": 12000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120301,
+      2120302,
+      2120303,
+      2120304,
+      2120305
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000042": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "2_1",
+    "Price": 12000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110301,
+      2110302,
+      2110303,
+      2110304,
+      2110305
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000043": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "2_1",
+    "Price": 12000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130301,
+      2130302,
+      2130303,
+      2130304,
+      2130305
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000051": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "2_2",
+    "Price": 50000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120401,
+      2120402,
+      2120403,
+      2120404,
+      2120405
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000052": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "2_2",
+    "Price": 50000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110401,
+      2110402,
+      2110403,
+      2110404,
+      2110405
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000053": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "2_2",
+    "Price": 50000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130401,
+      2130402,
+      2130403,
+      2130404,
+      2130405
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000061": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "2_3",
+    "Price": 200000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120501,
+      2120502,
+      2120503,
+      2120504,
+      2120505
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000062": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "2_3",
+    "Price": 200000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110501,
+      2110502,
+      2110503,
+      2110504,
+      2110505
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000063": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "2_3",
+    "Price": 200000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130501,
+      2130502,
+      2130503,
+      2130504,
+      2130505
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000071": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "2_4",
+    "Price": 800000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120601,
+      2120602,
+      2120603,
+      2120604,
+      2120605
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000072": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "2_4",
+    "Price": 800000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110601,
+      2110602,
+      2110603,
+      2110604,
+      2110605
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000073": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "2_4",
+    "Price": 800000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130601,
+      2130602,
+      2130603,
+      2130604,
+      2130605
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000081": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Gloves",
+    "EggPic": "",
+    "DisName": "Gloves",
+    "JingLenth": 0,
+    "mapTag": "2_5",
+    "Price": 4000000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2120701,
+      2120702,
+      2120703,
+      2120704,
+      2120705
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000082": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Sword",
+    "EggPic": "",
+    "DisName": "Sword",
+    "JingLenth": 0,
+    "mapTag": "2_5",
+    "Price": 4000000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2110701,
+      2110702,
+      2110703,
+      2110704,
+      2110705
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  },
+  "7000083": {
+    "NamePic": "",
+    "emoji": "",
+    "tp": 7,
+    "cost": 1,
+    "ZhName": "Pistol",
+    "EggPic": "",
+    "DisName": "Pistol",
+    "JingLenth": 0,
+    "mapTag": "2_5",
+    "Price": 4000000,
+    "Model": "武器蛋",
+    "ItemIDVt": [
+      2130701,
+      2130702,
+      2130703,
+      2130704,
+      2130705
+    ],
+    "JingProtect": 0,
+    "ItemWeight": [
+      92680,
+      5000,
+      1650,
+      420,
+      250
+    ],
+    "world": 2
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "TaskIcon": 13197884406,
+    "Text": "完成今日所有的每日任务",
+    "Task": "",
+    "Title": "Complete all daily quests."
+  },
+  {
+    "TaskIcon": 13197882109,
+    "Text": "完成本周所有的周常任务",
+    "Task": "",
+    "Title": "Complete all weekly quests"
+  },
+  {
+    "TaskIcon": 13197886518,
+    "Text": "完成世界x所有的任务（x代表第几个世界）",
+    "Task": "Completed All Main Quests in World {1}",
+    "Title": "Completed Main Quests"
+  },
+  {
+    "TaskIcon": 13197887905,
+    "Text": "通关x次指定id副本（x代表数量）",
+    "Task": "Passed {2} dungeon {1} times",
+    "Title": "Grand Cleanup"
+  },
+  {
+    "TaskIcon": 13197885749,
+    "Text": "击败指定id的怪物x次（x代表数量）",
+    "Task": "Kill {1}   {2} times on {3}",
+    "Title": "Wanted List"
+  },
+  {
+    "TaskIcon": 13197884719,
+    "Text": "进行召唤英雄x次（x代表数量）",
+    "Task": "Summon Heroes {1} Times",
+    "Title": "Summon Heroes"
+  },
+  {
+    "TaskIcon": 13197886772,
+    "Text": "进行强化x次（x代表数量）",
+    "Task": "Equipment Enhancement {1} Times",
+    "Title": "Equipment Enhancement"
+  },
+  {
+    "TaskIcon": 13197886391,
+    "Text": "进行突破x次（x代表数量）",
+    "Task": "Equipment Upgrade {1} Times",
+    "Title": "Equipment Upgrade"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "获得指定类型的装备/武器x次（x代表数量）",
+    "Task": "Collection {1} {2} times",
+    "Title": "Collection Equipment"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "掌握x个技能",
+    "Task": "Learning {1} Skills",
+    "Title": "Learning Skill"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "技能升级X次",
+    "Task": "Level up Skills 5 times",
+    "Title": "Level up Skill"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "同时穿戴指定数量指定稀有度的装备",
+    "Task": "Wear {1} pieces of equipment of {2} at the same time",
+    "Title": "Wearing Equipment"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "击杀怪物{1}只",
+    "Task": "Defeat {1} Enemies",
+    "Title": "Defeated Enemies"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "通关副本{1}次",
+    "Task": "Pass dungeon {1} times",
+    "Title": "Cleared Dungeon"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "组队一起通关副本{1} 次",
+    "Task": "Teamwork pass dungeon {1} times",
+    "Title": "Teamwork Ⅰ"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "组队一起通关塔防模式{1}波",
+    "Task": "Teamwork cleared defense mode {1} waves",
+    "Title": "Teamwork Ⅱ"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "累计通关塔防模式{1}波",
+    "Task": "Completed a Total of {1} Waves in Defense Mode",
+    "Title": "Defense Elite"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "累计组队一起通关塔防模式{1}波",
+    "Task": "Total of {1} waves of tower defense mode to be cleared by teamwork",
+    "Title": "Teamwork Ⅲ"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "抽多少次皮肤",
+    "Task": "Summon {1}  Cosmetics",
+    "Title": "More Cosmetics"
+  },
+  {
+    "TaskIcon": 13197883058,
+    "Text": "抽多少次果实",
+    "Task": "Summon {1}  Fruits",
+    "Title": "More Fruits"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "3000001": {
+    "hasCount": 1,
+    "tp": 3,
+    "UnlockInf": 1,
+    "ZhName": "VIP",
+    "Icon": 12879377646,
+    "OnlyTag": "Vip"
+  },
+  "3000002": {
+    "hasCount": 1,
+    "tp": 3,
+    "UnlockInf": 1,
+    "ZhName": "Money Bonuse",
+    "Icon": 12879377646,
+    "OnlyTag": "MoneyBonuse"
+  },
+  "3000003": {
+    "hasCount": 1,
+    "tp": 3,
+    "UnlockInf": 1,
+    "ZhName": "Extra Loop",
+    "Icon": 12879377646,
+    "OnlyTag": "ExtraLoop"
+  },
+  "3000004": {
+    "hasCount": 1,
+    "tp": 3,
+    "UnlockInf": 1,
+    "ZhName": "Fast Hatch",
+    "Icon": 12879377646,
+    "OnlyTag": "FastHatch"
+  },
+  "3000005": {
+    "hasCount": 1,
+    "tp": 3,
+    "UnlockInf": 1,
+    "ZhName": "Triple Hatch",
+    "Icon": 12879377646,
+    "OnlyTag": "TripleHatch"
+  }
+}

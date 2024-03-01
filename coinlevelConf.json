@@ -1,0 +1,727 @@
+[
+  {
+    "BoxHp_3": 200,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      50
+    ],
+    "BoxHp_2": 40,
+    "BoxAwardCount_3": [
+      15000
+    ],
+    "BoxAwardCount_2": [
+      400
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 10,
+    "lv_end": 39,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 1
+  },
+  {
+    "BoxHp_3": 400,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60
+    ],
+    "BoxHp_2": 80,
+    "BoxAwardCount_3": [
+      30000
+    ],
+    "BoxAwardCount_2": [
+      600
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 40,
+    "lv_end": 59,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 40
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      600
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      95000
+    ],
+    "BoxAwardCount_2": [
+      2500
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 45,
+    "lv_end": 79,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 60
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      2500
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      400000
+    ],
+    "BoxAwardCount_2": [
+      10000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 50,
+    "lv_end": 99,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 80
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      10000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      1500000
+    ],
+    "BoxAwardCount_2": [
+      40000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 55,
+    "lv_end": 119,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 100
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      40000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      6500000
+    ],
+    "BoxAwardCount_2": [
+      160000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 139,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 120
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 159,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 140
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 179,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 160
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 199,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 180
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 219,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 200
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 239,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 220
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 259,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 240
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 279,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 260
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 299,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 280
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 319,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 300
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 339,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 320
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 359,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 340
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 379,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 360
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 399,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 380
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 419,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 400
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 439,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 420
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 459,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 440
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 479,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 460
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 499,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 480
+  },
+  {
+    "BoxHp_3": 600,
+    "BoxAward_2": [
+      1
+    ],
+    "BoxAwardCount_1": [
+      60000
+    ],
+    "BoxHp_2": 100,
+    "BoxAwardCount_3": [
+      8000000
+    ],
+    "BoxAwardCount_2": [
+      200000
+    ],
+    "BoxAward_3": [
+      1
+    ],
+    "BoxAward_1": [
+      1
+    ],
+    "BoxHp_1": 60,
+    "lv_end": 519,
+    "BoxCount_2": [
+      4,
+      8
+    ],
+    "lv_start": 500
+  }
+]

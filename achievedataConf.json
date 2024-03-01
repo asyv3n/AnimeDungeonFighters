@@ -1,0 +1,178 @@
+{
+  "1001": {
+    "nd": 1,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime1",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000002
+    ],
+    "taskCount": [
+      10
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1002": {
+    "nd": 2,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime2",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000003
+    ],
+    "taskCount": [
+      30
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1003": {
+    "nd": 3,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime3",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000004
+    ],
+    "taskCount": [
+      50
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1004": {
+    "nd": 4,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime4",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000005
+    ],
+    "taskCount": [
+      80
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1005": {
+    "nd": 5,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime5",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000006
+    ],
+    "taskCount": [
+      100
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1006": {
+    "nd": 6,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime6",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000007
+    ],
+    "taskCount": [
+      130
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1007": {
+    "nd": 7,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "独自升级副本通关记录"
+    ],
+    "page": "easy",
+    "title": "Playtime7",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000008
+    ],
+    "taskCount": [
+      150
+    ],
+    "Icon": "13087432367",
+    "des": "Pass Magicbeasts %s wave"
+  },
+  "1008": {
+    "nd": 8,
+    "taskType": [
+      "1"
+    ],
+    "taskID": [
+      "等级记录"
+    ],
+    "page": "easy",
+    "title": "Playtime8",
+    "countVt": [
+      1
+    ],
+    "awardIDVt": [
+      20000001
+    ],
+    "taskCount": [
+      20
+    ],
+    "Icon": "13087432367",
+    "des": "Unlocked to Level %s"
+  }
+}

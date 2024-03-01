@@ -1,0 +1,13 @@
+{
+  "990000000": {
+    "maxTime": 1,
+    "BuffPercentValue": 6,
+    "ZhName": "2",
+    "title": "3",
+    "isOver": 5,
+    "Icon": 9,
+    "typeEnum": 4,
+    "BuffEffectNum": 8,
+    "BuffFixedValue": 7
+  }
+}
