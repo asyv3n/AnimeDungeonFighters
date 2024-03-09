@@ -34,40 +34,84 @@
     "NamePic",
     "EggPic"
   ],
+  "itemshopdataConf": [
+    "ZhName",
+    "ZhDes",
+    "OnlyTag",
+    "passSort",
+    "passTag",
+    "gamePassItemID",
+    "cost",
+    "passID",
+    "GiftID",
+    "price",
+    "itemID",
+    "itemCount",
+    "Icon",
+    "ColorStr"
+  ],
+  "heromagicConf": [
+    "ZhName",
+    "World",
+    "chi",
+    "xyd",
+    "Lv",
+    "AddTp",
+    "Add",
+    "Rate"
+  ],
+  "weaponstrengthConf": [
+    "baseExp"
+  ],
+  "enemyaiConf": [
+    "ZhName",
+    "walkSpeed",
+    "runSpeed",
+    "runAttackSpeed",
+    "runLeisureSpeed",
+    "attackRadius",
+    "enemyType",
+    "attackHitboxRadius",
+    "patrolRadius",
+    "patrolAttackRadius",
+    "pursuitLength",
+    "beAttackMinPursuitLength",
+    "backHomeMaxTime",
+    "maxAttackRadius",
+    "pursuitChangeTargetTime",
+    "pursuiBackHometTime",
+    "patrolTime",
+    "patrolCount",
+    "idelTime"
+  ],
   "inviteawardConf": [
     "OnlineNum",
     "Reward",
     "Count"
   ],
-  "heroexplvConf": [
-    "Xyd1",
-    "Xyd2",
-    "Xyd3",
-    "Xyd4",
-    "Xyd5",
-    "Xyd6"
-  ],
-  "dailyawardConf": [
-    "index",
-    "week",
-    "AwardID",
-    "CountID",
-    "BtnColor",
-    "BtnIcon"
-  ],
-  "explvConf": [
-    "E",
-    "Pt",
+  "enemyConf": [
+    "ZhName",
+    "xyd",
+    "dungeon",
+    "model",
+    "Size",
+    "Lv",
     "attr",
-    "attrNum"
-  ],
-  "codeConf": [
-    "code",
-    "codeType",
-    "startTime",
-    "endTime",
-    "rewardId",
-    "rewardNum"
+    "attrNum",
+    "HPNum",
+    "Reward",
+    "Count",
+    "Reward1",
+    "Count1",
+    "Rate",
+    "Skill",
+    "ToolExp",
+    "Exp",
+    "Icon",
+    "AIId",
+    "AtkSkillIds",
+    "SkillIds",
+    "PhysicInfo"
   ],
   "weaponConf": [
     "pos",
@@ -103,201 +147,38 @@
     "roomName",
     "add"
   ],
-  "herosConf": [
-    "xyd",
-    "tp",
-    "SellItem",
-    "SellCount",
-    "sp1_rate",
-    "sp23_rate",
-    "nor_rate",
-    "ZhName",
-    "Model",
-    "Size",
-    "attrLvl",
-    "attrLvlNum",
-    "talentattrLvl",
-    "talentattrLvlNum",
-    "upType",
-    "Skill",
-    "FeedExp"
+  "heroexplvConf": [
+    "Xyd1",
+    "Xyd2",
+    "Xyd3",
+    "Xyd4",
+    "Xyd5",
+    "Xyd6"
   ],
-  "fruitConf": [
-    "tp",
-    "xyd",
-    "lvNeed",
-    "SellCount",
+  "plrdataConf": [
     "ZhName",
-    "Model",
-    "Avatar",
-    "ModelType",
+    "Tips",
+    "PvpValue",
+    "Trans",
     "Icon",
-    "AttackSound",
-    "HitSound",
-    "LastAttackSound",
-    "WeaponAnimName",
-    "HoldWeaponType"
+    "HeroIcon",
+    "isShow",
+    "isPercent",
+    "isTips"
   ],
-  "dailylotteryeventConf": [
-    "Best",
-    "AwardID",
-    "CountID",
-    "Rate"
-  ],
-  "skinConf": [
-    "pos",
-    "weaponTp",
-    "tp",
-    "xyd",
-    "rate",
-    "lvNeed",
-    "attr",
-    "attrNum",
-    "SellItem",
-    "SellCount",
-    "Sell",
+  "pvprankConf": [
+    "RankLv",
     "ZhName",
-    "Avatar",
-    "Suit",
-    "ModelType",
-    "Model",
-    "Icon"
+    "NeedKill"
   ],
-  "coinlevelConf": [
-    "lv_start",
-    "lv_end",
-    "BoxAward_1",
-    "BoxAwardCount_1",
-    "BoxHp_1",
-    "BoxCount_2",
-    "BoxAward_2",
-    "BoxAwardCount_2",
-    "BoxHp_2",
-    "BoxAward_3",
-    "BoxAwardCount_3",
-    "BoxHp_3"
-  ],
-  "extitlesConf": [
-    "tp",
-    "Icon",
-    "ZhName",
-    "DesText",
-    "RGB",
-    "xyd",
-    "lvNeed",
-    "attr",
-    "attrNum",
-    "Size"
-  ],
-  "fruitsConf": [
-    "ZhName",
-    "nor_rate"
-  ],
-  "seasontasktypeConf": [
-    "Task",
-    "TaskIcon",
-    "Text"
-  ],
-  "mountConf": [
-    "ZhName",
-    "OnlyTag",
-    "UnlockInf",
-    "ItemFrom",
-    "hasCount",
-    "tp",
-    "xyd",
-    "speedAdd",
-    "atkAdd",
-    "coinAdd",
-    "powerAdd",
-    "Enemy",
-    "Probability",
-    "Model",
-    "Icon",
-    "PlayerMountAnim"
-  ],
-  "heroskillConf": [
-    "scriptName",
-    "CD",
-    "nowTime",
-    "PercentValue",
-    "FixedValue",
-    "HitNum",
-    "HitRange",
-    "SkillTarget",
-    "SkillBuff"
-  ],
-  "indexrewardConf": [
-    "Need",
-    "ZhDes",
-    "Award",
-    "Count"
-  ],
-  "weaponbreakConf": [
-    "weaponId",
-    "breakLvl",
-    "breakNeed",
-    "costItem",
-    "costItemNum",
-    "break",
-    "breakNum"
-  ],
-  "indexweeaponrewardConf": [
-    "Need",
-    "ZhDes",
-    "Award",
-    "Count"
-  ],
-  "itemshopdataConf": [
-    "ZhName",
-    "ZhDes",
-    "OnlyTag",
-    "passSort",
-    "passTag",
-    "gamePassItemID",
-    "cost",
-    "passID",
-    "GiftID",
-    "price",
-    "itemID",
-    "itemCount",
-    "Icon",
-    "ColorStr"
-  ],
-  "enemyaiConf": [
-    "ZhName",
-    "walkSpeed",
-    "runSpeed",
-    "runAttackSpeed",
-    "runLeisureSpeed",
-    "attackRadius",
-    "enemyType",
-    "attackHitboxRadius",
-    "patrolRadius",
-    "patrolAttackRadius",
-    "pursuitLength",
-    "beAttackMinPursuitLength",
-    "backHomeMaxTime",
-    "maxAttackRadius",
-    "pursuitChangeTargetTime",
-    "pursuiBackHometTime",
-    "patrolTime",
-    "patrolCount",
-    "idelTime"
-  ],
-  "magicConf": [
-    "ZhName",
-    "EffectName",
-    "Icon",
-    "chi",
-    "xyd",
-    "Lv",
-    "AddTp",
-    "Add",
-    "SelfAddTp",
-    "SelfAdd",
-    "Rate",
-    "DesID"
+  "waveConf": [
+    "onlyTag",
+    "wave",
+    "room",
+    "unlockWave",
+    "ePos",
+    "eId",
+    "eCount"
   ],
   "upgradeConf": [
     "OnlyTag",
@@ -309,21 +190,27 @@
     "UpPrice",
     "cost"
   ],
-  "pvprankConf": [
-    "RankLv",
-    "ZhName",
-    "NeedKill"
+  "toolexplvConf": [
+    "NeedExp1",
+    "NeedExp2",
+    "NeedExp3",
+    "NeedExp4",
+    "NeedExp5",
+    "NeedExp6",
+    "NeedExp7",
+    "NeedExp8",
+    "NeedExp9",
+    "NeedExp10",
+    "NeedExp11",
+    "NeedExp12"
   ],
-  "jewelryConf": [
-    "sort",
-    "tp",
-    "xyd",
-    "exp",
-    "ZhName",
-    "AddTp",
-    "Add",
-    "Icon",
-    "Note"
+  "dailyawardConf": [
+    "index",
+    "week",
+    "AwardID",
+    "CountID",
+    "BtnColor",
+    "BtnIcon"
   ],
   "skillbuffConf": [
     "ZhName",
@@ -333,6 +220,12 @@
     "Priority",
     "Icon"
   ],
+  "explvConf": [
+    "E",
+    "Pt",
+    "attr",
+    "attrNum"
+  ],
   "bosslottertyConf": [
     "AwardID",
     "CountID",
@@ -340,29 +233,13 @@
     "ExAwardID",
     "ExCountID"
   ],
-  "enemyConf": [
-    "ZhName",
-    "xyd",
-    "dungeon",
-    "model",
-    "Size",
-    "Lv",
-    "attr",
-    "attrNum",
-    "HPNum",
-    "Reward",
-    "Count",
-    "Reward1",
-    "Count1",
-    "Rate",
-    "Skill",
-    "ToolExp",
-    "Exp",
-    "Icon",
-    "AIId",
-    "AtkSkillIds",
-    "SkillIds",
-    "PhysicInfo"
+  "codeConf": [
+    "code",
+    "codeType",
+    "startTime",
+    "endTime",
+    "rewardId",
+    "rewardNum"
   ],
   "seasonConf": [
     "Exp",
@@ -373,6 +250,23 @@
     "ShowRewards",
     "ExPayAwardID",
     "ExPayCountID"
+  ],
+  "tasktypeConf": [
+    "Title",
+    "Task",
+    "TaskIcon",
+    "Text"
+  ],
+  "tasknpcConf": [
+    "onlyTag",
+    "index",
+    "wd",
+    "TaskType",
+    "param",
+    "award",
+    "count",
+    "talk",
+    "title"
   ],
   "gamepassitemConf": [
     "ZhName",
@@ -392,98 +286,6 @@
     "BuffFixedValue",
     "BuffEffectNum",
     "Icon"
-  ],
-  "magicdesConf": [
-    "ZhName",
-    "des"
-  ],
-  "jewelryexpConf": [
-    "exp",
-    "add"
-  ],
-  "craftsConf": [
-    "ItemID",
-    "ItemCount",
-    "Need",
-    "Count",
-    "Type",
-    "SuitName",
-    "WorldID"
-  ],
-  "waveinfConf": [
-    "world",
-    "wave",
-    "eId",
-    "eCount",
-    "ePos",
-    "add"
-  ],
-  "dailylotteryConf": [
-    "AwardID",
-    "CountID",
-    "Rate",
-    "ExAwardID",
-    "ExCountID"
-  ],
-  "hunterConf": [
-    "lv_start",
-    "lv_end",
-    "awardCount",
-    "exAward",
-    "exCount"
-  ],
-  "attrlvdataConf": [
-    "1",
-    "2",
-    "3",
-    "6"
-  ],
-  "weaponstrengthConf": [
-    "baseExp"
-  ],
-  "sevendailylimitConf": [
-    "AwardID",
-    "CountID"
-  ],
-  "waveConf": [
-    "onlyTag",
-    "wave",
-    "room",
-    "unlockWave",
-    "ePos",
-    "eId",
-    "eCount"
-  ],
-  "toolexplvConf": [
-    "NeedExp1",
-    "NeedExp2",
-    "NeedExp3",
-    "NeedExp4",
-    "NeedExp5",
-    "NeedExp6",
-    "NeedExp7",
-    "NeedExp8",
-    "NeedExp9",
-    "NeedExp10",
-    "NeedExp11",
-    "NeedExp12"
-  ],
-  "tasktypeConf": [
-    "Title",
-    "Task",
-    "TaskIcon",
-    "Text"
-  ],
-  "tasknpcConf": [
-    "onlyTag",
-    "index",
-    "wd",
-    "TaskType",
-    "param",
-    "award",
-    "count",
-    "talk",
-    "title"
   ],
   "taskConf": [
     "onlyTag",
@@ -507,6 +309,44 @@
     "attrNum_4",
     "attr_5",
     "attrNum_5"
+  ],
+  "skinConf": [
+    "pos",
+    "weaponTp",
+    "tp",
+    "xyd",
+    "rate",
+    "lvNeed",
+    "attr",
+    "attrNum",
+    "SellItem",
+    "SellCount",
+    "Sell",
+    "ZhName",
+    "Avatar",
+    "Suit",
+    "ModelType",
+    "Model",
+    "Icon"
+  ],
+  "herosConf": [
+    "xyd",
+    "tp",
+    "SellItem",
+    "SellCount",
+    "sp1_rate",
+    "sp23_rate",
+    "nor_rate",
+    "ZhName",
+    "Model",
+    "Size",
+    "attrLvl",
+    "attrLvlNum",
+    "talentattrLvl",
+    "talentattrLvlNum",
+    "upType",
+    "Skill",
+    "FeedExp"
   ],
   "skilllevelConf": [
     "weaponTp",
@@ -536,12 +376,146 @@
     "xyd",
     "Icon"
   ],
+  "craftsConf": [
+    "ItemID",
+    "ItemCount",
+    "Need",
+    "Count",
+    "Type",
+    "SuitName",
+    "WorldID"
+  ],
+  "waveinfConf": [
+    "world",
+    "wave",
+    "eId",
+    "eCount",
+    "ePos",
+    "add"
+  ],
   "settingConf": [
     "ZhName",
     "ShowName",
     "isBar",
     "set",
     "isShow"
+  ],
+  "dailylotteryConf": [
+    "AwardID",
+    "CountID",
+    "Rate",
+    "ExAwardID",
+    "ExCountID"
+  ],
+  "magiccostConf": [
+    "xyd",
+    "tp",
+    "CostID",
+    "CostCount"
+  ],
+  "attrlvdataConf": [
+    "1",
+    "2",
+    "3",
+    "6"
+  ],
+  "seasontaskConf": [
+    "TimeType",
+    "TaskType",
+    "param",
+    "Exp"
+  ],
+  "sevendailylimitConf": [
+    "AwardID",
+    "CountID"
+  ],
+  "coinlevelConf": [
+    "lv_start",
+    "lv_end",
+    "BoxAward_1",
+    "BoxAwardCount_1",
+    "BoxHp_1",
+    "BoxCount_2",
+    "BoxAward_2",
+    "BoxAwardCount_2",
+    "BoxHp_2",
+    "BoxAward_3",
+    "BoxAwardCount_3",
+    "BoxHp_3"
+  ],
+  "extitlesConf": [
+    "tp",
+    "Icon",
+    "ZhName",
+    "DesText",
+    "RGB",
+    "xyd",
+    "lvNeed",
+    "attr",
+    "attrNum",
+    "Size"
+  ],
+  "heromagicdesConf": [
+    "icon",
+    "ZhName",
+    "des"
+  ],
+  "fruitsConf": [
+    "ZhName",
+    "nor_rate"
+  ],
+  "npcskillConf": [
+    "scriptName",
+    "CD",
+    "nowTime",
+    "PercentValue",
+    "FixedValue",
+    "buffs",
+    "order",
+    "Priority",
+    "Range",
+    "EffectTarget"
+  ],
+  "mountConf": [
+    "ZhName",
+    "OnlyTag",
+    "UnlockInf",
+    "ItemFrom",
+    "hasCount",
+    "tp",
+    "xyd",
+    "speedAdd",
+    "atkAdd",
+    "coinAdd",
+    "powerAdd",
+    "Enemy",
+    "Probability",
+    "Model",
+    "Icon",
+    "PlayerMountAnim"
+  ],
+  "magicdesConf": [
+    "ZhName",
+    "des"
+  ],
+  "seasontasktypeConf": [
+    "Task",
+    "TaskIcon",
+    "Text"
+  ],
+  "magicConf": [
+    "ZhName",
+    "EffectName",
+    "Icon",
+    "chi",
+    "xyd",
+    "Lv",
+    "AddTp",
+    "Add",
+    "SelfAddTp",
+    "SelfAdd",
+    "Rate",
+    "DesID"
   ],
   "boxitemConf": [
     "ZhName",
@@ -556,11 +530,12 @@
     "Rate",
     "text"
   ],
-  "seasontaskConf": [
-    "TimeType",
-    "TaskType",
-    "param",
-    "Exp"
+  "hunterConf": [
+    "lv_start",
+    "lv_end",
+    "awardCount",
+    "exAward",
+    "exCount"
   ],
   "defensemodeConf": [
     "world",
@@ -583,16 +558,11 @@
     "awardIDVt",
     "countVt"
   ],
-  "plrdataConf": [
-    "ZhName",
-    "Tips",
-    "PvpValue",
-    "Trans",
-    "Icon",
-    "HeroIcon",
-    "isShow",
-    "isPercent",
-    "isTips"
+  "indexweeaponrewardConf": [
+    "Need",
+    "ZhDes",
+    "Award",
+    "Count"
   ],
   "buffdataConf": [
     "isShow",
@@ -603,17 +573,17 @@
     "addPower",
     "Icon"
   ],
-  "npcskillConf": [
-    "scriptName",
-    "CD",
-    "nowTime",
-    "PercentValue",
-    "FixedValue",
-    "buffs",
-    "order",
-    "Priority",
-    "Range",
-    "EffectTarget"
+  "heroattrConf": [
+    "upType_1",
+    "upType_2",
+    "upType_3",
+    "upType_4",
+    "upType_5",
+    "upType_6",
+    "upType_7",
+    "upType_8",
+    "upType_9",
+    "upType_10"
   ],
   "itemdataConf": [
     "ZhName",
@@ -641,42 +611,41 @@
     "ExtraRewards",
     "ExtraChance"
   ],
-  "heromagicdesConf": [
-    "icon",
-    "ZhName",
-    "des"
+  "heroskillConf": [
+    "scriptName",
+    "CD",
+    "nowTime",
+    "PercentValue",
+    "FixedValue",
+    "HitNum",
+    "HitRange",
+    "SkillTarget",
+    "SkillBuff"
   ],
   "worldConf": [
     "worldID",
     "ZhName",
     "NeedLv"
   ],
-  "magiccostConf": [
-    "xyd",
-    "tp",
-    "CostID",
-    "CostCount"
+  "indexrewardConf": [
+    "Need",
+    "ZhDes",
+    "Award",
+    "Count"
   ],
-  "heromagicConf": [
-    "ZhName",
-    "World",
-    "chi",
-    "xyd",
-    "Lv",
-    "AddTp",
-    "Add",
+  "weaponbreakConf": [
+    "weaponId",
+    "breakLvl",
+    "breakNeed",
+    "costItem",
+    "costItemNum",
+    "break",
+    "breakNum"
+  ],
+  "dailylotteryeventConf": [
+    "Best",
+    "AwardID",
+    "CountID",
     "Rate"
-  ],
-  "heroattrConf": [
-    "upType_1",
-    "upType_2",
-    "upType_3",
-    "upType_4",
-    "upType_5",
-    "upType_6",
-    "upType_7",
-    "upType_8",
-    "upType_9",
-    "upType_10"
   ]
 }

@@ -1,46 +1,6 @@
 [
   {
     "rewardNum": [
-      3000
-    ],
-    "codeType": 1,
-    "code": "GOLDGIFT",
-    "endTime": 0,
-    "startTime": 1637510401,
-    "rewardId": [
-      1
-    ]
-  },
-  {
-    "rewardNum": [
-      1,
-      1
-    ],
-    "codeType": 1,
-    "code": "BOOSTGIFT",
-    "endTime": 0,
-    "startTime": 1637510401,
-    "rewardId": [
-      101,
-      201
-    ]
-  },
-  {
-    "rewardNum": [
-      200,
-      300
-    ],
-    "codeType": 1,
-    "code": "HAPPYWEEKEND",
-    "endTime": 0,
-    "startTime": 1637510401,
-    "rewardId": [
-      18,
-      2
-    ]
-  },
-  {
-    "rewardNum": [
       100,
       600
     ],
@@ -97,6 +57,18 @@
     ],
     "codeType": 1,
     "code": "NEWHERO",
+    "endTime": 0,
+    "startTime": 1637510401,
+    "rewardId": [
+      2
+    ]
+  },
+  {
+    "rewardNum": [
+      600
+    ],
+    "codeType": 1,
+    "code": "GUILDUPDATE",
     "endTime": 0,
     "startTime": 1637510401,
     "rewardId": [

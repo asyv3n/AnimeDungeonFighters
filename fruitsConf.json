@@ -16,15 +16,15 @@
     "nor_rate": "100"
   },
   "8005": {
-    "ZhName": "果实5",
-    "nor_rate": "100"
+    "ZhName": "Buddha Fruit",
+    "nor_rate": "600"
   },
   "8006": {
-    "ZhName": "果实6",
+    "ZhName": "Sand Fruit",
     "nor_rate": "100"
   },
   "8007": {
     "ZhName": "solo",
-    "nor_rate": "800"
+    "nor_rate": "300"
   }
 }

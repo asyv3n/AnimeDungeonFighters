@@ -561,9 +561,9 @@
     "des": "大佛果实"
   },
   "14080003": {
-    "ScriptName": "大佛果实-大佛重击",
+    "ScriptName": "大佛果实-泰山压顶",
     "tp": 14,
-    "ZhName": "Buddha Thump",
+    "ZhName": "Buddha Slam",
     "Range": 10,
     "EffectTarget": 1,
     "xyd": 1,
@@ -572,9 +572,9 @@
     "des": "大佛果实"
   },
   "14080004": {
-    "ScriptName": "大佛果实-佛光迸射",
+    "ScriptName": "大佛果实-千手",
     "tp": 14,
-    "ZhName": "Buddha Explosion",
+    "ZhName": "Buddha Hands",
     "Range": 10,
     "EffectTarget": 1,
     "xyd": 1,

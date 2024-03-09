@@ -24,7 +24,7 @@
   {
     "ZhName": "Health",
     "Tips": "最大血量",
-    "PvpValue": 8000,
+    "PvpValue": 16000,
     "isShow": 1,
     "isTips": 1,
     "isPercent": 0,
